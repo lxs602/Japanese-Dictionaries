@@ -1,11 +1,11 @@
 # East-Asian-Dictionaries
 A small collection of East Asian (CJKVT) Dictionaries:
 
-- Wu and Minnan Input Method / Phonetic dictionary
-- Japanese/Korean/Thai/Vietnamese Input Method / Phonetic dictionary
+- <a href=https://github.com/lxs602/East-Asian-Dictionaries#phonetic-and-input-methods-dictionaries>Wu and Minnan Input Method / Phonetic dictionary</a>
+- <a href=https://github.com/lxs602/East-Asian-Dictionaries#phonetic-and-input-methods-dictionaries>Japanese/Korean/Thai/Vietnamese Input Method / Phonetic dictionary<a/>
 - Kanjinetworks - Etymological Dictionary of Han Chinese Characters
-- Unihan character dictionary 統一漢字典
-- CJKVI character decompositions
+- <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries#%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8-unihan-character-dictionary>Unihan character dictionary 統一漢字典</a>
+- <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries#cjkvi-decomposition>CJKVI character decompositions</a>
 
 
 
