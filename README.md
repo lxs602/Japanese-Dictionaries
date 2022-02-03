@@ -7,7 +7,7 @@ A small collection of East Asian (CJKVT) Dictionaries:
 - Unihan character dictionary 統一漢字典
 
 
-
+<br>
 ## Phonetic and Input Methods dictionaries
 <b>Examples:</b><br>
 
