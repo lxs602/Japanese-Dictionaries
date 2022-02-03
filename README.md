@@ -1,5 +1,5 @@
 # East-Asian-Dictionaries
-A collection of East Asian (CJKVI) Dictionaries:
+A collection of East Asian (CJKVT) Dictionaries:
 
 - Wu and Minnan Input Method / Phonetic dictionary
 - Japanese/Korean/Thai/Vietnamese Input Method / Phonetic dictionary
