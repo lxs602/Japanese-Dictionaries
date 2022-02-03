@@ -8,7 +8,7 @@ A small collection of East Asian (CJKVT) Dictionaries:
 
 
 
-# Phonetic and Input Methods dictionaries
+## Phonetic and Input Methods dictionaries
 <b>Examples:</b><br>
 
 Wu and Minnan/Hokkien:<br>
