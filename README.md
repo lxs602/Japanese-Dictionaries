@@ -6,6 +6,7 @@ A small collection of East Asian (CJKVT) Dictionaries:
 - Kanjinetworks - Etymological Dictionary of Han Chinese Characters
 - <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries#%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8-unihan-character-dictionary>Unihan character dictionary 統一漢字典</a>
 - <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries#cjkvi-decomposition>CJKVI character decompositions</a>
+- <a href=https://github.com/lxs602/East-Asian-Dictionaries/blob/main/%E6%97%A5%E6%96%87%E4%BA%BA%E5%90%8D%20Japanese%20names/README.md>日文人名 Japanese names</a>
 
 
 
