@@ -11,7 +11,7 @@ A small collection of East Asian (CJKVT) Dictionaries:
 
 
 
-## Phonetic and Input Methods dictionaries
+## Phonetic / Input Method dictionaries
 <b>Examples:</b><br>
 
 Wu and Minnan/Hokkien:<br>
