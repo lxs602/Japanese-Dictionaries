@@ -1,5 +1,6 @@
 # East-Asian-Dictionaries
-A small collection of East Asian (CJKVT) Dictionaries:
+
+A small collection of free East Asian (CJKVT) Dictionaries, for use with dictionary software such as Goldendict.
 
 - <a href=https://github.com/lxs602/East-Asian-Dictionaries#phonetic-and-input-methods-dictionaries>Wu and Minnan Input Method / Phonetic dictionary</a>
 - <a href=https://github.com/lxs602/East-Asian-Dictionaries#phonetic-and-input-methods-dictionaries>Japanese/Korean/Thai/Vietnamese Input Method / Phonetic dictionary<a/>
