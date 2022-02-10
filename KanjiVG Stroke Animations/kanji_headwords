@@ -1,0 +1,11456 @@
+U+0021	!
+U+002c	,
+U+002e	.
+U+0030	0
+U+0031	1
+U+0032	2
+U+0033	3
+U+0034	4
+U+0035	5
+U+0036	6
+U+0037	7
+U+0038	8
+U+0039	9
+U+003a	:
+U+003b	;
+U+003f	?
+U+0041	A
+U+0042	B
+U+0043	C
+U+0044	D
+U+0045	E
+U+0046	F
+U+0047	G
+U+0048	H
+U+0049	I
+U+004a	J
+U+004b	K
+U+004c	L
+U+004d	M
+U+004e	N
+U+004f	O
+U+0050	P
+U+0051	Q
+U+0052	R
+U+0053	S
+U+0054	T
+U+0055	U
+U+0056	V
+U+0057	W
+U+0058	X
+U+0059	Y
+U+005a	Z
+U+0061	a
+U+0062	b
+U+0063	c
+U+0064	d
+U+0065	e
+U+0066	f
+U+0067	g
+U+0068	h
+U+0069	i
+U+006a	j
+U+006b	k
+U+006c	l
+U+006d	m
+U+006e	n
+U+006f	o
+U+0070	p
+U+0071	q
+U+0072	r
+U+0073	s
+U+0074	t
+U+0075	u
+U+0076	v
+U+0077	w
+U+0078	x
+U+0079	y
+U+007a	z
+U+2008a	𠂊
+U+200a4	𠂤
+U+20b9f	𠮟
+U+26951	𦥑
+U+2e8c	⺌
+U+2e8d	⺍
+U+2e95	⺕
+U+2e97	⺗
+U+2ea1	⺡
+U+2ea4	⺤
+U+2ea6	⺦
+U+2ea8	⺨
+U+2ecc	⻌
+U+2ecf	⻏
+U+2ed6	⻖
+U+3001	、
+U+3002	。
+U+3005	々
+U+3006	〆
+U+3041	ぁ
+U+3042	あ
+U+3043	ぃ
+U+3044	い
+U+3045	ぅ
+U+3046	う
+U+3047	ぇ
+U+3048	え
+U+3049	ぉ
+U+304a	お
+U+304b	か
+U+304c	が
+U+304d	き
+U+304e	ぎ
+U+304f	く
+U+3050	ぐ
+U+3051	け
+U+3052	げ
+U+3053	こ
+U+3054	ご
+U+3055	さ
+U+3056	ざ
+U+3057	し
+U+3058	じ
+U+3059	す
+U+305a	ず
+U+305b	せ
+U+305c	ぜ
+U+305d	そ
+U+305e	ぞ
+U+305f	た
+U+3060	だ
+U+3061	ち
+U+3062	ぢ
+U+3063	っ
+U+3064	つ
+U+3065	づ
+U+3066	て
+U+3067	で
+U+3068	と
+U+3069	ど
+U+306a	な
+U+306b	に
+U+306c	ぬ
+U+306d	ね
+U+306e	の
+U+306f	は
+U+3070	ば
+U+3071	ぱ
+U+3072	ひ
+U+3073	び
+U+3074	ぴ
+U+3075	ふ
+U+3076	ぶ
+U+3077	ぷ
+U+3078	へ
+U+3079	べ
+U+307a	ぺ
+U+307b	ほ
+U+307c	ぼ
+U+307d	ぽ
+U+307e	ま
+U+307f	み
+U+3080	む
+U+3081	め
+U+3082	も
+U+3083	ゃ
+U+3084	や
+U+3085	ゅ
+U+3086	ゆ
+U+3087	ょ
+U+3088	よ
+U+3089	ら
+U+308a	り
+U+308b	る
+U+308c	れ
+U+308d	ろ
+U+308e	ゎ
+U+308f	わ
+U+3090	ゐ
+U+3091	ゑ
+U+3092	を
+U+3093	ん
+U+3094	ゔ
+U+3095	#N/A
+U+3096	#N/A
+U+309b	゛
+U+309c	゜
+U+309d	ゝ
+U+309e	ゞ
+U+30a1	ァ
+U+30a2	ア
+U+30a3	ィ
+U+30a4	イ
+U+30a5	ゥ
+U+30a6	ウ
+U+30a7	ェ
+U+30a8	エ
+U+30a9	ォ
+U+30aa	オ
+U+30ab	カ
+U+30ac	ガ
+U+30ad	キ
+U+30ae	ギ
+U+30af	ク
+U+30b0	グ
+U+30b1	ケ
+U+30b2	ゲ
+U+30b3	コ
+U+30b4	ゴ
+U+30b5	サ
+U+30b6	ザ
+U+30b7	シ
+U+30b8	ジ
+U+30b9	ス
+U+30ba	ズ
+U+30bb	セ
+U+30bc	ゼ
+U+30bd	ソ
+U+30be	ゾ
+U+30bf	タ
+U+30c0	ダ
+U+30c1	チ
+U+30c2	ヂ
+U+30c3	ッ
+U+30c4	ツ
+U+30c5	ヅ
+U+30c6	テ
+U+30c7	デ
+U+30c8	ト
+U+30c9	ド
+U+30ca	ナ
+U+30cb	ニ
+U+30cc	ヌ
+U+30cd	ネ
+U+30ce	ノ
+U+30cf	ハ
+U+30d0	バ
+U+30d1	パ
+U+30d2	ヒ
+U+30d3	ビ
+U+30d4	ピ
+U+30d5	フ
+U+30d6	ブ
+U+30d7	プ
+U+30d8	ヘ
+U+30d9	ベ
+U+30da	ペ
+U+30db	ホ
+U+30dc	ボ
+U+30dd	ポ
+U+30de	マ
+U+30df	ミ
+U+30e0	ム
+U+30e1	メ
+U+30e2	モ
+U+30e3	ャ
+U+30e4	ヤ
+U+30e5	ュ
+U+30e6	ユ
+U+30e7	ョ
+U+30e8	ヨ
+U+30e9	ラ
+U+30ea	リ
+U+30eb	ル
+U+30ec	レ
+U+30ed	ロ
+U+30ee	ヮ
+U+30ef	ワ
+U+30f0	ヰ
+U+30f1	ヱ
+U+30f2	ヲ
+U+30f3	ン
+U+30f4	ヴ
+U+30f5	ヵ
+U+30f6	ヶ
+U+30f7	ヷ
+U+30f8	ヸ
+U+30f9	ヹ
+U+30fa	ヺ
+U+30fb	・
+U+30fc	ー
+U+30fd	ヽ
+U+30fe	ヾ
+U+342c	㐬
+U+34c1	㓁
+U+4e00	一
+U+4e01	丁
+U+4e03	七
+U+4e07	万
+U+4e08	丈
+U+4e09	三
+U+4e0a	上
+U+4e0b	下
+U+4e0d	不
+U+4e0e	与
+U+4e10	丐
+U+4e11	丑
+且-Kaisho	U+4e14	且
+U+4e14	且
+U+4e15	丕
+U+4e16	世
+U+4e17	丗
+U+4e18	丘
+U+4e19	丙
+U+4e1e	丞
+U+4e21	両
+U+4e26	並
+U+4e28	丨
+U+4e2a	个
+U+4e2d	中
+U+4e31	丱
+U+4e32	串
+U+4e36	丶
+U+4e38	丸
+U+4e39	丹
+U+4e3b	主
+主-VtLst	U+4e3b	主
+U+4e3c	丼
+U+4e3f	丿
+U+4e42	乂
+U+4e43	乃
+U+4e45	久
+之-Kaisho	U+4e4b	之
+U+4e4b	之
+U+4e4d	乍
+U+4e4e	乎
+U+4e4f	乏
+U+4e55	乕
+U+4e56	乖
+乗-Kaisho	U+4e57	乗
+U+4e57	乗
+乘-Kaisho	U+4e58	乘
+U+4e58	乘
+U+4e59	乙
+U+4e5d	九
+U+4e5e	乞
+U+4e5f	也
+U+4e62	乢
+U+4e71	乱
+U+4e73	乳
+乾-Kaisho	U+4e7e	乾
+U+4e7e	乾
+亀-Kaisho	U+4e80	亀
+U+4e80	亀
+U+4e82	亂
+U+4e85	亅
+U+4e86	了
+U+4e88	予
+U+4e89	争
+U+4e8a	亊
+U+4e8b	事
+U+4e8c	二
+U+4e8e	于
+U+4e91	云
+U+4e92	互
+U+4e94	五
+U+4e95	井
+亘-Kaisho	U+4e98	亘
+U+4e98	亘
+U+4e99	亙
+些-HzFst	U+4e9b	些
+U+4e9b	些
+U+4e9c	亜
+U+4e9e	亞
+U+4e9f	亟
+亠-Kaisho	U+4ea0	亠
+U+4ea0	亠
+亡-Kaisho	U+4ea1	亡
+U+4ea1	亡
+亢-Kaisho	U+4ea2	亢
+U+4ea2	亢
+U+4ea4	交
+亥-Kaisho	U+4ea5	亥
+U+4ea5	亥
+亦-Kaisho	U+4ea6	亦
+U+4ea6	亦
+亨-Kaisho	U+4ea8	亨
+U+4ea8	亨
+享-Kaisho	U+4eab	享
+U+4eab	享
+京-Kaisho	U+4eac	京
+U+4eac	京
+亭-Kaisho	U+4ead	亭
+U+4ead	亭
+亮-Kaisho	U+4eae	亮
+U+4eae	亮
+亰-Kaisho	U+4eb0	亰
+U+4eb0	亰
+亳-Kaisho	U+4eb3	亳
+U+4eb3	亳
+亶-Kaisho	U+4eb6	亶
+U+4eb6	亶
+U+4eba	人
+U+4ebb	亻
+U+4ec0	什
+U+4ec1	仁
+U+4ec2	仂
+U+4ec4	仄
+U+4ec6	仆
+U+4ec7	仇
+U+4eca	今
+U+4ecb	介
+U+4ecd	仍
+U+4ece	从
+U+4ecf	仏
+U+4ed4	仔
+U+4ed5	仕
+U+4ed6	他
+U+4ed7	仗
+U+4ed8	付
+U+4ed9	仙
+U+4ede	仞
+U+4edf	仟
+U+4ee3	代
+令-Insatsu	U+4ee4	令
+U+4ee4	令
+U+4ee5	以
+U+4eed	仭
+U+4eee	仮
+U+4ef0	仰
+U+4ef2	仲
+U+4ef6	件
+U+4ef7	价
+U+4efb	任
+企-HzFst	U+4f01	企
+U+4f01	企
+伉-Kaisho	U+4f09	伉
+U+4f09	伉
+U+4f0a	伊
+U+4f0d	伍
+U+4f0e	伎
+U+4f0f	伏
+U+4f10	伐
+休-Kaisho	U+4f11	休
+U+4f11	休
+U+4f1a	会
+U+4f1c	伜
+U+4f1d	伝
+伯-Kaisho	U+4f2f	伯
+U+4f2f	伯
+U+4f30	估
+U+4f34	伴
+伶-Insatsu	U+4f36	伶
+U+4f36	伶
+伸-Kaisho	U+4f38	伸
+U+4f38	伸
+U+4f3a	伺
+U+4f3c	似
+U+4f3d	伽
+佃-Kaisho	U+4f43	佃
+U+4f43	佃
+但-Kaisho	U+4f46	但
+U+4f46	但
+佇-Kaisho	U+4f47	佇
+U+4f47	佇
+位-Kaisho	U+4f4d	位
+U+4f4d	位
+U+4f4e	低
+U+4f4f	住
+住-VtLst	U+4f4f	住
+U+4f50	佐
+U+4f51	佑
+U+4f53	体
+U+4f55	何
+佗-Kaisho	U+4f57	佗
+U+4f57	佗
+U+4f59	余
+U+4f5a	佚
+U+4f5b	佛
+U+4f5c	作
+U+4f5d	佝
+U+4f5e	佞
+U+4f69	佩
+U+4f6f	佯
+佰-Kaisho	U+4f70	佰
+U+4f70	佰
+U+4f73	佳
+U+4f75	併
+U+4f76	佶
+佻-MidFst	U+4f7b	佻
+U+4f7b	佻
+佼-Kaisho	U+4f7c	佼
+U+4f7c	佼
+U+4f7f	使
+U+4f83	侃
+來-Kaisho	U+4f86	來
+U+4f86	來
+U+4f88	侈
+U+4f8b	例
+U+4f8d	侍
+侏-Kaisho	U+4f8f	侏
+U+4f8f	侏
+侑-Kaisho	U+4f91	侑
+U+4f91	侑
+侖-Kaisho	U+4f96	侖
+U+4f96	侖
+侘-Kaisho	U+4f98	侘
+U+4f98	侘
+U+4f9b	供
+依-Kaisho	U+4f9d	依
+U+4f9d	依
+U+4fa0	侠
+U+4fa1	価
+侫-Kaisho	U+4fab	侫
+U+4fab	侫
+U+4fad	侭
+U+4fae	侮
+U+4faf	侯
+侵-Kaisho	U+4fb5	侵
+U+4fb5	侵
+U+4fb6	侶
+便-Kaisho	U+4fbf	便
+U+4fbf	便
+係-Kaisho	U+4fc2	係
+U+4fc2	係
+U+4fc3	促
+U+4fc4	俄
+U+4fca	俊
+俎-Kaisho	U+4fce	俎
+U+4fce	俎
+俐-Kaisho	U+4fd0	俐
+U+4fd0	俐
+俑-Kaisho	U+4fd1	俑
+U+4fd1	俑
+俔-Kaisho	U+4fd4	俔
+U+4fd4	俔
+U+4fd7	俗
+U+4fd8	俘
+俚-Kaisho	U+4fda	俚
+俚-KaishoVtLst	U+4fda	俚
+U+4fda	俚
+U+4fdb	俛
+保-Kaisho	U+4fdd	保
+U+4fdd	保
+U+4fdf	俟
+U+4fe1	信
+U+4fe3	俣
+俤-Kaisho	U+4fe4	俤
+U+4fe4	俤
+俥-Kaisho	U+4fe5	俥
+U+4fe5	俥
+U+4fee	修
+俯-Kaisho	U+4fef	俯
+U+4fef	俯
+俳-MdFst	U+4ff3	俳
+U+4ff3	俳
+俵-HzLst	U+4ff5	俵
+U+4ff5	俵
+俶-HzFst	U+4ff6	俶
+U+4ff6	俶
+U+4ff8	俸
+俺-Kaisho	U+4ffa	俺
+U+4ffa	俺
+俾-Kaisho	U+4ffe	俾
+U+4ffe	俾
+倅-Kaisho	U+5005	倅
+U+5005	倅
+U+5006	倆
+U+5009	倉
+U+500b	個
+倍-Kaisho	U+500d	倍
+U+500d	倍
+U+500f	倏
+們-Kaisho	U+5011	們
+U+5011	們
+U+5012	倒
+倒-VtFst	U+5012	倒
+U+5014	倔
+U+5016	倖
+U+5019	候
+U+501a	倚
+借-Kaisho	U+501f	借
+U+501f	借
+倡-Kaisho	U+5021	倡
+U+5021	倡
+倣-Kaisho	U+5023	倣
+U+5023	倣
+値-Kaisho	U+5024	値
+U+5024	値
+倥-Kaisho	U+5025	倥
+U+5025	倥
+倦-Hyougai	U+5026	倦
+U+5026	倦
+U+5028	倨
+U+5029	倩
+倩-VtLst	U+5029	倩
+倪-HzFst	U+502a	倪
+U+502a	倪
+倫-Kaisho	U+502b	倫
+U+502b	倫
+倬-KaishoHzFst	U+502c	倬
+倬-Kaisho	U+502c	倬
+U+502c	倬
+U+502d	倭
+倶-JinmeiKaisho	U+5036	倶
+倶-Jinmei	U+5036	倶
+倶-Kaisho	U+5036	倶
+U+5036	倶
+U+5039	倹
+偃-Kaisho	U+5043	偃
+U+5043	偃
+U+5047	假
+偈-Kaisho	U+5048	偈
+U+5048	偈
+U+5049	偉
+偏-Kaisho	U+504f	偏
+U+504f	偏
+偐-Kaisho	U+5050	偐
+U+5050	偐
+偕-Kaisho	U+5055	偕
+U+5055	偕
+偖-Kaisho	U+5056	偖
+U+5056	偖
+U+505a	做
+停-Kaisho	U+505c	停
+U+505c	停
+U+5065	健
+U+506c	偬
+偲-Kaisho	U+5072	偲
+U+5072	偲
+側-Kaisho	U+5074	側
+U+5074	側
+偵-KaishoHzFst	U+5075	偵
+偵-Kaisho	U+5075	偵
+U+5075	偵
+偶-Kaisho	U+5076	偶
+U+5076	偶
+U+5078	偸
+U+507d	偽
+傀-Kaisho	U+5080	傀
+U+5080	傀
+傅-Kaisho	U+5085	傅
+U+5085	傅
+傍-Kaisho	U+508d	傍
+U+508d	傍
+傑-Kaisho	U+5091	傑
+U+5091	傑
+U+5098	傘
+備-Kaisho	U+5099	備
+U+5099	備
+傚-Kaisho	U+509a	傚
+U+509a	傚
+U+50ac	催
+傭-Kaisho	U+50ad	傭
+U+50ad	傭
+傲-Kaisho	U+50b2	傲
+U+50b2	傲
+U+50b3	傳
+U+50b4	傴
+債-Kaisho	U+50b5	債
+債-KaishoVtLst	U+50b5	債
+U+50b5	債
+傷-Kaisho	U+50b7	傷
+U+50b7	傷
+傾-Kaisho	U+50be	傾
+U+50be	傾
+U+50c2	僂
+僅-Hyougai	U+50c5	僅
+僅-Jinmei	U+50c5	僅
+U+50c5	僅
+U+50c9	僉
+U+50ca	僊
+働-Kaisho	U+50cd	働
+働-KaishoVtLst	U+50cd	働
+U+50cd	働
+U+50cf	像
+U+50d1	僑
+U+50d5	僕
+U+50d6	僖
+僚-Kaisho	U+50da	僚
+U+50da	僚
+U+50de	僞
+僣-Kaisho	U+50e3	僣
+U+50e3	僣
+U+50e5	僥
+僧-Kaisho	U+50e7	僧
+U+50e7	僧
+僭-Kaisho	U+50ed	僭
+U+50ed	僭
+僮-Kaisho	U+50ee	僮
+僮-KaishoVtLst	U+50ee	僮
+U+50ee	僮
+僵-Kaisho	U+50f5	僵
+U+50f5	僵
+價-Kaisho	U+50f9	價
+U+50f9	價
+僻-Kaisho	U+50fb	僻
+U+50fb	僻
+U+5100	儀
+U+5101	儁
+儂-Kaisho	U+5102	儂
+儂-KaishoVtLst	U+5102	儂
+U+5102	儂
+億-Kaisho	U+5104	億
+U+5104	億
+U+5109	儉
+U+5112	儒
+U+5114	儔
+儕-Kaisho	U+5115	儕
+儕-KaishoVt12	U+5115	儕
+U+5115	儕
+儖-HzFst	U+5116	儖
+U+5116	儖
+U+5118	儘
+儘-VtLst	U+5118	儘
+U+511a	儚
+償-Kaisho	U+511f	償
+U+511f	償
+儡-Kaisho	U+5121	儡
+U+5121	儡
+優-Kaisho	U+512a	優
+U+512a	優
+儲-HyougaiKaisho	U+5132	儲
+儲-Hyougai	U+5132	儲
+儲-Kaisho	U+5132	儲
+U+5132	儲
+儷-Kaisho	U+5137	儷
+U+5137	儷
+U+513a	儺
+U+513b	儻
+儻-VtLst	U+513b	儻
+儼-Kaisho	U+513c	儼
+儼-KaishoVt3	U+513c	儼
+U+513c	儼
+U+513f	儿
+U+5140	兀
+U+5141	允
+U+5143	元
+U+5144	兄
+充-Kaisho	U+5145	充
+U+5145	充
+兆-MidFst	U+5146	兆
+U+5146	兆
+U+5147	兇
+U+5148	先
+U+5149	光
+U+514b	克
+U+514c	兌
+U+514d	免
+兎-Hyougai	U+514e	兎
+兎-Jinmei	U+514e	兎
+U+514e	兎
+児-Kaisho	U+5150	児
+U+5150	児
+兒-HzFst	U+5152	兒
+U+5152	兒
+U+5154	兔
+U+515a	党
+兜-Kaisho	U+515c	兜
+U+515c	兜
+U+5162	兢
+U+5165	入
+U+5168	全
+全-VtLst	U+5168	全
+U+5169	兩
+U+516a	兪
+U+516b	八
+U+516c	公
+六-Kaisho	U+516d	六
+U+516d	六
+U+516e	兮
+U+5171	共
+U+5173	关
+U+5175	兵
+其-Kaisho	U+5176	其
+U+5176	其
+具-Kaisho	U+5177	具
+U+5177	具
+典-Kaisho	U+5178	典
+典-KaishoVtLst	U+5178	典
+U+5178	典
+U+517c	兼
+冀-Kaisho	U+5180	冀
+U+5180	冀
+U+5182	冂
+U+5185	内
+U+5186	円
+U+5189	冉
+U+518a	冊
+U+518c	册
+U+518d	再
+U+518f	冏
+冐-Kaisho	U+5190	冐
+U+5190	冐
+冑-Kaisho	U+5191	冑
+冑-KaishoVtLst	U+5191	冑
+U+5191	冑
+冒-Kaisho	U+5192	冒
+U+5192	冒
+冓-Kaisho	U+5193	冓
+U+5193	冓
+U+5195	冕
+U+5196	冖
+U+5197	冗
+U+5199	写
+U+51a0	冠
+U+51a2	冢
+冤-Hyougai	U+51a4	冤
+U+51a4	冤
+冥-Kaisho	U+51a5	冥
+U+51a5	冥
+U+51a6	冦
+冨-Kaisho	U+51a8	冨
+U+51a8	冨
+冩-HzFst	U+51a9	冩
+U+51a9	冩
+冪-Kaisho	U+51aa	冪
+U+51aa	冪
+U+51ab	冫
+U+51ac	冬
+U+51b0	冰
+U+51b1	冱
+U+51b2	冲
+U+51b3	决
+U+51b4	冴
+U+51b5	况
+U+51b6	冶
+冷-Insatsu	U+51b7	冷
+U+51b7	冷
+U+51bd	冽
+U+51c4	凄
+凄-VtLst	U+51c4	凄
+U+51c5	凅
+U+51c6	准
+凉-Kaisho	U+51c9	凉
+U+51c9	凉
+U+51cb	凋
+U+51cc	凌
+凍-Kaisho	U+51cd	凍
+U+51cd	凍
+U+51d6	凖
+凛-Kaisho	U+51db	凛
+U+51db	凛
+凜-Kaisho	U+51dc	凜
+U+51dc	凜
+凝-Kaisho	U+51dd	凝
+U+51dd	凝
+U+51e0	几
+U+51e1	凡
+U+51e6	処
+U+51e7	凧
+凩-Kaisho	U+51e9	凩
+U+51e9	凩
+凪-HzFst	U+51ea	凪
+U+51ea	凪
+U+51ed	凭
+凰-Kaisho	U+51f0	凰
+凰-KaishoVtLst	U+51f0	凰
+U+51f0	凰
+U+51f1	凱
+U+51f5	凵
+U+51f6	凶
+U+51f8	凸
+U+51f9	凹
+U+51fa	出
+U+51fd	函
+U+51fe	凾
+U+5200	刀
+U+5202	刂
+U+5203	刃
+U+5204	刄
+U+5206	分
+切-Kaisho	U+5207	切
+U+5207	切
+U+5208	刈
+刊-Kaisho	U+520a	刊
+U+520a	刊
+U+520b	刋
+U+520e	刎
+U+5211	刑
+U+5214	刔
+U+5217	列
+U+521d	初
+判-Kaisho	U+5224	判
+U+5224	判
+U+5225	別
+U+5227	刧
+利-Kaisho	U+5229	利
+U+5229	利
+U+522a	刪
+U+522e	刮
+U+5230	到
+到-VtFst	U+5230	到
+U+5233	刳
+U+5236	制
+U+5237	刷
+U+5238	券
+刹-Kaisho	U+5239	刹
+U+5239	刹
+刺-Kaisho	U+523a	刺
+U+523a	刺
+刻-Kaisho	U+523b	刻
+U+523b	刻
+剃-Kaisho	U+5243	剃
+U+5243	剃
+U+5244	剄
+則-Kaisho	U+5247	則
+U+5247	則
+削-Kaisho	U+524a	削
+U+524a	削
+U+524b	剋
+剌-Kaisho	U+524c	剌
+U+524c	剌
+前-Kaisho	U+524d	前
+U+524d	前
+U+524f	剏
+剔-Kaisho	U+5254	剔
+U+5254	剔
+剖-Kaisho	U+5256	剖
+U+5256	剖
+U+525b	剛
+U+525d	剝
+U+525e	剞
+U+5263	剣
+剤-Kaisho	U+5264	剤
+剤-KaishoVt6	U+5264	剤
+U+5264	剤
+剥-Jinmei	U+5265	剥
+剥-Kaisho	U+5265	剥
+U+5265	剥
+剩-Kaisho	U+5269	剩
+U+5269	剩
+U+526a	剪
+副-Kaisho	U+526f	副
+U+526f	副
+剰-Kaisho	U+5270	剰
+U+5270	剰
+U+5271	剱
+割-Kaisho	U+5272	割
+割-KaishoVtLst	U+5272	割
+U+5272	割
+U+5273	剳
+U+5274	剴
+U+5275	創
+U+527d	剽
+剿-Kaisho	U+527f	剿
+U+527f	剿
+劃-Kaisho	U+5283	劃
+U+5283	劃
+劇-HzFstLeRi	U+5287	劇
+劇-HzFstRiLe	U+5287	劇
+U+5287	劇
+劇-VtFstRiLe	U+5287	劇
+劈-Kaisho	U+5288	劈
+U+5288	劈
+U+5289	劉
+U+528d	劍
+劑-Kaisho	U+5291	劑
+劑-KaishoVt12	U+5291	劑
+U+5291	劑
+U+5292	劒
+U+5294	劔
+U+529b	力
+U+529f	功
+U+52a0	加
+U+52a3	劣
+助-Kaisho	U+52a9	助
+U+52a9	助
+U+52aa	努
+U+52ab	劫
+U+52ac	劬
+U+52ad	劭
+U+52b1	励
+U+52b4	労
+U+52b5	劵
+効-Kaisho	U+52b9	効
+U+52b9	効
+U+52bc	劼
+劾-Kaisho	U+52be	劾
+U+52be	劾
+U+52c1	勁
+U+52c3	勃
+勅-Kaisho	U+52c5	勅
+U+52c5	勅
+勇-Kaisho	U+52c7	勇
+U+52c7	勇
+U+52c9	勉
+勍-Kaisho	U+52cd	勍
+U+52cd	勍
+U+52d2	勒
+動-Kaisho	U+52d5	動
+動-KaishoVtLst	U+52d5	動
+U+52d5	動
+勗-Kaisho	U+52d7	勗
+U+52d7	勗
+勘-Kaisho	U+52d8	勘
+U+52d8	勘
+U+52d9	務
+勝-Kaisho	U+52dd	勝
+U+52dd	勝
+U+52de	勞
+募-Kaisho	U+52df	募
+U+52df	募
+U+52e0	勠
+U+52e2	勢
+勣-Kaisho	U+52e3	勣
+勣-KaishoVtLst	U+52e3	勣
+U+52e3	勣
+U+52e4	勤
+勤-VtLst	U+52e4	勤
+勦-Kaisho	U+52e6	勦
+U+52e6	勦
+U+52e7	勧
+勲-Kaisho	U+52f2	勲
+勲-KaishoVtLst	U+52f2	勲
+U+52f2	勲
+U+52f3	勳
+勳-VtLst	U+52f3	勳
+勵-Kaisho	U+52f5	勵
+U+52f5	勵
+U+52f8	勸
+U+52f9	勹
+U+52fa	勺
+U+52fe	勾
+U+52ff	勿
+U+5300	匀
+U+5301	匁
+U+5302	匂
+U+5305	包
+U+5306	匆
+U+5308	匈
+匍-Kaisho	U+530d	匍
+U+530d	匍
+U+530f	匏
+匐-Kaisho	U+5310	匐
+U+5310	匐
+U+5315	匕
+U+5316	化
+北-Kaisho	U+5317	北
+U+5317	北
+匙-Kaisho	U+5319	匙
+U+5319	匙
+U+531a	匚
+U+531d	匝
+U+5320	匠
+U+5321	匡
+匡-VtLst	U+5321	匡
+匣-Kaisho	U+5323	匣
+U+5323	匣
+匪-MdFst	U+532a	匪
+U+532a	匪
+U+532f	匯
+匱-Kaisho	U+5331	匱
+U+5331	匱
+U+5333	匳
+U+5338	匸
+U+5339	匹
+U+533a	区
+U+533b	医
+U+533f	匿
+U+5340	區
+U+5341	十
+U+5343	千
+U+5345	卅
+U+5346	卆
+U+5347	升
+U+5348	午
+U+5349	卉
+U+534a	半
+U+534d	卍
+卑-Kaisho	U+5351	卑
+U+5351	卑
+卒-Kaisho	U+5352	卒
+U+5352	卒
+卓-KaishoHzFst	U+5353	卓
+卓-Kaisho	U+5353	卓
+U+5353	卓
+U+5354	協
+U+5357	南
+単-Kaisho	U+5358	単
+U+5358	単
+博-Kaisho	U+535a	博
+U+535a	博
+U+535c	卜
+卞-Kaisho	U+535e	卞
+U+535e	卞
+占-HzFst	U+5360	占
+U+5360	占
+U+5366	卦
+U+5369	卩
+U+536e	卮
+U+536f	卯
+U+5370	印
+U+5371	危
+即-Kaisho	U+5373	即
+U+5373	即
+U+5374	却
+U+5375	卵
+卵-TenLst	U+5375	卵
+U+5377	卷
+U+5378	卸
+U+537b	卻
+卿-HyougaiKaisho	U+537f	卿
+卿-Hyougai	U+537f	卿
+卿-Kaisho	U+537f	卿
+U+537f	卿
+U+5382	厂
+U+5384	厄
+U+5396	厖
+厘-Kaisho	U+5398	厘
+厘-KaishoVtLst	U+5398	厘
+U+5398	厘
+厚-Kaisho	U+539a	厚
+U+539a	厚
+原-Kaisho	U+539f	原
+U+539f	原
+厠-Kaisho	U+53a0	厠
+U+53a0	厠
+U+53a5	厥
+厦-Kaisho	U+53a6	厦
+U+53a6	厦
+U+53a8	厨
+厩-HyougaiKaisho	U+53a9	厩
+厩-Hyougai	U+53a9	厩
+U+53a9	厩
+厭-Kaisho	U+53ad	厭
+U+53ad	厭
+厮-Kaisho	U+53ae	厮
+U+53ae	厮
+U+53b0	厰
+厳-Kaisho	U+53b3	厳
+厳-KaishoVt3	U+53b3	厳
+U+53b3	厳
+U+53b6	厶
+U+53bb	去
+U+53c2	参
+U+53c3	參
+U+53c8	又
+叉-Jinmei	U+53c9	叉
+U+53c9	叉
+U+53ca	及
+U+53cb	友
+U+53cc	双
+U+53cd	反
+U+53ce	収
+叔-HzFst	U+53d4	叔
+U+53d4	叔
+取-Kaisho	U+53d6	取
+取-KaishoVt3	U+53d6	取
+U+53d6	取
+U+53d7	受
+U+53d9	叙
+叛-Hyougai	U+53db	叛
+U+53db	叛
+叟-Hyougai	U+53df	叟
+U+53df	叟
+叟-VtLst	U+53df	叟
+叡-Kaisho	U+53e1	叡
+U+53e1	叡
+叢-Kaisho	U+53e2	叢
+叢-KaishoVt3	U+53e2	叢
+U+53e2	叢
+U+53e3	口
+U+53e4	古
+U+53e5	句
+U+53e8	叨
+U+53e9	叩
+U+53ea	只
+U+53eb	叫
+U+53ec	召
+U+53ed	叭
+U+53ee	叮
+U+53ef	可
+U+53f0	台
+U+53f1	叱
+U+53f2	史
+U+53f3	右
+U+53f6	叶
+U+53f7	号
+U+53f8	司
+U+53fa	叺
+U+5401	吁
+U+5403	吃
+U+5404	各
+U+5408	合
+U+5409	吉
+U+540a	吊
+U+540b	吋
+U+540c	同
+U+540d	名
+U+540e	后
+U+540f	吏
+U+5410	吐
+U+5411	向
+U+541b	君
+吝-Kaisho	U+541d	吝
+U+541d	吝
+U+541f	吟
+U+5420	吠
+U+5426	否
+U+5429	吩
+U+542b	含
+U+542c	听
+吭-Kaisho	U+542d	吭
+U+542d	吭
+U+542e	吮
+U+5436	吶
+U+5438	吸
+U+5439	吹
+U+543b	吻
+U+543c	吼
+U+543d	吽
+U+543e	吾
+U+5440	呀
+U+5442	呂
+呆-Kaisho	U+5446	呆
+U+5446	呆
+U+5448	呈
+呈-VtLst	U+5448	呈
+U+5449	呉
+U+544a	告
+U+544e	呎
+呑-Jinmei	U+5451	呑
+U+5451	呑
+呟-Kaisho	U+545f	呟
+U+545f	呟
+U+5468	周
+U+546a	呪
+呰-HzFst	U+5470	呰
+U+5470	呰
+U+5471	呱
+味-Kaisho	U+5473	味
+U+5473	味
+U+5475	呵
+U+5476	呶
+呷-Kaisho	U+5477	呷
+U+5477	呷
+呻-Kaisho	U+547b	呻
+U+547b	呻
+U+547c	呼
+U+547d	命
+咀-Kaisho	U+5480	咀
+U+5480	咀
+U+5484	咄
+U+5486	咆
+U+548b	咋
+和-Kaisho	U+548c	和
+U+548c	和
+U+548e	咎
+U+548f	咏
+U+5490	咐
+U+5492	咒
+U+54a2	咢
+咤-Kaisho	U+54a4	咤
+U+54a4	咤
+U+54a5	咥
+咥-VtFst	U+54a5	咥
+U+54a8	咨
+U+54ab	咫
+咬-HyougaiKaisho	U+54ac	咬
+咬-Hyougai	U+54ac	咬
+U+54ac	咬
+U+54af	咯
+U+54b2	咲
+咳-Kaisho	U+54b3	咳
+U+54b3	咳
+U+54b8	咸
+咼-HzFst	U+54bc	咼
+U+54bc	咼
+U+54bd	咽
+U+54be	咾
+哀-Kaisho	U+54c0	哀
+U+54c0	哀
+U+54c1	品
+U+54c2	哂
+U+54c4	哄
+U+54c7	哇
+U+54c8	哈
+U+54c9	哉
+U+54d8	哘
+U+54e1	員
+U+54e2	哢
+哢-VtLst	U+54e2	哢
+U+54e5	哥
+U+54e6	哦
+哨-HyougaiKaisho	U+54e8	哨
+哨-Hyougai	U+54e8	哨
+哨-Kaisho	U+54e8	哨
+U+54e8	哨
+哩-Kaisho	U+54e9	哩
+哩-KaishoVtLst	U+54e9	哩
+U+54e9	哩
+U+54ed	哭
+U+54ee	哮
+U+54f2	哲
+哺-Kaisho	U+54fa	哺
+U+54fa	哺
+哽-Kaisho	U+54fd	哽
+U+54fd	哽
+唄-Kaisho	U+5504	唄
+U+5504	唄
+U+5506	唆
+U+5507	唇
+U+550f	唏
+唐-KaishoHzLst	U+5510	唐
+唐-Kaisho	U+5510	唐
+唐-KaishoVt5	U+5510	唐
+U+5510	唐
+U+5514	唔
+U+5516	唖
+U+552e	售
+U+552f	唯
+唱-Kaisho	U+5531	唱
+U+5531	唱
+U+5533	唳
+U+5538	唸
+唹-Kaisho	U+5539	唹
+U+5539	唹
+U+553e	唾
+唾-VtLst	U+553e	唾
+U+5540	啀
+U+5544	啄
+啅-KaishoHzFst	U+5545	啅
+啅-Kaisho	U+5545	啅
+U+5545	啅
+商-Kaisho	U+5546	商
+U+5546	商
+啌-Kaisho	U+554c	啌
+U+554c	啌
+問-Kaisho	U+554f	問
+U+554f	問
+U+5553	啓
+U+5556	啖
+啗-HzFst	U+5557	啗
+U+5557	啗
+U+555c	啜
+啝-Kaisho	U+555d	啝
+U+555d	啝
+U+5563	啣
+啻-Kaisho	U+557b	啻
+U+557b	啻
+啼-Kaisho	U+557c	啼
+U+557c	啼
+啾-Kaisho	U+557e	啾
+U+557e	啾
+喀-Kaisho	U+5580	喀
+U+5580	喀
+U+5583	喃
+U+5584	善
+喇-Kaisho	U+5587	喇
+U+5587	喇
+U+5589	喉
+U+558a	喊
+喋-Kaisho	U+558b	喋
+U+558b	喋
+U+5598	喘
+U+5599	喙
+U+559a	喚
+U+559c	喜
+喝-Kaisho	U+559d	喝
+U+559d	喝
+喞-Kaisho	U+559e	喞
+U+559e	喞
+喟-Kaisho	U+559f	喟
+U+559f	喟
+喧-Kaisho	U+55a7	喧
+U+55a7	喧
+喨-Kaisho	U+55a8	喨
+U+55a8	喨
+U+55a9	喩
+U+55aa	喪
+U+55ab	喫
+喫-VtLst	U+55ab	喫
+U+55ac	喬
+單-Kaisho	U+55ae	單
+U+55ae	單
+喰-HyougaiKaisho	U+55b0	喰
+喰-Hyougai	U+55b0	喰
+U+55b0	喰
+U+55b6	営
+U+55bb	喻
+嗄-Kaisho	U+55c4	嗄
+U+55c4	嗄
+嗅-Kaisho	U+55c5	嗅
+U+55c5	嗅
+U+55c7	嗇
+嗔-Kaisho	U+55d4	嗔
+U+55d4	嗔
+U+55da	嗚
+嗜-Kaisho	U+55dc	嗜
+U+55dc	嗜
+U+55df	嗟
+嗣-Kaisho	U+55e3	嗣
+U+55e3	嗣
+U+55e4	嗤
+嗷-Kaisho	U+55f7	嗷
+U+55f7	嗷
+嗹-Kaisho	U+55f9	嗹
+U+55f9	嗹
+嗽-Kaisho	U+55fd	嗽
+U+55fd	嗽
+嗾-Kaisho	U+55fe	嗾
+U+55fe	嗾
+U+5606	嘆
+U+5609	嘉
+U+5614	嘔
+嘖-Kaisho	U+5616	嘖
+嘖-KaishoVtLst	U+5616	嘖
+U+5616	嘖
+嘗-Kaisho	U+5617	嘗
+U+5617	嘗
+嘘-HzFstLeRi	U+5618	嘘
+嘘-HzFstRiLe	U+5618	嘘
+嘘-Jinmei	U+5618	嘘
+U+5618	嘘
+嘘-VtFstRiLe	U+5618	嘘
+嘛-Kaisho	U+561b	嘛
+U+561b	嘛
+U+5629	嘩
+嘯-Kaisho	U+562f	嘯
+嘯-KaishoVt6	U+562f	嘯
+U+562f	嘯
+U+5631	嘱
+嘲-HyougaiKaisho	U+5632	嘲
+嘲-Hyougai	U+5632	嘲
+U+5632	嘲
+U+5634	嘴
+嘶-Kaisho	U+5636	嘶
+U+5636	嘶
+嘸-HzLst	U+5638	嘸
+U+5638	嘸
+噂-HyougaiKaisho	U+5642	噂
+噂-Hyougai	U+5642	噂
+U+5642	噂
+噌-HyougaiKaisho	U+564c	噌
+噌-Hyougai	U+564c	噌
+U+564c	噌
+U+564e	噎
+U+5650	噐
+噛-HzFst	U+565b	噛
+U+565b	噛
+U+5664	噤
+U+5668	器
+噪-Kaisho	U+566a	噪
+U+566a	噪
+噫-Kaisho	U+566b	噫
+U+566b	噫
+U+566c	噬
+噴-Kaisho	U+5674	噴
+U+5674	噴
+噸-Kaisho	U+5678	噸
+U+5678	噸
+噺-Kaisho	U+567a	噺
+U+567a	噺
+嚀-Kaisho	U+5680	嚀
+U+5680	嚀
+嚆-Kaisho	U+5686	嚆
+U+5686	嚆
+U+5687	嚇
+嚊-Kaisho	U+568a	嚊
+U+568a	嚊
+嚏-Kaisho	U+568f	嚏
+U+568f	嚏
+嚔-Kaisho	U+5694	嚔
+U+5694	嚔
+U+56a0	嚠
+U+56a2	嚢
+U+56a5	嚥
+嚮-Kaisho	U+56ae	嚮
+U+56ae	嚮
+嚴-Kaisho	U+56b4	嚴
+嚴-KaishoVt3	U+56b4	嚴
+U+56b4	嚴
+嚶-Kaisho	U+56b6	嚶
+U+56b6	嚶
+嚼-Kaisho	U+56bc	嚼
+U+56bc	嚼
+囀-HyougaiKaisho	U+56c0	囀
+囀-Hyougai	U+56c0	囀
+U+56c0	囀
+囁-Kaisho	U+56c1	囁
+囁-KaishoVt3	U+56c1	囁
+U+56c1	囁
+囂-Kaisho	U+56c2	囂
+U+56c2	囂
+囃-Kaisho	U+56c3	囃
+U+56c3	囃
+U+56c8	囈
+囎-Kaisho	U+56ce	囎
+U+56ce	囎
+U+56d1	囑
+囓-HzFst	U+56d3	囓
+U+56d3	囓
+U+56d7	囗
+U+56d8	囘
+U+56da	囚
+U+56db	四
+U+56de	回
+U+56e0	因
+U+56e3	団
+U+56ee	囮
+困-Kaisho	U+56f0	困
+U+56f0	困
+U+56f2	囲
+U+56f3	図
+囹-Insatsu	U+56f9	囹
+U+56f9	囹
+U+56fa	固
+U+56fd	国
+国-VtLst	U+56fd	国
+囿-Kaisho	U+56ff	囿
+U+56ff	囿
+圀-Kaisho	U+5700	圀
+U+5700	圀
+圃-Kaisho	U+5703	圃
+U+5703	圃
+U+5704	圄
+U+5708	圈
+U+5709	圉
+U+570b	國
+U+570d	圍
+U+570f	圏
+U+5712	園
+U+5713	圓
+圖-Kaisho	U+5716	圖
+U+5716	圖
+U+5718	團
+U+571c	圜
+U+571f	土
+U+5723	圣
+U+5726	圦
+U+5727	圧
+U+5728	在
+U+572d	圭
+U+5730	地
+U+5737	圷
+U+5738	圸
+U+573b	圻
+址-HzFst	U+5740	址
+U+5740	址
+U+5742	坂
+均-Kaisho	U+5747	均
+U+5747	均
+坊-Kaisho	U+574a	坊
+U+574a	坊
+U+574e	坎
+U+574f	坏
+U+5750	坐
+坐-VtLst	U+5750	坐
+坑-Kaisho	U+5751	坑
+U+5751	坑
+U+5761	坡
+坤-Kaisho	U+5764	坤
+U+5764	坤
+坦-Kaisho	U+5766	坦
+U+5766	坦
+坩-Kaisho	U+5769	坩
+U+5769	坩
+U+576a	坪
+U+577f	坿
+U+5782	垂
+垂-VtLst	U+5782	垂
+U+5788	垈
+U+5789	垉
+U+578b	型
+垓-Kaisho	U+5793	垓
+U+5793	垓
+垠-Kaisho	U+57a0	垠
+U+57a0	垠
+U+57a2	垢
+垣-Kaisho	U+57a3	垣
+U+57a3	垣
+U+57a4	垤
+垤-VtFst	U+57a4	垤
+U+57aa	垪
+垰-HzFst	U+57b0	垰
+U+57b0	垰
+U+57b3	垳
+U+57c0	埀
+U+57c3	埃
+埆-Kaisho	U+57c6	埆
+U+57c6	埆
+埋-Kaisho	U+57cb	埋
+埋-KaishoVtLst	U+57cb	埋
+U+57cb	埋
+U+57ce	城
+U+57d2	埒
+U+57d3	埓
+埔-Kaisho	U+57d4	埔
+U+57d4	埔
+U+57d6	埖
+U+57dc	埜
+U+57df	域
+U+57e0	埠
+埣-Kaisho	U+57e3	埣
+U+57e3	埣
+埴-Kaisho	U+57f4	埴
+U+57f4	埴
+U+57f6	埶
+U+57f7	執
+培-Kaisho	U+57f9	培
+U+57f9	培
+基-Kaisho	U+57fa	基
+U+57fa	基
+U+57fc	埼
+U+5800	堀
+U+5802	堂
+堅-HzFst	U+5805	堅
+U+5805	堅
+U+5806	堆
+U+580a	堊
+堋-Kaisho	U+580b	堋
+U+580b	堋
+堕-Kaisho	U+5815	堕
+U+5815	堕
+U+5819	堙
+堝-HzFst	U+581d	堝
+U+581d	堝
+堡-Kaisho	U+5821	堡
+U+5821	堡
+堤-Kaisho	U+5824	堤
+U+5824	堤
+堪-Kaisho	U+582a	堪
+U+582a	堪
+U+582f	堯
+堰-Kaisho	U+5830	堰
+U+5830	堰
+U+5831	報
+報-VtFst	U+5831	報
+場-Kaisho	U+5834	場
+U+5834	場
+堵-HyougaiKaisho	U+5835	堵
+堵-Hyougai	U+5835	堵
+堵-Kaisho	U+5835	堵
+U+5835	堵
+堺-Kaisho	U+583a	堺
+U+583a	堺
+堽-HzFst	U+583d	堽
+U+583d	堽
+U+5840	塀
+塁-Kaisho	U+5841	塁
+U+5841	塁
+塊-Kaisho	U+584a	塊
+U+584a	塊
+U+584b	塋
+塑-Kaisho	U+5851	塑
+U+5851	塑
+塒-Kaisho	U+5852	塒
+U+5852	塒
+U+5854	塔
+U+5857	塗
+塘-KaishoHzLst	U+5858	塘
+塘-Kaisho	U+5858	塘
+塘-KaishoVt5	U+5858	塘
+U+5858	塘
+塙-Kaisho	U+5859	塙
+U+5859	塙
+U+585a	塚
+塞-Kaisho	U+585e	塞
+塞-KaishoVtLst	U+585e	塞
+U+585e	塞
+塡-Kaisho	U+5861	塡
+U+5861	塡
+U+5862	塢
+U+5869	塩
+填-Kaisho	U+586b	填
+U+586b	填
+U+5870	塰
+塲-Kaisho	U+5872	塲
+U+5872	塲
+塵-Kaisho	U+5875	塵
+U+5875	塵
+塹-Kaisho	U+5879	塹
+U+5879	塹
+塾-Kaisho	U+587e	塾
+U+587e	塾
+境-Kaisho	U+5883	境
+U+5883	境
+墅-Kaisho	U+5885	墅
+墅-KaishoVtLst	U+5885	墅
+U+5885	墅
+墓-Kaisho	U+5893	墓
+U+5893	墓
+増-Kaisho	U+5897	増
+U+5897	増
+U+589c	墜
+墟-HzFstLeRi	U+589f	墟
+墟-HzFstRiLe	U+589f	墟
+U+589f	墟
+墟-VtFstRiLe	U+589f	墟
+墨-Kaisho	U+58a8	墨
+墨-KaishoVtLst	U+58a8	墨
+U+58a8	墨
+墫-Kaisho	U+58ab	墫
+U+58ab	墫
+墮-Kaisho	U+58ae	墮
+U+58ae	墮
+墳-Kaisho	U+58b3	墳
+U+58b3	墳
+墸-Kaisho	U+58b8	墸
+U+58b8	墸
+墹-Kaisho	U+58b9	墹
+U+58b9	墹
+U+58ba	墺
+U+58bb	墻
+墾-Kaisho	U+58be	墾
+U+58be	墾
+壁-Kaisho	U+58c1	壁
+U+58c1	壁
+壅-Kaisho	U+58c5	壅
+U+58c5	壅
+壇-Kaisho	U+58c7	壇
+U+58c7	壇
+壊-Kaisho	U+58ca	壊
+U+58ca	壊
+壌-Kaisho	U+58cc	壌
+壌-KaishoVtLst	U+58cc	壌
+U+58cc	壌
+U+58d1	壑
+壓-Kaisho	U+58d3	壓
+U+58d3	壓
+壕-Kaisho	U+58d5	壕
+U+58d5	壕
+U+58d7	壗
+壗-VtLst	U+58d7	壗
+壘-Kaisho	U+58d8	壘
+U+58d8	壘
+壙-Kaisho	U+58d9	壙
+壙-KaishoVtLst	U+58d9	壙
+U+58d9	壙
+壜-Kaisho	U+58dc	壜
+U+58dc	壜
+壞-Kaisho	U+58de	壞
+U+58de	壞
+壟-Kaisho	U+58df	壟
+U+58df	壟
+壤-Kaisho	U+58e4	壤
+U+58e4	壤
+U+58e5	壥
+壥-VtLst	U+58e5	壥
+U+58eb	士
+U+58ec	壬
+U+58ee	壮
+U+58ef	壯
+U+58f0	声
+壱-Kaisho	U+58f1	壱
+U+58f1	壱
+U+58f2	売
+U+58f7	壷
+U+58f9	壹
+U+58fa	壺
+壻-Kaisho	U+58fb	壻
+U+58fb	壻
+U+58fc	壼
+U+58fd	壽
+U+5902	夂
+変-Kaisho	U+5909	変
+U+5909	変
+U+590a	夊
+U+590d	复
+夏-Kaisho	U+590f	夏
+U+590f	夏
+夐-Kaisho	U+5910	夐
+U+5910	夐
+U+5915	夕
+U+5916	外
+U+5918	夘
+U+5919	夙
+U+591a	多
+夛-Kaisho	U+591b	夛
+U+591b	夛
+夜-Kaisho	U+591c	夜
+U+591c	夜
+U+5922	夢
+夥-Kaisho	U+5925	夥
+U+5925	夥
+U+5927	大
+天-Kaisho	U+5929	天
+U+5929	天
+U+592a	太
+U+592b	夫
+U+592c	夬
+U+592d	夭
+U+592e	央
+U+5931	失
+U+5932	夲
+U+5937	夷
+U+5938	夸
+U+593e	夾
+奄-Kaisho	U+5944	奄
+U+5944	奄
+U+5947	奇
+U+5948	奈
+U+5949	奉
+U+594e	奎
+U+594f	奏
+U+5950	奐
+U+5951	契
+契-VtLst	U+5951	契
+U+5954	奔
+奕-Kaisho	U+5955	奕
+U+5955	奕
+套-HzFst	U+5957	套
+U+5957	套
+U+5958	奘
+U+595a	奚
+奠-Kaisho	U+5960	奠
+U+5960	奠
+奢-Kaisho	U+5962	奢
+U+5962	奢
+U+5965	奥
+U+5967	奧
+U+5968	奨
+U+5969	奩
+U+596a	奪
+U+596c	奬
+奮-Kaisho	U+596e	奮
+U+596e	奮
+U+5973	女
+U+5974	奴
+U+5978	奸
+U+597d	好
+U+5981	妁
+U+5982	如
+U+5983	妃
+妄-Kaisho	U+5984	妄
+U+5984	妄
+U+598a	妊
+U+598d	妍
+U+5993	妓
+U+5996	妖
+U+5999	妙
+U+599b	妛
+U+599d	妝
+妣-Kaisho	U+59a3	妣
+U+59a3	妣
+U+59a5	妥
+妨-Kaisho	U+59a8	妨
+U+59a8	妨
+U+59ac	妬
+妲-Kaisho	U+59b2	妲
+U+59b2	妲
+妹-Kaisho	U+59b9	妹
+U+59b9	妹
+U+59bb	妻
+妻-VtLst	U+59bb	妻
+妾-Kaisho	U+59be	妾
+U+59be	妾
+U+59c6	姆
+姉-Kaisho	U+59c9	姉
+U+59c9	姉
+U+59cb	始
+姐-Kaisho	U+59d0	姐
+U+59d0	姐
+U+59d1	姑
+U+59d3	姓
+姓-VtLst	U+59d3	姓
+委-Kaisho	U+59d4	委
+U+59d4	委
+U+59d9	姙
+姚-MidFst	U+59da	姚
+U+59da	姚
+U+59dc	姜
+U+59e5	姥
+U+59e6	姦
+U+59e8	姨
+U+59ea	姪
+姪-VtFst	U+59ea	姪
+姫-HzFst	U+59eb	姫
+U+59eb	姫
+U+59f6	姶
+U+59fb	姻
+姿-Kaisho	U+59ff	姿
+U+59ff	姿
+U+5a01	威
+U+5a03	娃
+娉-Kaisho	U+5a09	娉
+娉-KaishoVtLst	U+5a09	娉
+U+5a09	娉
+U+5a11	娑
+娘-Kaisho	U+5a18	娘
+U+5a18	娘
+娚-Kaisho	U+5a1a	娚
+U+5a1a	娚
+U+5a1c	娜
+娟-Kaisho	U+5a1f	娟
+U+5a1f	娟
+U+5a20	娠
+U+5a25	娥
+娩-Hyougai	U+5a29	娩
+娩-Jinmei	U+5a29	娩
+U+5a29	娩
+U+5a2f	娯
+娵-Kaisho	U+5a35	娵
+娵-KaishoVt3	U+5a35	娵
+U+5a35	娵
+娶-Kaisho	U+5a36	娶
+娶-KaishoVt3	U+5a36	娶
+U+5a36	娶
+娼-Kaisho	U+5a3c	娼
+U+5a3c	娼
+U+5a40	婀
+U+5a41	婁
+U+5a46	婆
+婉-Kaisho	U+5a49	婉
+U+5a49	婉
+婚-Kaisho	U+5a5a	婚
+U+5a5a	婚
+婢-Kaisho	U+5a62	婢
+U+5a62	婢
+婦-Kaisho	U+5a66	婦
+U+5a66	婦
+U+5a6a	婪
+U+5a6c	婬
+婿-Kaisho	U+5a7f	婿
+U+5a7f	婿
+媒-Kaisho	U+5a92	媒
+U+5a92	媒
+媚-Kaisho	U+5a9a	媚
+U+5a9a	媚
+U+5a9b	媛
+U+5abc	媼
+U+5abd	媽
+媽-Vt6	U+5abd	媽
+媾-Kaisho	U+5abe	媾
+U+5abe	媾
+嫁-Kaisho	U+5ac1	嫁
+U+5ac1	嫁
+嫂-MdFst	U+5ac2	嫂
+U+5ac2	嫂
+嫉-Kaisho	U+5ac9	嫉
+U+5ac9	嫉
+U+5acb	嫋
+U+5acc	嫌
+嫐-Kaisho	U+5ad0	嫐
+U+5ad0	嫐
+U+5ad6	嫖
+U+5ad7	嫗
+嫡-Kaisho	U+5ae1	嫡
+U+5ae1	嫡
+嫣-HzFst	U+5ae3	嫣
+U+5ae3	嫣
+U+5ae6	嫦
+嫩-Kaisho	U+5ae9	嫩
+U+5ae9	嫩
+嫺-Kaisho	U+5afa	嫺
+U+5afa	嫺
+嫻-Kaisho	U+5afb	嫻
+U+5afb	嫻
+U+5b09	嬉
+嬋-Kaisho	U+5b0b	嬋
+U+5b0b	嬋
+U+5b0c	嬌
+嬖-Kaisho	U+5b16	嬖
+U+5b16	嬖
+嬢-Kaisho	U+5b22	嬢
+嬢-KaishoVtLst	U+5b22	嬢
+U+5b22	嬢
+嬪-Kaisho	U+5b2a	嬪
+U+5b2a	嬪
+U+5b2c	嬬
+嬰-Kaisho	U+5b30	嬰
+U+5b30	嬰
+嬲-Kaisho	U+5b32	嬲
+U+5b32	嬲
+嬶-Kaisho	U+5b36	嬶
+U+5b36	嬶
+嬾-Kaisho	U+5b3e	嬾
+U+5b3e	嬾
+孀-Kaisho	U+5b40	孀
+U+5b40	孀
+孃-Kaisho	U+5b43	孃
+孃-KaishoVtLst	U+5b43	孃
+U+5b43	孃
+U+5b45	孅
+U+5b50	子
+U+5b51	孑
+U+5b54	孔
+U+5b55	孕
+字-Kaisho	U+5b57	字
+U+5b57	字
+U+5b58	存
+U+5b5a	孚
+U+5b5b	孛
+U+5b5c	孜
+U+5b5d	孝
+U+5b5f	孟
+季-Kaisho	U+5b63	季
+U+5b63	季
+U+5b64	孤
+U+5b65	孥
+U+5b66	学
+孩-Kaisho	U+5b69	孩
+U+5b69	孩
+孫-Kaisho	U+5b6b	孫
+U+5b6b	孫
+孰-Kaisho	U+5b70	孰
+U+5b70	孰
+U+5b71	孱
+U+5b73	孳
+U+5b75	孵
+孵-TenLst	U+5b75	孵
+學-LeFst	U+5b78	學
+U+5b78	學
+U+5b7a	孺
+宀-Kaisho	U+5b80	宀
+U+5b80	宀
+它-Kaisho	U+5b83	它
+U+5b83	它
+宅-Kaisho	U+5b85	宅
+U+5b85	宅
+宇-Kaisho	U+5b87	宇
+U+5b87	宇
+守-Kaisho	U+5b88	守
+U+5b88	守
+安-Kaisho	U+5b89	安
+U+5b89	安
+宋-Kaisho	U+5b8b	宋
+U+5b8b	宋
+完-Kaisho	U+5b8c	完
+U+5b8c	完
+宍-Kaisho	U+5b8d	宍
+U+5b8d	宍
+宏-Kaisho	U+5b8f	宏
+U+5b8f	宏
+宕-Kaisho	U+5b95	宕
+U+5b95	宕
+宗-Kaisho	U+5b97	宗
+U+5b97	宗
+官-Kaisho	U+5b98	官
+U+5b98	官
+宙-Kaisho	U+5b99	宙
+宙-KaishoVtLst	U+5b99	宙
+U+5b99	宙
+定-Kaisho	U+5b9a	定
+U+5b9a	定
+宛-Kaisho	U+5b9b	宛
+U+5b9b	宛
+宜-Kaisho	U+5b9c	宜
+U+5b9c	宜
+宝-Kaisho	U+5b9d	宝
+宝-KaishoVtLst	U+5b9d	宝
+U+5b9d	宝
+実-Kaisho	U+5b9f	実
+U+5b9f	実
+客-Kaisho	U+5ba2	客
+U+5ba2	客
+宣-Kaisho	U+5ba3	宣
+U+5ba3	宣
+室-Kaisho	U+5ba4	室
+室-KaishoVtFst	U+5ba4	室
+U+5ba4	室
+宥-Kaisho	U+5ba5	宥
+U+5ba5	宥
+宦-KaishoHzFst	U+5ba6	宦
+宦-Kaisho	U+5ba6	宦
+U+5ba6	宦
+宮-Kaisho	U+5bae	宮
+U+5bae	宮
+宰-Kaisho	U+5bb0	宰
+U+5bb0	宰
+害-Kaisho	U+5bb3	害
+害-KaishoVtLst	U+5bb3	害
+U+5bb3	害
+宴-Kaisho	U+5bb4	宴
+U+5bb4	宴
+宵-Kaisho	U+5bb5	宵
+U+5bb5	宵
+家-Kaisho	U+5bb6	家
+U+5bb6	家
+宸-Kaisho	U+5bb8	宸
+U+5bb8	宸
+容-Kaisho	U+5bb9	容
+U+5bb9	容
+宿-Kaisho	U+5bbf	宿
+U+5bbf	宿
+寂-KaishoHzFst	U+5bc2	寂
+寂-Kaisho	U+5bc2	寂
+U+5bc2	寂
+寃-Kaisho	U+5bc3	寃
+U+5bc3	寃
+寄-Kaisho	U+5bc4	寄
+U+5bc4	寄
+寅-Kaisho	U+5bc5	寅
+寅-KaishoVtLst	U+5bc5	寅
+U+5bc5	寅
+密-Kaisho	U+5bc6	密
+密-KaishoTen3	U+5bc6	密
+U+5bc6	密
+寇-Kaisho	U+5bc7	寇
+U+5bc7	寇
+寉-Kaisho	U+5bc9	寉
+U+5bc9	寉
+富-Kaisho	U+5bcc	富
+U+5bcc	富
+寐-Kaisho	U+5bd0	寐
+U+5bd0	寐
+寒-Kaisho	U+5bd2	寒
+寒-KaishoVtLst	U+5bd2	寒
+U+5bd2	寒
+寓-Kaisho	U+5bd3	寓
+U+5bd3	寓
+寔-Kaisho	U+5bd4	寔
+U+5bd4	寔
+寛-Kaisho	U+5bdb	寛
+U+5bdb	寛
+寝-Kaisho	U+5bdd	寝
+U+5bdd	寝
+寞-Kaisho	U+5bde	寞
+U+5bde	寞
+察-Kaisho	U+5bdf	察
+U+5bdf	察
+寡-Kaisho	U+5be1	寡
+U+5be1	寡
+寢-Kaisho	U+5be2	寢
+U+5be2	寢
+寤-Kaisho	U+5be4	寤
+U+5be4	寤
+寥-Kaisho	U+5be5	寥
+U+5be5	寥
+實-Kaisho	U+5be6	實
+U+5be6	實
+寧-Kaisho	U+5be7	寧
+U+5be7	寧
+寨-Kaisho	U+5be8	寨
+寨-KaishoVtLst	U+5be8	寨
+U+5be8	寨
+審-Kaisho	U+5be9	審
+U+5be9	審
+寫-KaishoHzFst	U+5beb	寫
+寫-Kaisho	U+5beb	寫
+U+5beb	寫
+寮-Kaisho	U+5bee	寮
+U+5bee	寮
+寰-Kaisho	U+5bf0	寰
+U+5bf0	寰
+寳-Kaisho	U+5bf3	寳
+寳-KaishoVtLst	U+5bf3	寳
+U+5bf3	寳
+寵-Kaisho	U+5bf5	寵
+U+5bf5	寵
+寶-Kaisho	U+5bf6	寶
+寶-KaishoVtLst	U+5bf6	寶
+U+5bf6	寶
+U+5bf8	寸
+U+5bfa	寺
+対-Kaisho	U+5bfe	対
+U+5bfe	対
+U+5bff	寿
+U+5c01	封
+専-Kaisho	U+5c02	専
+専-KaishoVt4	U+5c02	専
+専-KaishoVtLst	U+5c02	専
+U+5c02	専
+U+5c03	尃
+射-Kaisho	U+5c04	射
+U+5c04	射
+U+5c05	尅
+U+5c06	将
+U+5c07	將
+U+5c08	專
+U+5c09	尉
+尊-Kaisho	U+5c0a	尊
+U+5c0a	尊
+尋-Kaisho	U+5c0b	尋
+U+5c0b	尋
+U+5c0d	對
+對-VtLst	U+5c0d	對
+導-Kaisho	U+5c0e	導
+U+5c0e	導
+U+5c0f	小
+U+5c11	少
+U+5c13	尓
+U+5c16	尖
+U+5c1a	尚
+尠-Kaisho	U+5c20	尠
+U+5c20	尠
+U+5c22	尢
+U+5c24	尤
+U+5c28	尨
+U+5c2d	尭
+就-Kaisho	U+5c31	就
+U+5c31	就
+U+5c38	尸
+U+5c39	尹
+U+5c3a	尺
+U+5c3b	尻
+U+5c3c	尼
+U+5c3d	尽
+U+5c3e	尾
+U+5c3f	尿
+U+5c40	局
+屁-Kaisho	U+5c41	屁
+U+5c41	屁
+U+5c45	居
+U+5c46	屆
+U+5c48	屈
+届-Kaisho	U+5c4a	届
+届-KaishoVtLst	U+5c4a	届
+U+5c4a	届
+U+5c4b	屋
+屋-VtFst	U+5c4b	屋
+U+5c4d	屍
+屎-Kaisho	U+5c4e	屎
+U+5c4e	屎
+U+5c4f	屏
+U+5c50	屐
+屑-HyougaiKaisho	U+5c51	屑
+屑-Hyougai	U+5c51	屑
+屑-Kaisho	U+5c51	屑
+U+5c51	屑
+屓-Kaisho	U+5c53	屓
+U+5c53	屓
+U+5c55	展
+U+5c5e	属
+屠-HyougaiKaisho	U+5c60	屠
+屠-Hyougai	U+5c60	屠
+U+5c60	屠
+U+5c61	屡
+層-Kaisho	U+5c64	層
+U+5c64	層
+履-Kaisho	U+5c65	履
+U+5c65	履
+U+5c6c	屬
+U+5c6e	屮
+U+5c6f	屯
+U+5c71	山
+U+5c76	屶
+U+5c79	屹
+U+5c8c	岌
+U+5c90	岐
+U+5c91	岑
+U+5c94	岔
+U+5ca1	岡
+岨-Kaisho	U+5ca8	岨
+U+5ca8	岨
+U+5ca9	岩
+岫-Kaisho	U+5cab	岫
+岫-KaishoVtLst	U+5cab	岫
+U+5cab	岫
+岬-Kaisho	U+5cac	岬
+U+5cac	岬
+U+5cb1	岱
+U+5cb3	岳
+岶-Kaisho	U+5cb6	岶
+U+5cb6	岶
+U+5cb7	岷
+U+5cb8	岸
+U+5cbb	岻
+U+5cbc	岼
+岾-HzFst	U+5cbe	岾
+U+5cbe	岾
+U+5cc5	峅
+U+5cc7	峇
+U+5cd9	峙
+峠-HzFst	U+5ce0	峠
+U+5ce0	峠
+U+5ce1	峡
+U+5ce8	峨
+U+5ce9	峩
+U+5cea	峪
+峭-Kaisho	U+5ced	峭
+U+5ced	峭
+U+5cef	峯
+U+5cf0	峰
+島-Kaisho	U+5cf6	島
+U+5cf6	島
+峺-Kaisho	U+5cfa	峺
+U+5cfa	峺
+U+5cfb	峻
+U+5cfd	峽
+崇-Kaisho	U+5d07	崇
+U+5d07	崇
+U+5d0b	崋
+U+5d0e	崎
+崑-Kaisho	U+5d11	崑
+U+5d11	崑
+U+5d14	崔
+U+5d15	崕
+U+5d16	崖
+U+5d17	崗
+崘-Kaisho	U+5d18	崘
+U+5d18	崘
+崙-Kaisho	U+5d19	崙
+U+5d19	崙
+U+5d1a	崚
+U+5d1b	崛
+U+5d1f	崟
+U+5d22	崢
+崩-Kaisho	U+5d29	崩
+U+5d29	崩
+嵋-Kaisho	U+5d4b	嵋
+U+5d4b	嵋
+嵌-Kaisho	U+5d4c	嵌
+U+5d4c	嵌
+嵎-Kaisho	U+5d4e	嵎
+U+5d4e	嵎
+U+5d50	嵐
+U+5d52	嵒
+嵜-Kaisho	U+5d5c	嵜
+U+5d5c	嵜
+嵩-Kaisho	U+5d69	嵩
+U+5d69	嵩
+嵬-Kaisho	U+5d6c	嵬
+U+5d6c	嵬
+U+5d6f	嵯
+嵯-VtLst	U+5d6f	嵯
+U+5d73	嵳
+嵳-VtLst	U+5d73	嵳
+U+5d76	嵶
+嶂-Kaisho	U+5d82	嶂
+U+5d82	嶂
+嶄-Kaisho	U+5d84	嶄
+U+5d84	嶄
+U+5d87	嶇
+嶋-Kaisho	U+5d8b	嶋
+U+5d8b	嶋
+嶌-Kaisho	U+5d8c	嶌
+U+5d8c	嶌
+U+5d90	嶐
+嶐-VtLst	U+5d90	嶐
+嶝-Dg3	U+5d9d	嶝
+嶝-DgLst	U+5d9d	嶝
+U+5d9d	嶝
+U+5da2	嶢
+U+5dac	嶬
+U+5dae	嶮
+嶷-Kaisho	U+5db7	嶷
+U+5db7	嶷
+嶺-Insatsu	U+5dba	嶺
+嶺-Kaisho	U+5dba	嶺
+U+5dba	嶺
+U+5dbc	嶼
+U+5dbd	嶽
+巉-Kaisho	U+5dc9	巉
+U+5dc9	巉
+巌-Kaisho	U+5dcc	巌
+巌-KaishoVt3	U+5dcc	巌
+U+5dcc	巌
+巍-Kaisho	U+5dcd	巍
+U+5dcd	巍
+U+5dd2	巒
+巓-Kaisho	U+5dd3	巓
+U+5dd3	巓
+巖-Kaisho	U+5dd6	巖
+巖-KaishoVt3	U+5dd6	巖
+U+5dd6	巖
+U+5ddb	巛
+U+5ddd	川
+U+5dde	州
+U+5de1	巡
+巣-Kaisho	U+5de3	巣
+U+5de3	巣
+U+5de5	工
+U+5de6	左
+U+5de7	巧
+巨-HzFst	U+5de8	巨
+U+5de8	巨
+U+5deb	巫
+U+5dee	差
+差-VtLst	U+5dee	差
+U+5df1	己
+U+5df2	已
+U+5df3	巳
+U+5df4	巴
+U+5df5	巵
+巷-HyougaiKaisho	U+5df7	巷
+巷-Hyougai	U+5df7	巷
+U+5df7	巷
+巻-Kaisho	U+5dfb	巻
+U+5dfb	巻
+U+5dfd	巽
+U+5dfe	巾
+市-Kaisho	U+5e02	市
+U+5e02	市
+U+5e03	布
+U+5e06	帆
+U+5e0b	帋
+U+5e0c	希
+U+5e11	帑
+帖-HzFst	U+5e16	帖
+U+5e16	帖
+U+5e19	帙
+U+5e1a	帚
+帛-Kaisho	U+5e1b	帛
+U+5e1b	帛
+帝-Kaisho	U+5e1d	帝
+U+5e1d	帝
+U+5e25	帥
+U+5e2b	師
+席-Kaisho	U+5e2d	席
+U+5e2d	席
+U+5e2f	帯
+帰-Kaisho	U+5e30	帰
+U+5e30	帰
+帳-HzFst	U+5e33	帳
+U+5e33	帳
+U+5e36	帶
+U+5e37	帷
+U+5e38	常
+帽-Kaisho	U+5e3d	帽
+U+5e3d	帽
+幀-KaishoHzFst	U+5e40	幀
+幀-Kaisho	U+5e40	幀
+U+5e40	幀
+U+5e43	幃
+U+5e44	幄
+幄-VtFst	U+5e44	幄
+幅-Kaisho	U+5e45	幅
+U+5e45	幅
+U+5e47	幇
+幌-Kaisho	U+5e4c	幌
+U+5e4c	幌
+幎-Kaisho	U+5e4e	幎
+U+5e4e	幎
+幔-Kaisho	U+5e54	幔
+U+5e54	幔
+幕-Kaisho	U+5e55	幕
+U+5e55	幕
+U+5e57	幗
+幟-Kaisho	U+5e5f	幟
+U+5e5f	幟
+幡-Kaisho	U+5e61	幡
+U+5e61	幡
+幢-Kaisho	U+5e62	幢
+幢-KaishoVtLst	U+5e62	幢
+U+5e62	幢
+U+5e63	幣
+U+5e64	幤
+U+5e72	干
+U+5e73	平
+U+5e74	年
+U+5e75	幵
+U+5e76	并
+幸-Kaisho	U+5e78	幸
+U+5e78	幸
+幹-Kaisho	U+5e79	幹
+U+5e79	幹
+U+5e7a	幺
+U+5e7b	幻
+U+5e7c	幼
+U+5e7d	幽
+U+5e7e	幾
+广-Kaisho	U+5e7f	广
+U+5e7f	广
+庁-Kaisho	U+5e81	庁
+U+5e81	庁
+広-Kaisho	U+5e83	広
+U+5e83	広
+庄-Kaisho	U+5e84	庄
+U+5e84	庄
+庇-Kaisho	U+5e87	庇
+U+5e87	庇
+床-Kaisho	U+5e8a	床
+U+5e8a	床
+序-Kaisho	U+5e8f	序
+U+5e8f	序
+底-Kaisho	U+5e95	底
+U+5e95	底
+庖-HyougaiKaisho	U+5e96	庖
+庖-Hyougai	U+5e96	庖
+U+5e96	庖
+店-KaishoHzFst	U+5e97	店
+店-Kaisho	U+5e97	店
+U+5e97	店
+庚-Kaisho	U+5e9a	庚
+U+5e9a	庚
+府-Kaisho	U+5e9c	府
+U+5e9c	府
+庠-Kaisho	U+5ea0	庠
+U+5ea0	庠
+度-Kaisho	U+5ea6	度
+U+5ea6	度
+座-Kaisho	U+5ea7	座
+座-KaishoVtLst	U+5ea7	座
+U+5ea7	座
+座-VtLst	U+5ea7	座
+庫-Kaisho	U+5eab	庫
+U+5eab	庫
+庭-Kaisho	U+5ead	庭
+U+5ead	庭
+庵-Kaisho	U+5eb5	庵
+U+5eb5	庵
+庶-Kaisho	U+5eb6	庶
+U+5eb6	庶
+康-Kaisho	U+5eb7	康
+U+5eb7	康
+庸-Kaisho	U+5eb8	庸
+U+5eb8	庸
+廁-Kaisho	U+5ec1	廁
+U+5ec1	廁
+廂-Kaisho	U+5ec2	廂
+U+5ec2	廂
+廃-KaishoDg3	U+5ec3	廃
+廃-KaishoDgLst	U+5ec3	廃
+廃-Kaisho	U+5ec3	廃
+U+5ec3	廃
+廈-Kaisho	U+5ec8	廈
+U+5ec8	廈
+廉-Kaisho	U+5ec9	廉
+U+5ec9	廉
+廊-Kaisho	U+5eca	廊
+U+5eca	廊
+廏-Kaisho	U+5ecf	廏
+U+5ecf	廏
+廐-Kaisho	U+5ed0	廐
+U+5ed0	廐
+廓-Kaisho	U+5ed3	廓
+U+5ed3	廓
+廖-Kaisho	U+5ed6	廖
+U+5ed6	廖
+廚-Kaisho	U+5eda	廚
+U+5eda	廚
+廛-Kaisho	U+5edb	廛
+廛-KaishoVtLst	U+5edb	廛
+U+5edb	廛
+廝-Kaisho	U+5edd	廝
+U+5edd	廝
+廟-HyougaiKaisho	U+5edf	廟
+廟-Hyougai	U+5edf	廟
+廟-Kaisho	U+5edf	廟
+U+5edf	廟
+廠-Kaisho	U+5ee0	廠
+U+5ee0	廠
+廡-KaishoHzLst	U+5ee1	廡
+廡-Kaisho	U+5ee1	廡
+U+5ee1	廡
+廢-KaishoDg3	U+5ee2	廢
+廢-KaishoDgLst	U+5ee2	廢
+廢-Kaisho	U+5ee2	廢
+U+5ee2	廢
+廣-Kaisho	U+5ee3	廣
+廣-KaishoVtLst	U+5ee3	廣
+U+5ee3	廣
+廨-Kaisho	U+5ee8	廨
+U+5ee8	廨
+廩-Kaisho	U+5ee9	廩
+U+5ee9	廩
+廬-KaishoHzFstLeRi	U+5eec	廬
+廬-KaishoHzFstRiLe	U+5eec	廬
+廬-Kaisho	U+5eec	廬
+廬-KaishoVtFstRiLe	U+5eec	廬
+U+5eec	廬
+廰-Kaisho	U+5ef0	廰
+廰-KaishoVt3	U+5ef0	廰
+U+5ef0	廰
+廱-Kaisho	U+5ef1	廱
+U+5ef1	廱
+廳-Kaisho	U+5ef3	廳
+廳-KaishoVt3	U+5ef3	廳
+廳-KaishoVt3VtLst	U+5ef3	廳
+廳-KaishoVtLst	U+5ef3	廳
+U+5ef3	廳
+U+5ef4	廴
+延-HzFst	U+5ef6	延
+U+5ef6	延
+U+5ef7	廷
+廸-Kaisho	U+5ef8	廸
+廸-KaishoVtLst	U+5ef8	廸
+U+5ef8	廸
+U+5efa	建
+廻-Hyougai	U+5efb	廻
+廻-Jinmei	U+5efb	廻
+U+5efb	廻
+U+5efc	廼
+U+5efe	廾
+U+5eff	廿
+U+5f01	弁
+弃-Kaisho	U+5f03	弃
+U+5f03	弃
+U+5f04	弄
+弄-VtLst	U+5f04	弄
+U+5f09	弉
+U+5f0a	弊
+U+5f0b	弋
+U+5f0c	弌
+U+5f0d	弍
+U+5f0f	式
+U+5f10	弐
+弑-Kaisho	U+5f11	弑
+U+5f11	弑
+U+5f13	弓
+U+5f14	弔
+U+5f15	引
+U+5f16	弖
+U+5f17	弗
+U+5f18	弘
+U+5f1b	弛
+弟-Kaisho	U+5f1f	弟
+U+5f1f	弟
+U+5f25	弥
+弦-Kaisho	U+5f26	弦
+U+5f26	弦
+U+5f27	弧
+U+5f29	弩
+弭-Kaisho	U+5f2d	弭
+弭-KaishoVt3	U+5f2d	弭
+U+5f2d	弭
+弯-Kaisho	U+5f2f	弯
+U+5f2f	弯
+U+5f31	弱
+張-HzFst	U+5f35	張
+U+5f35	張
+U+5f37	強
+弸-Kaisho	U+5f38	弸
+U+5f38	弸
+弼-Kaisho	U+5f3c	弼
+U+5f3c	弼
+弾-Kaisho	U+5f3e	弾
+U+5f3e	弾
+U+5f41	彁
+彈-Kaisho	U+5f48	彈
+U+5f48	彈
+彊-Kaisho	U+5f4a	彊
+U+5f4a	彊
+U+5f4c	彌
+U+5f4e	彎
+U+5f50	彐
+U+5f51	彑
+当-Kaisho	U+5f53	当
+U+5f53	当
+U+5f56	彖
+U+5f57	彗
+彙-Kaisho	U+5f59	彙
+U+5f59	彙
+U+5f5c	彜
+U+5f5d	彝
+U+5f61	彡
+U+5f62	形
+彦-Kaisho	U+5f66	彦
+U+5f66	彦
+彩-Kaisho	U+5f69	彩
+U+5f69	彩
+彪-HzFstLeRi	U+5f6a	彪
+彪-HzFstRiLe	U+5f6a	彪
+U+5f6a	彪
+彪-VtFstRiLe	U+5f6a	彪
+U+5f6b	彫
+彬-Kaisho	U+5f6c	彬
+U+5f6c	彬
+U+5f6d	彭
+彰-Kaisho	U+5f70	彰
+U+5f70	彰
+影-Kaisho	U+5f71	影
+U+5f71	影
+U+5f73	彳
+彷-Kaisho	U+5f77	彷
+U+5f77	彷
+U+5f79	役
+U+5f7c	彼
+U+5f7f	彿
+U+5f80	往
+往-VtLst	U+5f80	往
+征-HzFst	U+5f81	征
+U+5f81	征
+徂-Kaisho	U+5f82	徂
+U+5f82	徂
+U+5f83	徃
+徃-VtLst	U+5f83	徃
+U+5f84	径
+U+5f85	待
+徇-Kaisho	U+5f87	徇
+U+5f87	徇
+很-Kaisho	U+5f88	很
+U+5f88	很
+U+5f8a	徊
+U+5f8b	律
+U+5f8c	後
+U+5f90	徐
+U+5f91	徑
+U+5f92	徒
+U+5f93	従
+得-Kaisho	U+5f97	得
+U+5f97	得
+徘-HyougaiMdFst	U+5f98	徘
+徘-Hyougai	U+5f98	徘
+U+5f98	徘
+徙-HzFst	U+5f99	徙
+U+5f99	徙
+U+5f9e	從
+徠-Kaisho	U+5fa0	徠
+U+5fa0	徠
+U+5fa1	御
+徨-Kaisho	U+5fa8	徨
+徨-KaishoVtLst	U+5fa8	徨
+U+5fa8	徨
+復-Kaisho	U+5fa9	復
+U+5fa9	復
+循-Kaisho	U+5faa	循
+U+5faa	循
+U+5fad	徭
+U+5fae	微
+U+5fb3	徳
+U+5fb4	徴
+徴-VtLst	U+5fb4	徴
+徹-Kaisho	U+5fb9	徹
+U+5fb9	徹
+徼-Kaisho	U+5fbc	徼
+U+5fbc	徼
+徽-HyougaiKaisho	U+5fbd	徽
+徽-Hyougai	U+5fbd	徽
+徽-Kaisho	U+5fbd	徽
+U+5fbd	徽
+U+5fc3	心
+U+5fc4	忄
+U+5fc5	必
+必-Ten3	U+5fc5	必
+U+5fcc	忌
+U+5fcd	忍
+U+5fd6	忖
+U+5fd7	志
+忘-Kaisho	U+5fd8	忘
+U+5fd8	忘
+忙-Kaisho	U+5fd9	忙
+U+5fd9	忙
+応-Kaisho	U+5fdc	応
+U+5fdc	応
+U+5fdd	忝
+U+5fe0	忠
+U+5fe4	忤
+U+5feb	快
+U+5ff0	忰
+U+5ff1	忱
+U+5ff5	念
+U+5ff8	忸
+U+5ffb	忻
+U+5ffd	忽
+U+5fff	忿
+U+600e	怎
+U+600f	怏
+U+6010	怐
+U+6012	怒
+怕-Kaisho	U+6015	怕
+U+6015	怕
+U+6016	怖
+U+6019	怙
+怛-Kaisho	U+601b	怛
+U+601b	怛
+怜-Insatsu	U+601c	怜
+U+601c	怜
+思-Kaisho	U+601d	思
+U+601d	思
+U+6020	怠
+U+6021	怡
+急-Kaisho	U+6025	急
+U+6025	急
+U+6026	怦
+U+6027	性
+性-VtLst	U+6027	性
+U+6028	怨
+U+6029	怩
+U+602a	怪
+U+602b	怫
+U+602f	怯
+U+6031	怱
+U+603a	怺
+U+6041	恁
+恂-Kaisho	U+6042	恂
+U+6042	恂
+U+6043	恃
+U+6046	恆
+U+604a	恊
+恋-Kaisho	U+604b	恋
+U+604b	恋
+U+604d	恍
+U+6050	恐
+恒-Kaisho	U+6052	恒
+U+6052	恒
+U+6055	恕
+U+6059	恙
+U+605a	恚
+U+605f	恟
+U+6060	恠
+恢-Hyougai	U+6062	恢
+U+6062	恢
+U+6063	恣
+U+6064	恤
+恥-Kaisho	U+6065	恥
+恥-KaishoVt3	U+6065	恥
+U+6065	恥
+恨-Kaisho	U+6068	恨
+U+6068	恨
+U+6069	恩
+U+606a	恪
+U+606b	恫
+U+606c	恬
+U+606d	恭
+息-Kaisho	U+606f	息
+U+606f	息
+U+6070	恰
+恵-Kaisho	U+6075	恵
+恵-KaishoVt4	U+6075	恵
+恵-KaishoVtLst	U+6075	恵
+U+6075	恵
+恷-Kaisho	U+6077	恷
+U+6077	恷
+悁-Kaisho	U+6081	悁
+U+6081	悁
+悃-Kaisho	U+6083	悃
+U+6083	悃
+悄-Kaisho	U+6084	悄
+U+6084	悄
+U+6089	悉
+悋-Kaisho	U+608b	悋
+U+608b	悋
+悌-Kaisho	U+608c	悌
+U+608c	悌
+悍-Kaisho	U+608d	悍
+U+608d	悍
+U+6092	悒
+U+6094	悔
+U+6096	悖
+U+6097	悗
+悚-Kaisho	U+609a	悚
+U+609a	悚
+U+609b	悛
+U+609f	悟
+U+60a0	悠
+U+60a3	患
+U+60a6	悦
+悧-Kaisho	U+60a7	悧
+U+60a7	悧
+U+60a9	悩
+U+60aa	悪
+悲-MdFst	U+60b2	悲
+U+60b2	悲
+悳-Kaisho	U+60b3	悳
+U+60b3	悳
+悴-Kaisho	U+60b4	悴
+U+60b4	悴
+悵-HzFst	U+60b5	悵
+U+60b5	悵
+悶-Kaisho	U+60b6	悶
+U+60b6	悶
+悸-Kaisho	U+60b8	悸
+U+60b8	悸
+悼-KaishoHzFst	U+60bc	悼
+悼-Kaisho	U+60bc	悼
+U+60bc	悼
+U+60bd	悽
+悽-VtLst	U+60bd	悽
+情-Kaisho	U+60c5	情
+情-KaishoVtLst	U+60c5	情
+U+60c5	情
+U+60c6	惆
+惇-Kaisho	U+60c7	惇
+U+60c7	惇
+U+60d1	惑
+U+60d3	惓
+惘-Kaisho	U+60d8	惘
+U+60d8	惘
+U+60da	惚
+惜-Kaisho	U+60dc	惜
+U+60dc	惜
+U+60df	惟
+惠-Kaisho	U+60e0	惠
+U+60e0	惠
+U+60e1	惡
+惣-Kaisho	U+60e3	惣
+U+60e3	惣
+惧-Kaisho	U+60e7	惧
+U+60e7	惧
+U+60e8	惨
+惰-Kaisho	U+60f0	惰
+U+60f0	惰
+U+60f1	惱
+想-Kaisho	U+60f3	想
+U+60f3	想
+U+60f4	惴
+惶-Kaisho	U+60f6	惶
+惶-KaishoVtLst	U+60f6	惶
+U+60f6	惶
+惷-Kaisho	U+60f7	惷
+U+60f7	惷
+U+60f9	惹
+惺-Kaisho	U+60fa	惺
+惺-KaishoVtLst	U+60fa	惺
+U+60fa	惺
+惻-Kaisho	U+60fb	惻
+U+60fb	惻
+愀-Kaisho	U+6100	愀
+U+6100	愀
+愁-Kaisho	U+6101	愁
+U+6101	愁
+愃-Kaisho	U+6103	愃
+U+6103	愃
+U+6106	愆
+愈-HyougaiKaisho	U+6108	愈
+愈-Hyougai	U+6108	愈
+U+6108	愈
+愉-Kaisho	U+6109	愉
+U+6109	愉
+U+610d	愍
+愎-Kaisho	U+610e	愎
+U+610e	愎
+意-Kaisho	U+610f	意
+U+610f	意
+U+6115	愕
+愚-Kaisho	U+611a	愚
+U+611a	愚
+U+611b	愛
+U+611f	感
+U+6121	愡
+愧-Kaisho	U+6127	愧
+U+6127	愧
+U+6128	愨
+愬-Kaisho	U+612c	愬
+U+612c	愬
+U+6134	愴
+愼-Kaisho	U+613c	愼
+U+613c	愼
+愽-Kaisho	U+613d	愽
+U+613d	愽
+愾-Kaisho	U+613e	愾
+U+613e	愾
+愿-Kaisho	U+613f	愿
+U+613f	愿
+慂-Kaisho	U+6142	慂
+U+6142	慂
+慄-Kaisho	U+6144	慄
+U+6144	慄
+U+6147	慇
+U+6148	慈
+U+614a	慊
+態-Kaisho	U+614b	態
+U+614b	態
+慌-Kaisho	U+614c	慌
+U+614c	慌
+U+614d	慍
+慎-Kaisho	U+614e	慎
+U+614e	慎
+U+6153	慓
+慕-Kaisho	U+6155	慕
+U+6155	慕
+U+6158	慘
+慙-Kaisho	U+6159	慙
+U+6159	慙
+慚-Kaisho	U+615a	慚
+U+615a	慚
+U+615d	慝
+慟-Kaisho	U+615f	慟
+慟-KaishoVtLst	U+615f	慟
+U+615f	慟
+慢-Kaisho	U+6162	慢
+U+6162	慢
+慣-Kaisho	U+6163	慣
+U+6163	慣
+U+6165	慥
+慧-Kaisho	U+6167	慧
+U+6167	慧
+慨-Kaisho	U+6168	慨
+U+6168	慨
+U+616b	慫
+慮-KaishoHzFstLeRi	U+616e	慮
+慮-KaishoHzFstRiLe	U+616e	慮
+慮-Kaisho	U+616e	慮
+慮-KaishoVtFstRiLe	U+616e	慮
+U+616e	慮
+慯-Kaisho	U+616f	慯
+U+616f	慯
+U+6170	慰
+U+6171	慱
+慳-HzFst	U+6173	慳
+U+6173	慳
+慴-Kaisho	U+6174	慴
+U+6174	慴
+慵-Kaisho	U+6175	慵
+U+6175	慵
+慶-Kaisho	U+6176	慶
+U+6176	慶
+慷-Kaisho	U+6177	慷
+U+6177	慷
+U+617e	慾
+憂-Kaisho	U+6182	憂
+U+6182	憂
+憇-Kaisho	U+6187	憇
+U+6187	憇
+憊-Kaisho	U+618a	憊
+U+618a	憊
+憎-Kaisho	U+618e	憎
+U+618e	憎
+U+6190	憐
+U+6191	憑
+憑-Vt6	U+6191	憑
+U+6194	憔
+憖-Kaisho	U+6196	憖
+U+6196	憖
+U+6199	憙
+憚-Kaisho	U+619a	憚
+U+619a	憚
+憤-Kaisho	U+61a4	憤
+U+61a4	憤
+憧-Kaisho	U+61a7	憧
+憧-KaishoVtLst	U+61a7	憧
+U+61a7	憧
+憩-Kaisho	U+61a9	憩
+U+61a9	憩
+憫-Kaisho	U+61ab	憫
+U+61ab	憫
+憬-Kaisho	U+61ac	憬
+U+61ac	憬
+憮-HzLst	U+61ae	憮
+U+61ae	憮
+憲-Kaisho	U+61b2	憲
+憲-KaishoVtLst	U+61b2	憲
+U+61b2	憲
+憶-Kaisho	U+61b6	憶
+U+61b6	憶
+U+61ba	憺
+U+61be	憾
+U+61c3	懃
+懃-VtLst	U+61c3	懃
+懆-Kaisho	U+61c6	懆
+U+61c6	懆
+懇-Kaisho	U+61c7	懇
+U+61c7	懇
+懈-Kaisho	U+61c8	懈
+U+61c8	懈
+U+61c9	應
+U+61ca	懊
+懋-KaishoLeFst	U+61cb	懋
+懋-Kaisho	U+61cb	懋
+懋-LeFst	U+61cb	懋
+U+61cb	懋
+U+61cc	懌
+懍-Kaisho	U+61cd	懍
+U+61cd	懍
+懐-Kaisho	U+61d0	懐
+U+61d0	懐
+U+61e3	懣
+U+61e6	懦
+U+61f2	懲
+懲-VtLst	U+61f2	懲
+U+61f4	懴
+懶-Kaisho	U+61f6	懶
+U+61f6	懶
+懷-Kaisho	U+61f7	懷
+U+61f7	懷
+懸-Kaisho	U+61f8	懸
+U+61f8	懸
+U+61fa	懺
+懼-Kaisho	U+61fc	懼
+U+61fc	懼
+U+61fd	懽
+懾-Kaisho	U+61fe	懾
+懾-KaishoVt3	U+61fe	懾
+U+61fe	懾
+U+61ff	懿
+U+6200	戀
+U+6208	戈
+U+6209	戉
+U+620a	戊
+U+620c	戌
+U+620d	戍
+U+620e	戎
+U+6210	成
+U+6211	我
+U+6212	戒
+U+6214	戔
+U+6216	或
+戚-HzFst	U+621a	戚
+U+621a	戚
+戛-Kaisho	U+621b	戛
+U+621b	戛
+戝-Kaisho	U+621d	戝
+U+621d	戝
+戞-Kaisho	U+621e	戞
+U+621e	戞
+戟-Kaisho	U+621f	戟
+U+621f	戟
+U+6220	戠
+戡-Kaisho	U+6221	戡
+U+6221	戡
+戦-Kaisho	U+6226	戦
+U+6226	戦
+U+622a	截
+U+622e	戮
+戯-HzFstLeRi	U+622f	戯
+戯-HzFstLeRiTenFst	U+622f	戯
+戯-HzFstRiLe	U+622f	戯
+戯-HzFstRiLeTenFst	U+622f	戯
+U+622f	戯
+戯-VtFstLeRiTenFst	U+622f	戯
+戯-VtFstRiLe	U+622f	戯
+戯-VtFstRiLeTenFst	U+622f	戯
+戰-Kaisho	U+6230	戰
+U+6230	戰
+戲-HzFstLeRi	U+6232	戲
+戲-HzFstRiLe	U+6232	戲
+U+6232	戲
+戲-VtFstRiLe	U+6232	戲
+U+6233	戳
+戴-Kaisho	U+6234	戴
+U+6234	戴
+U+6238	戸
+U+623b	戻
+房-Kaisho	U+623f	房
+U+623f	房
+U+6240	所
+扁-HyougaiKaisho	U+6241	扁
+扁-Hyougai	U+6241	扁
+U+6241	扁
+U+6247	扇
+U+6248	扈
+扉-MdFst	U+6249	扉
+U+6249	扉
+U+624b	手
+U+624c	扌
+U+624d	才
+U+624e	扎
+U+6253	打
+U+6255	払
+U+6258	托
+U+625b	扛
+U+625e	扞
+U+6260	扠
+U+6263	扣
+U+6268	扨
+U+626e	扮
+U+6271	扱
+U+6276	扶
+批-Kaisho	U+6279	批
+U+6279	批
+U+627c	扼
+U+627e	找
+U+627f	承
+U+6280	技
+U+6282	抂
+抂-VtLst	U+6282	抂
+抃-Kaisho	U+6283	抃
+U+6283	抃
+U+6284	抄
+U+6289	抉
+U+628a	把
+U+6291	抑
+U+6292	抒
+U+6293	抓
+U+6294	抔
+U+6295	投
+U+6296	抖
+抗-Kaisho	U+6297	抗
+U+6297	抗
+U+6298	折
+U+629b	抛
+U+629c	抜
+U+629e	択
+U+62ab	披
+U+62ac	抬
+U+62b1	抱
+U+62b5	抵
+抹-Kaisho	U+62b9	抹
+U+62b9	抹
+抻-Kaisho	U+62bb	抻
+U+62bb	抻
+押-Kaisho	U+62bc	押
+U+62bc	押
+抽-Kaisho	U+62bd	抽
+抽-KaishoVtLst	U+62bd	抽
+U+62bd	抽
+U+62c2	拂
+担-Kaisho	U+62c5	担
+U+62c5	担
+U+62c6	拆
+U+62c7	拇
+拈-HzFst	U+62c8	拈
+U+62c8	拈
+拉-Kaisho	U+62c9	拉
+U+62c9	拉
+U+62ca	拊
+U+62cc	拌
+拍-Kaisho	U+62cd	拍
+U+62cd	拍
+U+62cf	拏
+U+62d0	拐
+拑-Kaisho	U+62d1	拑
+U+62d1	拑
+拒-HzFst	U+62d2	拒
+U+62d2	拒
+U+62d3	拓
+U+62d4	拔
+U+62d7	拗
+U+62d8	拘
+U+62d9	拙
+U+62db	招
+U+62dc	拜
+U+62dd	拝
+U+62e0	拠
+拡-Kaisho	U+62e1	拡
+U+62e1	拡
+U+62ec	括
+U+62ed	拭
+U+62ee	拮
+U+62ef	拯
+U+62f1	拱
+U+62f3	拳
+U+62f5	拵
+U+62f6	拶
+拷-Kaisho	U+62f7	拷
+U+62f7	拷
+U+62fe	拾
+U+62ff	拿
+U+6301	持
+U+6302	挂
+指-Kaisho	U+6307	指
+U+6307	指
+U+6308	挈
+按-Kaisho	U+6309	按
+U+6309	按
+U+630c	挌
+挑-MidFst	U+6311	挑
+U+6311	挑
+U+6319	挙
+U+631f	挟
+U+6327	挧
+U+6328	挨
+U+632b	挫
+挫-VtLst	U+632b	挫
+U+632f	振
+挺-Hyougai	U+633a	挺
+挺-Jinmei	U+633a	挺
+U+633a	挺
+挽-Hyougai	U+633d	挽
+挽-Jinmei	U+633d	挽
+U+633d	挽
+U+633e	挾
+挿-Kaisho	U+633f	挿
+U+633f	挿
+U+6349	捉
+U+634c	捌
+捍-Kaisho	U+634d	捍
+U+634d	捍
+捏-Kaisho	U+634f	捏
+U+634f	捏
+捐-Kaisho	U+6350	捐
+U+6350	捐
+捕-Kaisho	U+6355	捕
+U+6355	捕
+捗-HyougaiHzFst	U+6357	捗
+捗-Hyougai	U+6357	捗
+U+6357	捗
+捜-Kaisho	U+635c	捜
+U+635c	捜
+U+6367	捧
+U+6368	捨
+U+6369	捩
+捫-Kaisho	U+636b	捫
+U+636b	捫
+U+636e	据
+捲-Hyougai	U+6372	捲
+U+6372	捲
+U+6376	捶
+捶-VtLst	U+6376	捶
+U+6377	捷
+U+637a	捺
+U+637b	捻
+U+6380	掀
+掃-Kaisho	U+6383	掃
+U+6383	掃
+U+6388	授
+掉-KaishoHzFst	U+6389	掉
+掉-Kaisho	U+6389	掉
+U+6389	掉
+U+638c	掌
+U+638e	掎
+U+638f	掏
+排-MdFst	U+6392	排
+U+6392	排
+掖-Kaisho	U+6396	掖
+U+6396	掖
+U+6398	掘
+U+639b	掛
+掟-Kaisho	U+639f	掟
+U+639f	掟
+掠-Kaisho	U+63a0	掠
+U+63a0	掠
+採-Kaisho	U+63a1	採
+U+63a1	採
+探-Kaisho	U+63a2	探
+U+63a2	探
+U+63a3	掣
+接-Kaisho	U+63a5	接
+U+63a5	接
+控-Kaisho	U+63a7	控
+U+63a7	控
+U+63a8	推
+掩-Kaisho	U+63a9	掩
+U+63a9	掩
+措-Kaisho	U+63aa	措
+U+63aa	措
+掫-Kaisho	U+63ab	掫
+掫-KaishoVt3	U+63ab	掫
+U+63ab	掫
+掬-Kaisho	U+63ac	掬
+U+63ac	掬
+掲-Kaisho	U+63b2	掲
+U+63b2	掲
+U+63b4	掴
+掴-VtLst	U+63b4	掴
+U+63b5	掵
+U+63bb	掻
+U+63be	掾
+揀-Kaisho	U+63c0	揀
+U+63c0	揀
+揃-HyougaiKaisho	U+63c3	揃
+揃-Hyougai	U+63c3	揃
+U+63c3	揃
+U+63c4	揄
+揆-Dg3	U+63c6	揆
+揆-DgLst	U+63c6	揆
+U+63c6	揆
+揉-Kaisho	U+63c9	揉
+U+63c9	揉
+描-Kaisho	U+63cf	描
+U+63cf	描
+提-Kaisho	U+63d0	提
+U+63d0	提
+插-MdFst	U+63d2	插
+U+63d2	插
+揖-Kaisho	U+63d6	揖
+揖-KaishoVt3	U+63d6	揖
+U+63d6	揖
+揚-Kaisho	U+63da	揚
+U+63da	揚
+U+63db	換
+U+63e1	握
+握-VtFst	U+63e1	握
+U+63e3	揣
+揩-Kaisho	U+63e9	揩
+U+63e9	揩
+揮-Kaisho	U+63ee	揮
+U+63ee	揮
+U+63f4	援
+揶-Kaisho	U+63f6	揶
+揶-KaishoVt3	U+63f6	揶
+U+63f6	揶
+U+63fa	揺
+搆-Kaisho	U+6406	搆
+U+6406	搆
+U+640d	損
+搏-Kaisho	U+640f	搏
+U+640f	搏
+U+6413	搓
+搓-VtLst	U+6413	搓
+U+6416	搖
+搗-Kaisho	U+6417	搗
+U+6417	搗
+搜-MdFst	U+641c	搜
+U+641c	搜
+U+6426	搦
+搨-Kaisho	U+6428	搨
+U+6428	搨
+U+642c	搬
+U+642d	搭
+搴-Kaisho	U+6434	搴
+搴-KaishoVtLst	U+6434	搴
+U+6434	搴
+U+6436	搶
+U+643a	携
+搾-Kaisho	U+643e	搾
+U+643e	搾
+摂-Kaisho	U+6442	摂
+摂-KaishoVt3	U+6442	摂
+U+6442	摂
+U+644e	摎
+U+6451	摑
+摘-Kaisho	U+6458	摘
+U+6458	摘
+U+6467	摧
+摩-Kaisho	U+6469	摩
+U+6469	摩
+U+646f	摯
+U+6476	摶
+摸-Kaisho	U+6478	摸
+U+6478	摸
+摺-HyougaiKaisho	U+647a	摺
+摺-Hyougai	U+647a	摺
+摺-Kaisho	U+647a	摺
+U+647a	摺
+撃-Kaisho	U+6483	撃
+U+6483	撃
+U+6488	撈
+撒-Kaisho	U+6492	撒
+U+6492	撒
+U+6493	撓
+撕-Kaisho	U+6495	撕
+U+6495	撕
+U+649a	撚
+撞-Kaisho	U+649e	撞
+撞-KaishoVtLst	U+649e	撞
+U+649e	撞
+撤-Kaisho	U+64a4	撤
+U+64a4	撤
+撥-Dg3	U+64a5	撥
+撥-DgLst	U+64a5	撥
+U+64a5	撥
+撩-Kaisho	U+64a9	撩
+U+64a9	撩
+撫-HzLst	U+64ab	撫
+U+64ab	撫
+播-Kaisho	U+64ad	播
+U+64ad	播
+撮-Kaisho	U+64ae	撮
+撮-KaishoVt3	U+64ae	撮
+U+64ae	撮
+撰-Hyougai	U+64b0	撰
+U+64b0	撰
+U+64b2	撲
+撹-Kaisho	U+64b9	撹
+U+64b9	撹
+U+64bb	撻
+U+64bc	撼
+擁-Kaisho	U+64c1	擁
+U+64c1	擁
+擂-Kaisho	U+64c2	擂
+U+64c2	擂
+擅-Kaisho	U+64c5	擅
+U+64c5	擅
+U+64c7	擇
+操-Kaisho	U+64cd	操
+U+64cd	操
+U+64d2	擒
+U+64d4	擔
+擘-Kaisho	U+64d8	擘
+U+64d8	擘
+據-HzFstLeRi	U+64da	據
+據-HzFstRiLe	U+64da	據
+U+64da	據
+據-VtFstRiLe	U+64da	據
+擠-Kaisho	U+64e0	擠
+U+64e0	擠
+U+64e1	擡
+擡-VtFst	U+64e1	擡
+擢-Hyougai	U+64e2	擢
+U+64e2	擢
+U+64e3	擣
+擦-Kaisho	U+64e6	擦
+U+64e6	擦
+擧-LeFst	U+64e7	擧
+U+64e7	擧
+擬-Kaisho	U+64ec	擬
+U+64ec	擬
+擯-Kaisho	U+64ef	擯
+U+64ef	擯
+擱-Kaisho	U+64f1	擱
+U+64f1	擱
+擲-Kaisho	U+64f2	擲
+U+64f2	擲
+擴-Kaisho	U+64f4	擴
+擴-KaishoVtLst	U+64f4	擴
+U+64f4	擴
+擶-Kaisho	U+64f6	擶
+U+64f6	擶
+擺-Kaisho	U+64fa	擺
+U+64fa	擺
+擽-Kaisho	U+64fd	擽
+U+64fd	擽
+擾-Kaisho	U+64fe	擾
+U+64fe	擾
+攀-KaishoLeFst	U+6500	攀
+攀-LeFst	U+6500	攀
+U+6500	攀
+攅-Kaisho	U+6505	攅
+U+6505	攅
+攘-Kaisho	U+6518	攘
+U+6518	攘
+U+651c	攜
+攝-Kaisho	U+651d	攝
+攝-KaishoVt3	U+651d	攝
+U+651d	攝
+U+6523	攣
+U+6524	攤
+攪-Kaisho	U+652a	攪
+U+652a	攪
+攫-Kaisho	U+652b	攫
+U+652b	攫
+攬-KaishoHzFst	U+652c	攬
+攬-Kaisho	U+652c	攬
+U+652c	攬
+U+652f	支
+U+6534	攴
+U+6535	攵
+U+6536	收
+U+6537	攷
+U+6538	攸
+改-Kaisho	U+6539	改
+U+6539	改
+U+653b	攻
+放-Kaisho	U+653e	放
+U+653e	放
+政-HzFst	U+653f	政
+U+653f	政
+U+6545	故
+效-Kaisho	U+6548	效
+U+6548	效
+U+654d	敍
+U+654f	敏
+U+6551	救
+敕-Kaisho	U+6555	敕
+U+6555	敕
+敖-Kaisho	U+6556	敖
+U+6556	敖
+敗-Kaisho	U+6557	敗
+U+6557	敗
+U+6558	敘
+U+6559	教
+U+655d	敝
+U+655e	敞
+敢-Kaisho	U+6562	敢
+敢-KaishoVt3	U+6562	敢
+U+6562	敢
+散-Kaisho	U+6563	散
+U+6563	散
+敦-Kaisho	U+6566	敦
+U+6566	敦
+U+656c	敬
+U+6570	数
+敲-Kaisho	U+6572	敲
+U+6572	敲
+整-HzFst	U+6574	整
+U+6574	整
+敵-Kaisho	U+6575	敵
+U+6575	敵
+敷-Kaisho	U+6577	敷
+敷-KaishoVt3	U+6577	敷
+敷-KaishoVtLst	U+6577	敷
+U+6577	敷
+U+6578	數
+U+6582	斂
+U+6583	斃
+文-Kaisho	U+6587	文
+U+6587	文
+斈-Kaisho	U+6588	斈
+U+6588	斈
+斉-Kaisho	U+6589	斉
+斉-KaishoVt12	U+6589	斉
+U+6589	斉
+斌-KaishoHzFst	U+658c	斌
+斌-Kaisho	U+658c	斌
+U+658c	斌
+斎-KaishoMdFst	U+658e	斎
+斎-Kaisho	U+658e	斎
+斎-KaishoVt6	U+658e	斎
+U+658e	斎
+斐-KaishoMdFst	U+6590	斐
+斐-Kaisho	U+6590	斐
+U+6590	斐
+斑-Kaisho	U+6591	斑
+斑-KaishoVtLst	U+6591	斑
+U+6591	斑
+U+6597	斗
+料-Kaisho	U+6599	料
+U+6599	料
+斛-Kaisho	U+659b	斛
+U+659b	斛
+U+659c	斜
+斟-Kaisho	U+659f	斟
+U+659f	斟
+斡-Kaisho	U+65a1	斡
+U+65a1	斡
+U+65a4	斤
+U+65a5	斥
+斧-Hyougai	U+65a7	斧
+斧-Jinmei	U+65a7	斧
+U+65a7	斧
+U+65ab	斫
+斬-Kaisho	U+65ac	斬
+U+65ac	斬
+U+65ad	断
+斯-Kaisho	U+65af	斯
+U+65af	斯
+新-Kaisho	U+65b0	新
+U+65b0	新
+U+65b7	斷
+方-Kaisho	U+65b9	方
+U+65b9	方
+於-Kaisho	U+65bc	於
+U+65bc	於
+施-Kaisho	U+65bd	施
+U+65bd	施
+U+65bf	斿
+旁-Kaisho	U+65c1	旁
+U+65c1	旁
+旃-Kaisho	U+65c3	旃
+U+65c3	旃
+旄-Kaisho	U+65c4	旄
+U+65c4	旄
+旅-Kaisho	U+65c5	旅
+U+65c5	旅
+U+65c6	旆
+旋-Kaisho	U+65cb	旋
+U+65cb	旋
+旌-Kaisho	U+65cc	旌
+旌-KaishoVtLst	U+65cc	旌
+U+65cc	旌
+族-Kaisho	U+65cf	族
+U+65cf	族
+旒-Kaisho	U+65d2	旒
+U+65d2	旒
+旗-Kaisho	U+65d7	旗
+U+65d7	旗
+旙-Kaisho	U+65d9	旙
+U+65d9	旙
+旛-Kaisho	U+65db	旛
+U+65db	旛
+U+65e0	无
+U+65e1	旡
+既-Kaisho	U+65e2	既
+U+65e2	既
+日-Kaisho	U+65e5	日
+U+65e5	日
+旦-Kaisho	U+65e6	旦
+U+65e6	旦
+旧-Kaisho	U+65e7	旧
+U+65e7	旧
+旨-Kaisho	U+65e8	旨
+U+65e8	旨
+早-Kaisho	U+65e9	早
+U+65e9	早
+旬-Kaisho	U+65ec	旬
+U+65ec	旬
+旭-Kaisho	U+65ed	旭
+U+65ed	旭
+旱-Kaisho	U+65f1	旱
+U+65f1	旱
+旺-Kaisho	U+65fa	旺
+旺-KaishoVtLst	U+65fa	旺
+U+65fa	旺
+旻-Kaisho	U+65fb	旻
+U+65fb	旻
+昂-Kaisho	U+6602	昂
+U+6602	昂
+昃-Kaisho	U+6603	昃
+U+6603	昃
+昆-Kaisho	U+6606	昆
+U+6606	昆
+昇-Kaisho	U+6607	昇
+U+6607	昇
+昊-Kaisho	U+660a	昊
+U+660a	昊
+昌-Kaisho	U+660c	昌
+U+660c	昌
+明-Kaisho	U+660e	明
+U+660e	明
+昏-Kaisho	U+660f	昏
+U+660f	昏
+易-Kaisho	U+6613	易
+U+6613	易
+昔-Kaisho	U+6614	昔
+U+6614	昔
+昜-Kaisho	U+661c	昜
+U+661c	昜
+星-Kaisho	U+661f	星
+星-KaishoVtLst	U+661f	星
+U+661f	星
+映-Kaisho	U+6620	映
+U+6620	映
+春-Kaisho	U+6625	春
+U+6625	春
+昧-Kaisho	U+6627	昧
+U+6627	昧
+昨-Kaisho	U+6628	昨
+U+6628	昨
+昭-Kaisho	U+662d	昭
+U+662d	昭
+是-Kaisho	U+662f	是
+U+662f	是
+昴-Kaisho	U+6634	昴
+U+6634	昴
+昵-Kaisho	U+6635	昵
+U+6635	昵
+昶-Kaisho	U+6636	昶
+U+6636	昶
+昼-Kaisho	U+663c	昼
+U+663c	昼
+昿-Kaisho	U+663f	昿
+U+663f	昿
+晁-KaishoMidFst	U+6641	晁
+晁-Kaisho	U+6641	晁
+U+6641	晁
+時-Kaisho	U+6642	時
+U+6642	時
+晃-Kaisho	U+6643	晃
+U+6643	晃
+晄-Kaisho	U+6644	晄
+U+6644	晄
+晉-Kaisho	U+6649	晉
+U+6649	晉
+晋-Kaisho	U+664b	晋
+U+664b	晋
+晏-Kaisho	U+664f	晏
+U+664f	晏
+晒-Kaisho	U+6652	晒
+U+6652	晒
+晝-Kaisho	U+665d	晝
+U+665d	晝
+晞-Kaisho	U+665e	晞
+U+665e	晞
+晟-Kaisho	U+665f	晟
+U+665f	晟
+晢-Kaisho	U+6662	晢
+U+6662	晢
+晤-Kaisho	U+6664	晤
+U+6664	晤
+晦-HyougaiKaisho	U+6666	晦
+晦-Hyougai	U+6666	晦
+U+6666	晦
+晧-Kaisho	U+6667	晧
+U+6667	晧
+晨-Kaisho	U+6668	晨
+U+6668	晨
+晩-Kaisho	U+6669	晩
+U+6669	晩
+普-Kaisho	U+666e	普
+U+666e	普
+景-Kaisho	U+666f	景
+U+666f	景
+晰-Kaisho	U+6670	晰
+U+6670	晰
+晴-Kaisho	U+6674	晴
+晴-KaishoVtLst	U+6674	晴
+U+6674	晴
+晶-Kaisho	U+6676	晶
+U+6676	晶
+智-Kaisho	U+667a	智
+U+667a	智
+暁-Kaisho	U+6681	暁
+U+6681	暁
+暃-KaishoMdFst	U+6683	暃
+暃-Kaisho	U+6683	暃
+U+6683	暃
+暄-Kaisho	U+6684	暄
+U+6684	暄
+暇-Kaisho	U+6687	暇
+暇-KaishoVtFst	U+6687	暇
+U+6687	暇
+暈-Kaisho	U+6688	暈
+U+6688	暈
+暉-Kaisho	U+6689	暉
+U+6689	暉
+暎-Kaisho	U+668e	暎
+U+668e	暎
+暑-Kaisho	U+6691	暑
+U+6691	暑
+暖-Kaisho	U+6696	暖
+U+6696	暖
+暗-Kaisho	U+6697	暗
+U+6697	暗
+暘-Kaisho	U+6698	暘
+U+6698	暘
+暝-Kaisho	U+669d	暝
+U+669d	暝
+暢-Kaisho	U+66a2	暢
+U+66a2	暢
+暦-Kaisho	U+66a6	暦
+U+66a6	暦
+暫-Kaisho	U+66ab	暫
+U+66ab	暫
+暮-Kaisho	U+66ae	暮
+U+66ae	暮
+暴-Kaisho	U+66b4	暴
+U+66b4	暴
+暸-Kaisho	U+66b8	暸
+U+66b8	暸
+暹-Kaisho	U+66b9	暹
+U+66b9	暹
+暼-Kaisho	U+66bc	暼
+U+66bc	暼
+暾-Kaisho	U+66be	暾
+U+66be	暾
+曁-Kaisho	U+66c1	曁
+U+66c1	曁
+曄-Kaisho	U+66c4	曄
+U+66c4	曄
+曇-Kaisho	U+66c7	曇
+U+66c7	曇
+曉-Kaisho	U+66c9	曉
+U+66c9	曉
+曖-Kaisho	U+66d6	曖
+U+66d6	曖
+曙-Kaisho	U+66d9	曙
+U+66d9	曙
+曚-Kaisho	U+66da	曚
+U+66da	曚
+曜-Kaisho	U+66dc	曜
+U+66dc	曜
+曝-Kaisho	U+66dd	曝
+U+66dd	曝
+曠-Kaisho	U+66e0	曠
+曠-KaishoVtLst	U+66e0	曠
+U+66e0	曠
+曦-Kaisho	U+66e6	曦
+U+66e6	曦
+曩-Kaisho	U+66e9	曩
+U+66e9	曩
+U+66f0	曰
+曲-Kaisho	U+66f2	曲
+曲-KaishoVtLst	U+66f2	曲
+U+66f2	曲
+曳-Kaisho	U+66f3	曳
+U+66f3	曳
+更-Kaisho	U+66f4	更
+U+66f4	更
+U+66f5	曵
+曷-Kaisho	U+66f7	曷
+U+66f7	曷
+書-Kaisho	U+66f8	書
+U+66f8	書
+曹-Kaisho	U+66f9	曹
+曹-KaishoVtLst	U+66f9	曹
+U+66f9	曹
+曼-Kaisho	U+66fc	曼
+U+66fc	曼
+曽-Kaisho	U+66fd	曽
+U+66fd	曽
+曾-Kaisho	U+66fe	曾
+U+66fe	曾
+替-Kaisho	U+66ff	替
+U+66ff	替
+最-Kaisho	U+6700	最
+最-KaishoVt3	U+6700	最
+U+6700	最
+會-Kaisho	U+6703	會
+U+6703	會
+月-Kaisho	U+6708	月
+U+6708	月
+有-Kaisho	U+6709	有
+U+6709	有
+朋-Kaisho	U+670b	朋
+U+670b	朋
+服-Kaisho	U+670d	服
+服-KaishoVtFst	U+670d	服
+U+670d	服
+朏-Kaisho	U+670f	朏
+U+670f	朏
+朔-Kaisho	U+6714	朔
+U+6714	朔
+朕-Kaisho	U+6715	朕
+U+6715	朕
+朖-Kaisho	U+6716	朖
+U+6716	朖
+朗-Kaisho	U+6717	朗
+U+6717	朗
+望-Kaisho	U+671b	望
+望-KaishoVtLst	U+671b	望
+U+671b	望
+朝-Kaisho	U+671d	朝
+U+671d	朝
+朞-Kaisho	U+671e	朞
+U+671e	朞
+期-Kaisho	U+671f	期
+U+671f	期
+朦-Kaisho	U+6726	朦
+U+6726	朦
+朧-Kaisho	U+6727	朧
+U+6727	朧
+木-Kaisho	U+6728	木
+U+6728	木
+未-Kaisho	U+672a	未
+U+672a	未
+末-Kaisho	U+672b	末
+U+672b	末
+U+672c	本
+札-Kaisho	U+672d	札
+U+672d	札
+朮-Kaisho	U+672e	朮
+U+672e	朮
+朱-Kaisho	U+6731	朱
+U+6731	朱
+朴-Kaisho	U+6734	朴
+U+6734	朴
+朶-Kaisho	U+6736	朶
+U+6736	朶
+朷-Kaisho	U+6737	朷
+U+6737	朷
+朸-Kaisho	U+6738	朸
+U+6738	朸
+机-Kaisho	U+673a	机
+U+673a	机
+朽-Kaisho	U+673d	朽
+U+673d	朽
+朿-Kaisho	U+673f	朿
+U+673f	朿
+杁-Kaisho	U+6741	杁
+U+6741	杁
+杆-Kaisho	U+6746	杆
+U+6746	杆
+杉-Kaisho	U+6749	杉
+U+6749	杉
+U+674e	李
+U+674f	杏
+材-Kaisho	U+6750	材
+U+6750	材
+村-Kaisho	U+6751	村
+U+6751	村
+杓-HyougaiKaisho	U+6753	杓
+杓-Hyougai	U+6753	杓
+U+6753	杓
+杖-HyougaiKaisho	U+6756	杖
+杖-Hyougai	U+6756	杖
+杖-Jinmei	U+6756	杖
+U+6756	杖
+杙-Kaisho	U+6759	杙
+U+6759	杙
+杜-Kaisho	U+675c	杜
+U+675c	杜
+杞-Kaisho	U+675e	杞
+U+675e	杞
+束-Kaisho	U+675f	束
+U+675f	束
+杠-Kaisho	U+6760	杠
+U+6760	杠
+条-Kaisho	U+6761	条
+U+6761	条
+U+6762	杢
+杣-Kaisho	U+6763	杣
+U+6763	杣
+杤-Kaisho	U+6764	杤
+U+6764	杤
+来-Kaisho	U+6765	来
+U+6765	来
+杪-Kaisho	U+676a	杪
+U+676a	杪
+杭-Kaisho	U+676d	杭
+U+676d	杭
+杯-Kaisho	U+676f	杯
+U+676f	杯
+杰-Kaisho	U+6770	杰
+U+6770	杰
+東-Kaisho	U+6771	東
+U+6771	東
+杲-Kaisho	U+6772	杲
+U+6772	杲
+杳-Kaisho	U+6773	杳
+U+6773	杳
+杵-Kaisho	U+6775	杵
+U+6775	杵
+杷-Kaisho	U+6777	杷
+U+6777	杷
+杼-Kaisho	U+677c	杼
+U+677c	杼
+松-Kaisho	U+677e	松
+U+677e	松
+板-Kaisho	U+677f	板
+U+677f	板
+枅-Kaisho	U+6785	枅
+U+6785	枅
+枇-Kaisho	U+6787	枇
+U+6787	枇
+枉-Kaisho	U+6789	枉
+枉-KaishoVtLst	U+6789	枉
+U+6789	枉
+枋-Kaisho	U+678b	枋
+U+678b	枋
+枌-Kaisho	U+678c	枌
+U+678c	枌
+析-Kaisho	U+6790	析
+U+6790	析
+枕-Kaisho	U+6795	枕
+U+6795	枕
+林-Kaisho	U+6797	林
+U+6797	林
+枚-Kaisho	U+679a	枚
+U+679a	枚
+果-Kaisho	U+679c	果
+U+679c	果
+枝-Kaisho	U+679d	枝
+U+679d	枝
+枠-Kaisho	U+67a0	枠
+U+67a0	枠
+枡-Kaisho	U+67a1	枡
+U+67a1	枡
+枢-Kaisho	U+67a2	枢
+U+67a2	枢
+枦-Kaisho	U+67a6	枦
+U+67a6	枦
+枩-Kaisho	U+67a9	枩
+U+67a9	枩
+枯-Kaisho	U+67af	枯
+U+67af	枯
+枳-Kaisho	U+67b3	枳
+U+67b3	枳
+枴-Kaisho	U+67b4	枴
+U+67b4	枴
+架-Kaisho	U+67b6	架
+U+67b6	架
+枷-Kaisho	U+67b7	枷
+U+67b7	枷
+枸-Kaisho	U+67b8	枸
+U+67b8	枸
+枹-Kaisho	U+67b9	枹
+U+67b9	枹
+柁-Kaisho	U+67c1	柁
+U+67c1	柁
+柄-Kaisho	U+67c4	柄
+U+67c4	柄
+柆-Kaisho	U+67c6	柆
+U+67c6	柆
+柊-Kaisho	U+67ca	柊
+U+67ca	柊
+柎-Kaisho	U+67ce	柎
+U+67ce	柎
+柏-Kaisho	U+67cf	柏
+U+67cf	柏
+某-Kaisho	U+67d0	某
+U+67d0	某
+柑-Kaisho	U+67d1	柑
+U+67d1	柑
+染-Kaisho	U+67d3	染
+U+67d3	染
+柔-Kaisho	U+67d4	柔
+U+67d4	柔
+柘-Kaisho	U+67d8	柘
+U+67d8	柘
+柚-Kaisho	U+67da	柚
+柚-KaishoVtLst	U+67da	柚
+U+67da	柚
+柝-Kaisho	U+67dd	柝
+U+67dd	柝
+柞-Kaisho	U+67de	柞
+U+67de	柞
+柢-Kaisho	U+67e2	柢
+U+67e2	柢
+柤-Kaisho	U+67e4	柤
+U+67e4	柤
+柧-Kaisho	U+67e7	柧
+U+67e7	柧
+柩-Kaisho	U+67e9	柩
+U+67e9	柩
+柬-Kaisho	U+67ec	柬
+U+67ec	柬
+柮-Kaisho	U+67ee	柮
+U+67ee	柮
+柯-Kaisho	U+67ef	柯
+U+67ef	柯
+柱-Kaisho	U+67f1	柱
+柱-KaishoVtLst	U+67f1	柱
+U+67f1	柱
+柳-Kaisho	U+67f3	柳
+U+67f3	柳
+柴-KaishoHzFst	U+67f4	柴
+柴-Kaisho	U+67f4	柴
+U+67f4	柴
+柵-Kaisho	U+67f5	柵
+U+67f5	柵
+査-Kaisho	U+67fb	査
+U+67fb	査
+柾-KaishoHzFst	U+67fe	柾
+柾-Kaisho	U+67fe	柾
+U+67fe	柾
+柿-Kaisho	U+67ff	柿
+U+67ff	柿
+栂-Kaisho	U+6802	栂
+U+6802	栂
+栃-Kaisho	U+6803	栃
+U+6803	栃
+栄-Kaisho	U+6804	栄
+U+6804	栄
+栓-Kaisho	U+6813	栓
+栓-KaishoVtLst	U+6813	栓
+U+6813	栓
+栖-Kaisho	U+6816	栖
+U+6816	栖
+栗-Kaisho	U+6817	栗
+U+6817	栗
+栞-Kaisho	U+681e	栞
+U+681e	栞
+校-Kaisho	U+6821	校
+U+6821	校
+栢-Kaisho	U+6822	栢
+U+6822	栢
+栩-Kaisho	U+6829	栩
+U+6829	栩
+株-Kaisho	U+682a	株
+U+682a	株
+栫-Kaisho	U+682b	栫
+U+682b	栫
+栲-Kaisho	U+6832	栲
+U+6832	栲
+栴-Kaisho	U+6834	栴
+U+6834	栴
+核-Kaisho	U+6838	核
+U+6838	核
+根-Kaisho	U+6839	根
+U+6839	根
+格-Kaisho	U+683c	格
+U+683c	格
+栽-Kaisho	U+683d	栽
+U+683d	栽
+桀-Hyougai	U+6840	桀
+U+6840	桀
+桁-Kaisho	U+6841	桁
+U+6841	桁
+桂-Kaisho	U+6842	桂
+U+6842	桂
+桃-KaishoMidFst	U+6843	桃
+桃-Kaisho	U+6843	桃
+U+6843	桃
+框-Kaisho	U+6846	框
+框-KaishoVtLst	U+6846	框
+U+6846	框
+案-Kaisho	U+6848	案
+U+6848	案
+桍-Kaisho	U+684d	桍
+U+684d	桍
+桎-Kaisho	U+684e	桎
+桎-KaishoVtFst	U+684e	桎
+U+684e	桎
+桐-Kaisho	U+6850	桐
+U+6850	桐
+桑-Kaisho	U+6851	桑
+U+6851	桑
+桓-Kaisho	U+6853	桓
+U+6853	桓
+桔-Kaisho	U+6854	桔
+U+6854	桔
+桙-Kaisho	U+6859	桙
+U+6859	桙
+桜-Kaisho	U+685c	桜
+U+685c	桜
+桝-Hyougai	U+685d	桝
+U+685d	桝
+桟-Kaisho	U+685f	桟
+U+685f	桟
+档-Kaisho	U+6863	档
+U+6863	档
+桧-Kaisho	U+6867	桧
+U+6867	桧
+桴-Kaisho	U+6874	桴
+U+6874	桴
+桶-Kaisho	U+6876	桶
+U+6876	桶
+桷-Kaisho	U+6877	桷
+U+6877	桷
+U+687c	桼
+桾-Kaisho	U+687e	桾
+U+687e	桾
+桿-Kaisho	U+687f	桿
+U+687f	桿
+梁-Kaisho	U+6881	梁
+U+6881	梁
+梃-Kaisho	U+6883	梃
+U+6883	梃
+梅-Kaisho	U+6885	梅
+U+6885	梅
+梍-Kaisho	U+688d	梍
+U+688d	梍
+梏-Kaisho	U+688f	梏
+U+688f	梏
+梓-Kaisho	U+6893	梓
+U+6893	梓
+梔-Kaisho	U+6894	梔
+U+6894	梔
+梗-JinmeiKaisho	U+6897	梗
+梗-Jinmei	U+6897	梗
+梗-Kaisho	U+6897	梗
+U+6897	梗
+梛-Jinmei	U+689b	梛
+梛-Kaisho	U+689b	梛
+U+689b	梛
+條-Kaisho	U+689d	條
+U+689d	條
+梟-Kaisho	U+689f	梟
+U+689f	梟
+梠-Kaisho	U+68a0	梠
+U+68a0	梠
+梢-Kaisho	U+68a2	梢
+U+68a2	梢
+U+68a6	梦
+梧-Kaisho	U+68a7	梧
+U+68a7	梧
+梨-Kaisho	U+68a8	梨
+U+68a8	梨
+梭-Kaisho	U+68ad	梭
+U+68ad	梭
+梯-Kaisho	U+68af	梯
+U+68af	梯
+械-Kaisho	U+68b0	械
+U+68b0	械
+梱-Kaisho	U+68b1	梱
+U+68b1	梱
+梳-Kaisho	U+68b3	梳
+U+68b3	梳
+U+68b5	梵
+梶-Kaisho	U+68b6	梶
+U+68b6	梶
+梹-Kaisho	U+68b9	梹
+U+68b9	梹
+U+68ba	梺
+梼-Kaisho	U+68bc	梼
+U+68bc	梼
+棄-Kaisho	U+68c4	棄
+U+68c4	棄
+棆-Kaisho	U+68c6	棆
+U+68c6	棆
+棉-Kaisho	U+68c9	棉
+U+68c9	棉
+棊-Kaisho	U+68ca	棊
+U+68ca	棊
+棋-Kaisho	U+68cb	棋
+U+68cb	棋
+棍-Kaisho	U+68cd	棍
+U+68cd	棍
+棒-Kaisho	U+68d2	棒
+U+68d2	棒
+棔-Kaisho	U+68d4	棔
+U+68d4	棔
+棕-Kaisho	U+68d5	棕
+U+68d5	棕
+棗-Kaisho	U+68d7	棗
+U+68d7	棗
+棘-HyougaiKaisho	U+68d8	棘
+棘-Hyougai	U+68d8	棘
+U+68d8	棘
+棚-Kaisho	U+68da	棚
+U+68da	棚
+棟-Kaisho	U+68df	棟
+U+68df	棟
+棠-Kaisho	U+68e0	棠
+U+68e0	棠
+棡-Kaisho	U+68e1	棡
+U+68e1	棡
+棣-Kaisho	U+68e3	棣
+U+68e3	棣
+棧-Kaisho	U+68e7	棧
+U+68e7	棧
+森-Kaisho	U+68ee	森
+U+68ee	森
+棯-Kaisho	U+68ef	棯
+U+68ef	棯
+棲-Kaisho	U+68f2	棲
+棲-KaishoVtLst	U+68f2	棲
+U+68f2	棲
+棹-KaishoHzFst	U+68f9	棹
+棹-Kaisho	U+68f9	棹
+U+68f9	棹
+棺-Kaisho	U+68fa	棺
+U+68fa	棺
+椀-Kaisho	U+6900	椀
+U+6900	椀
+椁-Kaisho	U+6901	椁
+U+6901	椁
+椄-Kaisho	U+6904	椄
+U+6904	椄
+椅-Kaisho	U+6905	椅
+U+6905	椅
+椈-Kaisho	U+6908	椈
+U+6908	椈
+椋-Kaisho	U+690b	椋
+U+690b	椋
+椌-Kaisho	U+690c	椌
+U+690c	椌
+植-Kaisho	U+690d	植
+U+690d	植
+椎-Kaisho	U+690e	椎
+U+690e	椎
+椏-Kaisho	U+690f	椏
+U+690f	椏
+椒-KaishoHzFst	U+6912	椒
+椒-Kaisho	U+6912	椒
+U+6912	椒
+椙-Kaisho	U+6919	椙
+U+6919	椙
+椚-Kaisho	U+691a	椚
+U+691a	椚
+椛-Kaisho	U+691b	椛
+U+691b	椛
+検-Kaisho	U+691c	検
+U+691c	検
+椡-Kaisho	U+6921	椡
+椡-KaishoVtFst	U+6921	椡
+U+6921	椡
+椢-Kaisho	U+6922	椢
+椢-KaishoVtLst	U+6922	椢
+U+6922	椢
+椣-Kaisho	U+6923	椣
+椣-KaishoVtLst	U+6923	椣
+U+6923	椣
+椥-Kaisho	U+6925	椥
+U+6925	椥
+椦-Kaisho	U+6926	椦
+U+6926	椦
+椨-Kaisho	U+6928	椨
+U+6928	椨
+椪-Kaisho	U+692a	椪
+U+692a	椪
+椰-Kaisho	U+6930	椰
+椰-KaishoVt3	U+6930	椰
+U+6930	椰
+椴-Kaisho	U+6934	椴
+U+6934	椴
+椶-Kaisho	U+6936	椶
+U+6936	椶
+椹-Kaisho	U+6939	椹
+U+6939	椹
+椽-Kaisho	U+693d	椽
+U+693d	椽
+椿-Kaisho	U+693f	椿
+U+693f	椿
+楊-Kaisho	U+694a	楊
+U+694a	楊
+楓-Kaisho	U+6953	楓
+U+6953	楓
+楔-Kaisho	U+6954	楔
+U+6954	楔
+楕-Kaisho	U+6955	楕
+U+6955	楕
+楙-Kaisho	U+6959	楙
+U+6959	楙
+U+695a	楚
+楜-Kaisho	U+695c	楜
+U+695c	楜
+楝-Kaisho	U+695d	楝
+U+695d	楝
+楞-Kaisho	U+695e	楞
+U+695e	楞
+楠-Kaisho	U+6960	楠
+U+6960	楠
+楡-Kaisho	U+6961	楡
+U+6961	楡
+楢-HyougaiKaisho	U+6962	楢
+楢-Hyougai	U+6962	楢
+U+6962	楢
+楪-Kaisho	U+696a	楪
+U+696a	楪
+楫-Kaisho	U+696b	楫
+楫-KaishoVt3	U+696b	楫
+U+696b	楫
+業-Kaisho	U+696d	業
+U+696d	業
+楮-Kaisho	U+696e	楮
+U+696e	楮
+楯-HyougaiKaisho	U+696f	楯
+楯-Hyougai	U+696f	楯
+楯-JinmeiKaisho	U+696f	楯
+楯-Jinmei	U+696f	楯
+U+696f	楯
+楳-Kaisho	U+6973	楳
+U+6973	楳
+楴-Kaisho	U+6974	楴
+U+6974	楴
+極-Kaisho	U+6975	極
+U+6975	極
+楷-Kaisho	U+6977	楷
+U+6977	楷
+楸-Kaisho	U+6978	楸
+U+6978	楸
+楹-Kaisho	U+6979	楹
+U+6979	楹
+楼-Kaisho	U+697c	楼
+U+697c	楼
+楽-Kaisho	U+697d	楽
+U+697d	楽
+楾-Kaisho	U+697e	楾
+U+697e	楾
+榁-Kaisho	U+6981	榁
+榁-KaishoVtFst	U+6981	榁
+U+6981	榁
+概-Kaisho	U+6982	概
+U+6982	概
+榊-HyougaiKaisho	U+698a	榊
+榊-Hyougai	U+698a	榊
+榊-Kaisho	U+698a	榊
+U+698a	榊
+榎-Kaisho	U+698e	榎
+U+698e	榎
+榑-Kaisho	U+6991	榑
+U+6991	榑
+榔-HyougaiKaisho	U+6994	榔
+榔-Hyougai	U+6994	榔
+U+6994	榔
+榕-Kaisho	U+6995	榕
+U+6995	榕
+榛-Kaisho	U+699b	榛
+U+699b	榛
+榜-Kaisho	U+699c	榜
+U+699c	榜
+榠-Kaisho	U+69a0	榠
+U+69a0	榠
+榧-KaishoMdFst	U+69a7	榧
+榧-Kaisho	U+69a7	榧
+U+69a7	榧
+榮-Kaisho	U+69ae	榮
+U+69ae	榮
+榱-Kaisho	U+69b1	榱
+U+69b1	榱
+榲-Kaisho	U+69b2	榲
+U+69b2	榲
+榴-Kaisho	U+69b4	榴
+U+69b4	榴
+榻-Kaisho	U+69bb	榻
+U+69bb	榻
+榾-KaishoHzFst	U+69be	榾
+榾-Kaisho	U+69be	榾
+U+69be	榾
+榿-Kaisho	U+69bf	榿
+U+69bf	榿
+槁-Kaisho	U+69c1	槁
+U+69c1	槁
+槃-Kaisho	U+69c3	槃
+U+69c3	槃
+槇-Kaisho	U+69c7	槇
+U+69c7	槇
+槊-Kaisho	U+69ca	槊
+U+69ca	槊
+構-Kaisho	U+69cb	構
+U+69cb	構
+槌-HyougaiKaisho	U+69cc	槌
+槌-Hyougai	U+69cc	槌
+U+69cc	槌
+槍-Kaisho	U+69cd	槍
+U+69cd	槍
+槎-Kaisho	U+69ce	槎
+槎-KaishoVtLst	U+69ce	槎
+U+69ce	槎
+槐-Kaisho	U+69d0	槐
+U+69d0	槐
+槓-Kaisho	U+69d3	槓
+U+69d3	槓
+様-Kaisho	U+69d8	様
+U+69d8	様
+槙-Kaisho	U+69d9	槙
+U+69d9	槙
+槝-Kaisho	U+69dd	槝
+U+69dd	槝
+槞-Kaisho	U+69de	槞
+U+69de	槞
+槧-Kaisho	U+69e7	槧
+U+69e7	槧
+槨-Kaisho	U+69e8	槨
+U+69e8	槨
+槫-Kaisho	U+69eb	槫
+U+69eb	槫
+槭-KaishoHzFst	U+69ed	槭
+槭-KaishoHzFstTenFst	U+69ed	槭
+槭-Kaisho	U+69ed	槭
+U+69ed	槭
+槲-Kaisho	U+69f2	槲
+U+69f2	槲
+槹-Kaisho	U+69f9	槹
+U+69f9	槹
+槻-Kaisho	U+69fb	槻
+U+69fb	槻
+槽-Kaisho	U+69fd	槽
+槽-KaishoVtLst	U+69fd	槽
+U+69fd	槽
+槿-Kaisho	U+69ff	槿
+U+69ff	槿
+樂-Kaisho	U+6a02	樂
+U+6a02	樂
+樅-Kaisho	U+6a05	樅
+U+6a05	樅
+U+6a0a	樊
+樋-HyougaiKaisho	U+6a0b	樋
+樋-Hyougai	U+6a0b	樋
+樋-Kaisho	U+6a0b	樋
+U+6a0b	樋
+樌-Kaisho	U+6a0c	樌
+U+6a0c	樌
+樒-Kaisho	U+6a12	樒
+樒-KaishoTen3	U+6a12	樒
+U+6a12	樒
+樓-Kaisho	U+6a13	樓
+U+6a13	樓
+樔-Kaisho	U+6a14	樔
+U+6a14	樔
+樗-Kaisho	U+6a17	樗
+U+6a17	樗
+標-Kaisho	U+6a19	標
+U+6a19	標
+樛-Kaisho	U+6a1b	樛
+U+6a1b	樛
+樞-Kaisho	U+6a1e	樞
+U+6a1e	樞
+樟-Kaisho	U+6a1f	樟
+U+6a1f	樟
+模-Kaisho	U+6a21	模
+U+6a21	模
+樢-Kaisho	U+6a22	樢
+U+6a22	樢
+樣-Kaisho	U+6a23	樣
+U+6a23	樣
+権-Kaisho	U+6a29	権
+U+6a29	権
+横-Kaisho	U+6a2a	横
+横-KaishoVtLst	U+6a2a	横
+U+6a2a	横
+樫-KaishoHzFst	U+6a2b	樫
+樫-Kaisho	U+6a2b	樫
+U+6a2b	樫
+樮-Kaisho	U+6a2e	樮
+U+6a2e	樮
+樵-Kaisho	U+6a35	樵
+U+6a35	樵
+樶-Kaisho	U+6a36	樶
+樶-KaishoVt3	U+6a36	樶
+U+6a36	樶
+樸-Kaisho	U+6a38	樸
+U+6a38	樸
+樹-Kaisho	U+6a39	樹
+U+6a39	樹
+樺-Kaisho	U+6a3a	樺
+U+6a3a	樺
+樽-HyougaiKaisho	U+6a3d	樽
+樽-Hyougai	U+6a3d	樽
+U+6a3d	樽
+橄-Kaisho	U+6a44	橄
+橄-KaishoVt3	U+6a44	橄
+U+6a44	橄
+橇-Kaisho	U+6a47	橇
+U+6a47	橇
+橈-Kaisho	U+6a48	橈
+U+6a48	橈
+橋-Kaisho	U+6a4b	橋
+U+6a4b	橋
+橘-Kaisho	U+6a58	橘
+U+6a58	橘
+橙-HyougaiKaishoDg3	U+6a59	橙
+橙-HyougaiKaishoDgLst	U+6a59	橙
+橙-HyougaiKaisho	U+6a59	橙
+橙-Hyougai	U+6a59	橙
+U+6a59	橙
+機-Kaisho	U+6a5f	機
+U+6a5f	機
+橡-Kaisho	U+6a61	橡
+U+6a61	橡
+橢-Kaisho	U+6a62	橢
+U+6a62	橢
+橦-Kaisho	U+6a66	橦
+橦-KaishoVtLst	U+6a66	橦
+U+6a66	橦
+橲-Kaisho	U+6a72	橲
+U+6a72	橲
+橸-Kaisho	U+6a78	橸
+U+6a78	橸
+橿-Kaisho	U+6a7f	橿
+U+6a7f	橿
+檀-Kaisho	U+6a80	檀
+U+6a80	檀
+檄-Kaisho	U+6a84	檄
+U+6a84	檄
+檍-Kaisho	U+6a8d	檍
+U+6a8d	檍
+U+6a8e	檎
+檐-Kaisho	U+6a90	檐
+U+6a90	檐
+檗-Kaisho	U+6a97	檗
+U+6a97	檗
+檜-Kaisho	U+6a9c	檜
+U+6a9c	檜
+檠-Kaisho	U+6aa0	檠
+U+6aa0	檠
+檢-Kaisho	U+6aa2	檢
+U+6aa2	檢
+檣-Kaisho	U+6aa3	檣
+U+6aa3	檣
+檪-Kaisho	U+6aaa	檪
+U+6aaa	檪
+檬-Kaisho	U+6aac	檬
+U+6aac	檬
+檮-Kaisho	U+6aae	檮
+U+6aae	檮
+檳-Kaisho	U+6ab3	檳
+U+6ab3	檳
+檸-Kaisho	U+6ab8	檸
+U+6ab8	檸
+檻-KaishoHzFst	U+6abb	檻
+檻-Kaisho	U+6abb	檻
+U+6abb	檻
+櫁-Kaisho	U+6ac1	櫁
+櫁-KaishoTen3	U+6ac1	櫁
+U+6ac1	櫁
+櫂-Kaisho	U+6ac2	櫂
+U+6ac2	櫂
+櫃-Kaisho	U+6ac3	櫃
+U+6ac3	櫃
+櫑-Kaisho	U+6ad1	櫑
+U+6ad1	櫑
+櫓-Kaisho	U+6ad3	櫓
+U+6ad3	櫓
+櫚-Kaisho	U+6ada	櫚
+U+6ada	櫚
+櫛-HyougaiKaisho	U+6adb	櫛
+櫛-Hyougai	U+6adb	櫛
+U+6adb	櫛
+U+6ade	櫞
+櫟-Kaisho	U+6adf	櫟
+U+6adf	櫟
+櫨-KaishoHzFstLeRi	U+6ae8	櫨
+櫨-KaishoHzFstRiLe	U+6ae8	櫨
+櫨-Kaisho	U+6ae8	櫨
+櫨-KaishoVtFstRiLe	U+6ae8	櫨
+U+6ae8	櫨
+櫪-HzFst	U+6aea	櫪
+U+6aea	櫪
+櫺-Kaisho	U+6afa	櫺
+U+6afa	櫺
+櫻-Kaisho	U+6afb	櫻
+U+6afb	櫻
+欄-Kaisho	U+6b04	欄
+U+6b04	欄
+欅-KaishoLeFst	U+6b05	欅
+欅-Kaisho	U+6b05	欅
+U+6b05	欅
+權-Kaisho	U+6b0a	權
+U+6b0a	權
+U+6b12	欒
+欖-KaishoHzFst	U+6b16	欖
+欖-Kaisho	U+6b16	欖
+U+6b16	欖
+欝-KaishoLeFst	U+6b1d	欝
+欝-Kaisho	U+6b1d	欝
+U+6b1d	欝
+欟-Kaisho	U+6b1f	欟
+U+6b1f	欟
+U+6b20	欠
+U+6b21	次
+U+6b23	欣
+U+6b27	欧
+U+6b32	欲
+U+6b37	欷
+U+6b38	欸
+U+6b39	欹
+欺-Kaisho	U+6b3a	欺
+U+6b3a	欺
+U+6b3d	欽
+U+6b3e	款
+歃-MdFst	U+6b43	歃
+U+6b43	歃
+歇-Kaisho	U+6b47	歇
+U+6b47	歇
+U+6b49	歉
+U+6b4c	歌
+歎-Hyougai	U+6b4e	歎
+U+6b4e	歎
+U+6b50	歐
+U+6b53	歓
+歔-HzFstLeRi	U+6b54	歔
+歔-HzFstRiLe	U+6b54	歔
+U+6b54	歔
+歔-VtFstRiLe	U+6b54	歔
+U+6b59	歙
+U+6b5b	歛
+歟-LeFst	U+6b5f	歟
+U+6b5f	歟
+U+6b61	歡
+止-HzFst	U+6b62	止
+U+6b62	止
+正-HzFst	U+6b63	正
+U+6b63	正
+此-HzFst	U+6b64	此
+U+6b64	此
+武-HzFst	U+6b66	武
+U+6b66	武
+歩-HzFst	U+6b69	歩
+U+6b69	歩
+歪-HzFst	U+6b6a	歪
+U+6b6a	歪
+歯-HzFst	U+6b6f	歯
+U+6b6f	歯
+歳-HzFst	U+6b73	歳
+歳-HzFstTenFst	U+6b73	歳
+U+6b73	歳
+歳-TenFst	U+6b73	歳
+歴-KaishoHzFst	U+6b74	歴
+歴-Kaisho	U+6b74	歴
+U+6b74	歴
+歸-HzFst	U+6b78	歸
+U+6b78	歸
+U+6b79	歹
+U+6b7b	死
+U+6b7f	歿
+U+6b80	殀
+U+6b83	殃
+U+6b84	殄
+U+6b86	殆
+殉-Kaisho	U+6b89	殉
+U+6b89	殉
+殊-Kaisho	U+6b8a	殊
+U+6b8a	殊
+U+6b8b	残
+U+6b8d	殍
+殕-Kaisho	U+6b95	殕
+U+6b95	殕
+殖-Kaisho	U+6b96	殖
+U+6b96	殖
+U+6b98	殘
+U+6b9e	殞
+殤-Kaisho	U+6ba4	殤
+U+6ba4	殤
+U+6baa	殪
+殫-Kaisho	U+6bab	殫
+U+6bab	殫
+殯-Kaisho	U+6baf	殯
+U+6baf	殯
+U+6bb1	殱
+U+6bb2	殲
+U+6bb3	殳
+U+6bb4	殴
+U+6bb5	段
+U+6bb7	殷
+殺-Kaisho	U+6bba	殺
+U+6bba	殺
+U+6bbb	殻
+U+6bbc	殼
+U+6bbf	殿
+毀-HzFst	U+6bc0	毀
+U+6bc0	毀
+毅-Kaisho	U+6bc5	毅
+U+6bc5	毅
+U+6bc6	毆
+U+6bcb	毋
+U+6bcd	母
+U+6bce	毎
+U+6bd2	毒
+毒-VtLst	U+6bd2	毒
+毓-Kaisho	U+6bd3	毓
+U+6bd3	毓
+比-Kaisho	U+6bd4	比
+U+6bd4	比
+毘-Kaisho	U+6bd8	毘
+U+6bd8	毘
+U+6bdb	毛
+U+6bdf	毟
+毫-Kaisho	U+6beb	毫
+U+6beb	毫
+U+6bec	毬
+U+6bef	毯
+U+6bf3	毳
+氈-Kaisho	U+6c08	氈
+U+6c08	氈
+U+6c0f	氏
+U+6c11	民
+氓-Kaisho	U+6c13	氓
+U+6c13	氓
+U+6c14	气
+U+6c17	気
+U+6c1b	氛
+氣-Kaisho	U+6c23	氣
+U+6c23	氣
+U+6c24	氤
+U+6c34	水
+U+6c35	氵
+U+6c37	氷
+U+6c38	永
+U+6c3a	氺
+U+6c3e	氾
+U+6c40	汀
+U+6c41	汁
+U+6c42	求
+U+6c4e	汎
+U+6c50	汐
+U+6c55	汕
+U+6c57	汗
+U+6c5a	汚
+U+6c5d	汝
+U+6c5e	汞
+U+6c5f	江
+U+6c60	池
+U+6c62	汢
+汨-Kaisho	U+6c68	汨
+U+6c68	汨
+U+6c6a	汪
+汪-VtLst	U+6c6a	汪
+U+6c70	汰
+汲-Hyougai	U+6c72	汲
+汲-Jinmei	U+6c72	汲
+U+6c72	汲
+U+6c73	汳
+U+6c7a	決
+U+6c7d	汽
+U+6c7e	汾
+U+6c81	沁
+U+6c82	沂
+U+6c83	沃
+U+6c88	沈
+U+6c8c	沌
+U+6c8d	沍
+沐-Kaisho	U+6c90	沐
+U+6c90	沐
+U+6c92	沒
+沓-Kaisho	U+6c93	沓
+U+6c93	沓
+U+6c96	沖
+U+6c99	沙
+沚-HzFst	U+6c9a	沚
+U+6c9a	沚
+沛-Hyougai	U+6c9b	沛
+U+6c9b	沛
+U+6ca1	没
+U+6ca2	沢
+沫-Kaisho	U+6cab	沫
+U+6cab	沫
+沮-Kaisho	U+6cae	沮
+U+6cae	沮
+沱-Kaisho	U+6cb1	沱
+U+6cb1	沱
+U+6cb3	河
+U+6cb8	沸
+油-Kaisho	U+6cb9	油
+油-KaishoVtLst	U+6cb9	油
+U+6cb9	油
+沺-Kaisho	U+6cba	沺
+U+6cba	沺
+U+6cbb	治
+U+6cbc	沼
+U+6cbd	沽
+沾-HzFst	U+6cbe	沾
+U+6cbe	沾
+U+6cbf	沿
+U+6cc1	況
+U+6cc4	泄
+U+6cc5	泅
+泉-Kaisho	U+6cc9	泉
+U+6cc9	泉
+泊-Kaisho	U+6cca	泊
+U+6cca	泊
+U+6ccc	泌
+泌-Ten3	U+6ccc	泌
+U+6cd3	泓
+U+6cd5	法
+U+6cd7	泗
+U+6cd9	泙
+U+6cdb	泛
+U+6cdd	泝
+U+6ce1	泡
+U+6ce2	波
+泣-Kaisho	U+6ce3	泣
+U+6ce3	泣
+U+6ce5	泥
+U+6ce8	注
+注-VtLst	U+6ce8	注
+泪-Kaisho	U+6cea	泪
+U+6cea	泪
+U+6cef	泯
+U+6cf0	泰
+U+6cf1	泱
+U+6cf3	泳
+U+6d0b	洋
+U+6d0c	洌
+U+6d12	洒
+U+6d17	洗
+洙-Kaisho	U+6d19	洙
+U+6d19	洙
+U+6d1b	洛
+U+6d1e	洞
+U+6d1f	洟
+U+6d25	津
+洩-Kaisho	U+6d29	洩
+U+6d29	洩
+U+6d2a	洪
+U+6d2b	洫
+U+6d32	洲
+U+6d33	洳
+洵-Kaisho	U+6d35	洵
+U+6d35	洵
+U+6d36	洶
+U+6d38	洸
+U+6d3b	活
+U+6d3d	洽
+U+6d3e	派
+流-Kaisho	U+6d41	流
+U+6d41	流
+U+6d44	浄
+U+6d45	浅
+U+6d59	浙
+U+6d5a	浚
+U+6d5c	浜
+浣-Kaisho	U+6d63	浣
+U+6d63	浣
+浤-Kaisho	U+6d64	浤
+U+6d64	浤
+浦-Kaisho	U+6d66	浦
+U+6d66	浦
+U+6d69	浩
+浪-Kaisho	U+6d6a	浪
+U+6d6a	浪
+浬-Kaisho	U+6d6c	浬
+浬-KaishoVtLst	U+6d6c	浬
+U+6d6c	浬
+U+6d6e	浮
+U+6d74	浴
+U+6d77	海
+浸-Kaisho	U+6d78	浸
+U+6d78	浸
+U+6d79	浹
+涅-Kaisho	U+6d85	涅
+U+6d85	涅
+消-Kaisho	U+6d88	消
+U+6d88	消
+涌-Kaisho	U+6d8c	涌
+U+6d8c	涌
+涎-HzFst	U+6d8e	涎
+U+6d8e	涎
+涓-Kaisho	U+6d93	涓
+U+6d93	涓
+涕-Kaisho	U+6d95	涕
+U+6d95	涕
+U+6d99	涙
+U+6d9b	涛
+U+6d9c	涜
+U+6daf	涯
+液-Kaisho	U+6db2	液
+U+6db2	液
+U+6db5	涵
+U+6db8	涸
+涼-Kaisho	U+6dbc	涼
+U+6dbc	涼
+淀-Kaisho	U+6dc0	淀
+U+6dc0	淀
+淅-Kaisho	U+6dc5	淅
+U+6dc5	淅
+淆-Kaisho	U+6dc6	淆
+U+6dc6	淆
+淇-Kaisho	U+6dc7	淇
+U+6dc7	淇
+淋-Kaisho	U+6dcb	淋
+U+6dcb	淋
+U+6dcc	淌
+淑-HzFst	U+6dd1	淑
+U+6dd1	淑
+U+6dd2	淒
+淒-VtLst	U+6dd2	淒
+U+6dd5	淕
+U+6dd8	淘
+淙-Kaisho	U+6dd9	淙
+U+6dd9	淙
+淞-Kaisho	U+6dde	淞
+U+6dde	淞
+U+6de1	淡
+淤-Kaisho	U+6de4	淤
+U+6de4	淤
+U+6de6	淦
+U+6de8	淨
+淪-Kaisho	U+6dea	淪
+U+6dea	淪
+淫-Hyougai	U+6deb	淫
+U+6deb	淫
+淬-Kaisho	U+6dec	淬
+U+6dec	淬
+U+6dee	淮
+深-Kaisho	U+6df1	深
+U+6df1	深
+淳-Kaisho	U+6df3	淳
+U+6df3	淳
+U+6df5	淵
+混-Kaisho	U+6df7	混
+U+6df7	混
+淹-Kaisho	U+6df9	淹
+U+6df9	淹
+U+6dfa	淺
+U+6dfb	添
+清-Kaisho	U+6e05	清
+清-KaishoVtLst	U+6e05	清
+U+6e05	清
+渇-Kaisho	U+6e07	渇
+U+6e07	渇
+済-Kaisho	U+6e08	済
+U+6e08	済
+渉-HzFst	U+6e09	渉
+U+6e09	渉
+U+6e0a	渊
+渋-HzFst	U+6e0b	渋
+U+6e0b	渋
+U+6e13	渓
+U+6e15	渕
+U+6e19	渙
+渚-Kaisho	U+6e1a	渚
+U+6e1a	渚
+U+6e1b	減
+U+6e1d	渝
+渟-Kaisho	U+6e1f	渟
+U+6e1f	渟
+渠-KaishoHzFst	U+6e20	渠
+渠-Kaisho	U+6e20	渠
+U+6e20	渠
+渡-Kaisho	U+6e21	渡
+U+6e21	渡
+渣-Kaisho	U+6e23	渣
+U+6e23	渣
+U+6e24	渤
+U+6e25	渥
+渥-VtFst	U+6e25	渥
+渦-HzFst	U+6e26	渦
+U+6e26	渦
+温-Kaisho	U+6e29	温
+U+6e29	温
+渫-Kaisho	U+6e2b	渫
+U+6e2b	渫
+測-Kaisho	U+6e2c	測
+U+6e2c	測
+渭-Kaisho	U+6e2d	渭
+U+6e2d	渭
+U+6e2e	渮
+港-Kaisho	U+6e2f	港
+U+6e2f	港
+游-Kaisho	U+6e38	游
+U+6e38	游
+渺-Kaisho	U+6e3a	渺
+U+6e3a	渺
+渾-Kaisho	U+6e3e	渾
+U+6e3e	渾
+U+6e43	湃
+U+6e4a	湊
+U+6e4d	湍
+U+6e4e	湎
+湖-Kaisho	U+6e56	湖
+U+6e56	湖
+湘-Kaisho	U+6e58	湘
+U+6e58	湘
+湛-Kaisho	U+6e5b	湛
+U+6e5b	湛
+湟-Kaisho	U+6e5f	湟
+湟-KaishoVtLst	U+6e5f	湟
+U+6e5f	湟
+湧-Kaisho	U+6e67	湧
+U+6e67	湧
+湫-Kaisho	U+6e6b	湫
+U+6e6b	湫
+U+6e6e	湮
+湯-Kaisho	U+6e6f	湯
+U+6e6f	湯
+U+6e72	湲
+湶-Kaisho	U+6e76	湶
+U+6e76	湶
+湾-Kaisho	U+6e7e	湾
+U+6e7e	湾
+湿-Kaisho	U+6e7f	湿
+U+6e7f	湿
+U+6e80	満
+溂-Kaisho	U+6e82	溂
+U+6e82	溂
+溌-Dg3	U+6e8c	溌
+溌-DgLst	U+6e8c	溌
+U+6e8c	溌
+溏-Kaisho	U+6e8f	溏
+溏-KaishoVt5	U+6e8f	溏
+溏-KaishoVtLst	U+6e8f	溏
+U+6e8f	溏
+源-Kaisho	U+6e90	源
+U+6e90	源
+U+6e96	準
+U+6e98	溘
+溜-Kaisho	U+6e9c	溜
+U+6e9c	溜
+溝-Kaisho	U+6e9d	溝
+U+6e9d	溝
+溟-Kaisho	U+6e9f	溟
+U+6e9f	溟
+溢-Hyougai	U+6ea2	溢
+U+6ea2	溢
+溥-Kaisho	U+6ea5	溥
+U+6ea5	溥
+U+6eaa	溪
+溯-Kaisho	U+6eaf	溯
+U+6eaf	溯
+溲-MdLst	U+6eb2	溲
+U+6eb2	溲
+溶-Kaisho	U+6eb6	溶
+U+6eb6	溶
+U+6eb7	溷
+溺-Hyougai	U+6eba	溺
+U+6eba	溺
+U+6ebd	溽
+滂-Kaisho	U+6ec2	滂
+U+6ec2	滂
+U+6ec4	滄
+U+6ec5	滅
+滉-Kaisho	U+6ec9	滉
+U+6ec9	滉
+U+6ecb	滋
+滌-Kaisho	U+6ecc	滌
+U+6ecc	滌
+滑-KaishoHzFst	U+6ed1	滑
+滑-Kaisho	U+6ed1	滑
+U+6ed1	滑
+滓-Kaisho	U+6ed3	滓
+U+6ed3	滓
+滔-HzFst	U+6ed4	滔
+U+6ed4	滔
+滕-Kaisho	U+6ed5	滕
+U+6ed5	滕
+滝-Kaisho	U+6edd	滝
+U+6edd	滝
+U+6ede	滞
+U+6eec	滬
+U+6eef	滯
+U+6ef2	滲
+滴-Kaisho	U+6ef4	滴
+U+6ef4	滴
+U+6ef7	滷
+U+6ef8	滸
+滾-Kaisho	U+6efe	滾
+U+6efe	滾
+U+6eff	滿
+漁-Kaisho	U+6f01	漁
+U+6f01	漁
+U+6f02	漂
+U+6f06	漆
+漉-Kaisho	U+6f09	漉
+U+6f09	漉
+U+6f0f	漏
+漑-Kaisho	U+6f11	漑
+U+6f11	漑
+U+6f13	漓
+演-Kaisho	U+6f14	演
+演-KaishoVtLst	U+6f14	演
+U+6f14	演
+漕-Kaisho	U+6f15	漕
+漕-KaishoVtLst	U+6f15	漕
+U+6f15	漕
+漠-Kaisho	U+6f20	漠
+U+6f20	漠
+U+6f22	漢
+漣-HyougaiKaisho	U+6f23	漣
+漣-Hyougai	U+6f23	漣
+漣-Kaisho	U+6f23	漣
+U+6f23	漣
+漫-Kaisho	U+6f2b	漫
+U+6f2b	漫
+漬-Kaisho	U+6f2c	漬
+漬-KaishoVtLst	U+6f2c	漬
+U+6f2c	漬
+漱-Kaisho	U+6f31	漱
+U+6f31	漱
+漲-HzFst	U+6f32	漲
+U+6f32	漲
+漸-Kaisho	U+6f38	漸
+U+6f38	漸
+U+6f3e	漾
+U+6f3f	漿
+潁-Kaisho	U+6f41	潁
+U+6f41	潁
+U+6f45	潅
+潔-Kaisho	U+6f54	潔
+U+6f54	潔
+潘-Kaisho	U+6f58	潘
+U+6f58	潘
+潛-Kaisho	U+6f5b	潛
+U+6f5b	潛
+潜-Kaisho	U+6f5c	潜
+U+6f5c	潜
+潟-HzFst	U+6f5f	潟
+U+6f5f	潟
+潤-Kaisho	U+6f64	潤
+潤-KaishoVtLst	U+6f64	潤
+U+6f64	潤
+潦-Kaisho	U+6f66	潦
+U+6f66	潦
+潭-Kaisho	U+6f6d	潭
+U+6f6d	潭
+潮-Kaisho	U+6f6e	潮
+U+6f6e	潮
+U+6f6f	潯
+潰-Kaisho	U+6f70	潰
+U+6f70	潰
+潴-Kaisho	U+6f74	潴
+U+6f74	潴
+潸-Kaisho	U+6f78	潸
+U+6f78	潸
+U+6f7a	潺
+潼-Kaisho	U+6f7c	潼
+潼-KaishoVtLst	U+6f7c	潼
+U+6f7c	潼
+澀-HzFst	U+6f80	澀
+U+6f80	澀
+澁-HzFst	U+6f81	澁
+U+6f81	澁
+U+6f82	澂
+澂-VtLst	U+6f82	澂
+澄-Dg3	U+6f84	澄
+澄-DgLst	U+6f84	澄
+U+6f84	澄
+U+6f86	澆
+U+6f8e	澎
+澑-Kaisho	U+6f91	澑
+U+6f91	澑
+澗-Kaisho	U+6f97	澗
+U+6f97	澗
+澡-Kaisho	U+6fa1	澡
+U+6fa1	澡
+澣-Kaisho	U+6fa3	澣
+U+6fa3	澣
+U+6fa4	澤
+澪-Insatsu	U+6faa	澪
+U+6faa	澪
+U+6fb1	澱
+U+6fb3	澳
+U+6fb9	澹
+激-Kaisho	U+6fc0	激
+U+6fc0	激
+U+6fc1	濁
+濂-Kaisho	U+6fc2	濂
+U+6fc2	濂
+濃-Kaisho	U+6fc3	濃
+濃-KaishoVtLst	U+6fc3	濃
+U+6fc3	濃
+濆-Kaisho	U+6fc6	濆
+U+6fc6	濆
+U+6fd4	濔
+濕-Kaisho	U+6fd5	濕
+U+6fd5	濕
+濘-Kaisho	U+6fd8	濘
+U+6fd8	濘
+U+6fdb	濛
+濟-Kaisho	U+6fdf	濟
+U+6fdf	濟
+濠-Kaisho	U+6fe0	濠
+U+6fe0	濠
+U+6fe1	濡
+U+6fe4	濤
+濫-HzFst	U+6feb	濫
+U+6feb	濫
+濬-Kaisho	U+6fec	濬
+U+6fec	濬
+U+6fee	濮
+U+6fef	濯
+濱-Kaisho	U+6ff1	濱
+U+6ff1	濱
+濳-Kaisho	U+6ff3	濳
+U+6ff3	濳
+濶-Kaisho	U+6ff6	濶
+U+6ff6	濶
+濺-Kaisho	U+6ffa	濺
+U+6ffa	濺
+濾-KaishoHzFstLeRi	U+6ffe	濾
+濾-KaishoHzFstRiLe	U+6ffe	濾
+濾-Kaisho	U+6ffe	濾
+濾-KaishoVtFstRiLe	U+6ffe	濾
+U+6ffe	濾
+瀁-Kaisho	U+7001	瀁
+瀁-KaishoVtLst	U+7001	瀁
+U+7001	瀁
+瀉-KaishoHzFst	U+7009	瀉
+瀉-Kaisho	U+7009	瀉
+U+7009	瀉
+瀋-Kaisho	U+700b	瀋
+U+700b	瀋
+U+700f	瀏
+瀑-Kaisho	U+7011	瀑
+U+7011	瀑
+瀕-HyougaiKaishoHzFst	U+7015	瀕
+瀕-HyougaiKaisho	U+7015	瀕
+瀕-Hyougai	U+7015	瀕
+U+7015	瀕
+瀘-KaishoHzFstLeRi	U+7018	瀘
+瀘-KaishoHzFstRiLe	U+7018	瀘
+瀘-Kaisho	U+7018	瀘
+瀘-KaishoVtFstRiLe	U+7018	瀘
+U+7018	瀘
+瀚-Kaisho	U+701a	瀚
+U+701a	瀚
+瀛-Kaisho	U+701b	瀛
+瀛-LeFst	U+701b	瀛
+U+701b	瀛
+瀝-HzFst	U+701d	瀝
+U+701d	瀝
+瀞-HyougaiKaisho	U+701e	瀞
+瀞-HyougaiKaishoVtLst	U+701e	瀞
+瀞-Hyougai	U+701e	瀞
+U+701e	瀞
+瀟-Kaisho	U+701f	瀟
+瀟-KaishoVt6	U+701f	瀟
+U+701f	瀟
+瀦-HyougaiKaisho	U+7026	瀦
+瀦-Hyougai	U+7026	瀦
+U+7026	瀦
+瀧-Kaisho	U+7027	瀧
+U+7027	瀧
+瀬-Kaisho	U+702c	瀬
+U+702c	瀬
+U+7030	瀰
+U+7032	瀲
+瀾-Kaisho	U+703e	瀾
+U+703e	瀾
+U+704c	灌
+灑-Kaisho	U+7051	灑
+U+7051	灑
+灘-Hyougai	U+7058	灘
+U+7058	灘
+U+7063	灣
+U+706b	火
+U+706c	灬
+U+706f	灯
+U+7070	灰
+灸-Hyougai	U+7078	灸
+U+7078	灸
+灼-Hyougai	U+707c	灼
+U+707c	灼
+U+707d	災
+U+7089	炉
+U+708a	炊
+U+708e	炎
+U+7092	炒
+U+7099	炙
+炬-HzFst	U+70ac	炬
+U+70ac	炬
+U+70ad	炭
+U+70ae	炮
+U+70af	炯
+U+70b3	炳
+U+70b8	炸
+点-HzFst	U+70b9	点
+U+70b9	点
+U+70ba	為
+U+70c8	烈
+烋-Kaisho	U+70cb	烋
+U+70cb	烋
+U+70cf	烏
+U+70d9	烙
+U+70dd	烝
+烟-Kaisho	U+70df	烟
+U+70df	烟
+U+70f1	烱
+烹-Kaisho	U+70f9	烹
+U+70f9	烹
+U+70fd	烽
+焉-HzFst	U+7109	焉
+U+7109	焉
+焔-Kaisho	U+7114	焔
+U+7114	焔
+焙-Kaisho	U+7119	焙
+U+7119	焙
+U+711a	焚
+焜-Kaisho	U+711c	焜
+U+711c	焜
+無-KaishoHzLst	U+7121	無
+無-Kaisho	U+7121	無
+U+7121	無
+U+7126	焦
+U+7136	然
+U+713c	焼
+煉-HyougaiKaisho	U+7149	煉
+煉-Hyougai	U+7149	煉
+U+7149	煉
+煌-Kaisho	U+714c	煌
+煌-KaishoVtLst	U+714c	煌
+U+714c	煌
+煎-HyougaiKaisho	U+714e	煎
+煎-Hyougai	U+714e	煎
+U+714e	煎
+U+7155	煕
+U+7156	煖
+U+7159	煙
+U+7162	煢
+煤-Kaisho	U+7164	煤
+U+7164	煤
+U+7165	煥
+煦-Kaisho	U+7166	煦
+U+7166	煦
+照-Kaisho	U+7167	照
+U+7167	照
+煩-Kaisho	U+7169	煩
+U+7169	煩
+煬-Kaisho	U+716c	煬
+U+716c	煬
+煮-Kaisho	U+716e	煮
+U+716e	煮
+煽-Hyougai	U+717d	煽
+U+717d	煽
+熄-Kaisho	U+7184	熄
+U+7184	熄
+熈-HzFst	U+7188	熈
+U+7188	熈
+熊-Kaisho	U+718a	熊
+U+718a	熊
+U+718f	熏
+熏-VtLst	U+718f	熏
+熔-Kaisho	U+7194	熔
+U+7194	熔
+熕-Kaisho	U+7195	熕
+U+7195	熕
+U+7199	熙
+熟-Kaisho	U+719f	熟
+U+719f	熟
+U+71a8	熨
+熬-Kaisho	U+71ac	熬
+U+71ac	熬
+U+71b1	熱
+U+71b9	熹
+熾-Kaisho	U+71be	熾
+U+71be	熾
+U+71c3	燃
+燈-Dg3	U+71c8	燈
+燈-DgLst	U+71c8	燈
+U+71c8	燈
+燉-Kaisho	U+71c9	燉
+U+71c9	燉
+燎-Kaisho	U+71ce	燎
+U+71ce	燎
+燐-Hyougai	U+71d0	燐
+U+71d0	燐
+U+71d2	燒
+燔-Kaisho	U+71d4	燔
+U+71d4	燔
+U+71d5	燕
+燗-Kaisho	U+71d7	燗
+U+71d7	燗
+U+71df	營
+U+71e0	燠
+燥-Kaisho	U+71e5	燥
+U+71e5	燥
+燦-Kaisho	U+71e6	燦
+U+71e6	燦
+U+71e7	燧
+燬-HzFst	U+71ec	燬
+U+71ec	燬
+U+71ed	燭
+U+71ee	燮
+U+71f5	燵
+U+71f9	燹
+U+71fb	燻
+燻-VtLst	U+71fb	燻
+U+71fc	燼
+燼-Vt4	U+71fc	燼
+U+71ff	燿
+爆-Kaisho	U+7206	爆
+U+7206	爆
+爍-Kaisho	U+720d	爍
+U+720d	爍
+爐-KaishoHzFstLeRi	U+7210	爐
+爐-KaishoHzFstRiLe	U+7210	爐
+爐-Kaisho	U+7210	爐
+爐-KaishoVtFstRiLe	U+7210	爐
+U+7210	爐
+爛-Kaisho	U+721b	爛
+U+721b	爛
+爨-MdFst	U+7228	爨
+U+7228	爨
+U+722a	爪
+U+722c	爬
+U+722d	爭
+U+7230	爰
+U+7232	爲
+爵-Kaisho	U+7235	爵
+U+7235	爵
+U+7236	父
+爺-HyougaiKaisho	U+723a	爺
+爺-HyougaiKaishoVt3	U+723a	爺
+爺-Hyougai	U+723a	爺
+爺-Kaisho	U+723a	爺
+U+723a	爺
+U+723b	爻
+爼-Kaisho	U+723c	爼
+U+723c	爼
+U+723d	爽
+U+723e	爾
+U+723f	爿
+牀-Kaisho	U+7240	牀
+U+7240	牀
+U+7246	牆
+U+7247	片
+U+7248	版
+U+724b	牋
+牌-HyougaiKaisho	U+724c	牌
+牌-Hyougai	U+724c	牌
+U+724c	牌
+牒-Kaisho	U+7252	牒
+U+7252	牒
+牘-Kaisho	U+7258	牘
+U+7258	牘
+牙-Jinmei	U+7259	牙
+U+7259	牙
+U+725b	牛
+牝-Kaisho	U+725d	牝
+U+725d	牝
+U+725f	牟
+牡-Kaisho	U+7261	牡
+U+7261	牡
+牢-Kaisho	U+7262	牢
+U+7262	牢
+牧-Kaisho	U+7267	牧
+U+7267	牧
+物-Kaisho	U+7269	物
+U+7269	物
+牲-Kaisho	U+7272	牲
+牲-KaishoVtLst	U+7272	牲
+U+7272	牲
+牴-Kaisho	U+7274	牴
+U+7274	牴
+特-Kaisho	U+7279	特
+U+7279	特
+牽-HyougaiKaisho	U+727d	牽
+牽-Hyougai	U+727d	牽
+牽-Kaisho	U+727d	牽
+U+727d	牽
+牾-Kaisho	U+727e	牾
+U+727e	牾
+U+7280	犀
+犁-Kaisho	U+7281	犁
+U+7281	犁
+犂-Kaisho	U+7282	犂
+U+7282	犂
+犇-Kaisho	U+7287	犇
+U+7287	犇
+犒-Kaisho	U+7292	犒
+U+7292	犒
+U+7296	犖
+犠-Kaisho	U+72a0	犠
+U+72a0	犠
+犢-Kaisho	U+72a2	犢
+U+72a2	犢
+犧-Kaisho	U+72a7	犧
+U+72a7	犧
+U+72ac	犬
+U+72af	犯
+U+72b2	犲
+U+72b6	状
+U+72b9	犹
+U+72c2	狂
+狂-VtLst	U+72c2	狂
+U+72c3	狃
+U+72c4	狄
+U+72c6	狆
+狎-Kaisho	U+72ce	狎
+U+72ce	狎
+U+72d0	狐
+U+72d2	狒
+U+72d7	狗
+狙-Kaisho	U+72d9	狙
+U+72d9	狙
+狛-Kaisho	U+72db	狛
+U+72db	狛
+狠-Kaisho	U+72e0	狠
+U+72e0	狠
+狡-HyougaiKaisho	U+72e1	狡
+狡-Hyougai	U+72e1	狡
+U+72e1	狡
+U+72e2	狢
+狩-Kaisho	U+72e9	狩
+U+72e9	狩
+U+72ec	独
+U+72ed	狭
+狷-Kaisho	U+72f7	狷
+U+72f7	狷
+狸-Kaisho	U+72f8	狸
+狸-KaishoVtLst	U+72f8	狸
+U+72f8	狸
+U+72f9	狹
+狼-Kaisho	U+72fc	狼
+U+72fc	狼
+狽-Kaisho	U+72fd	狽
+U+72fd	狽
+猊-HzFst	U+730a	猊
+U+730a	猊
+猖-Kaisho	U+7316	猖
+U+7316	猖
+U+7317	猗
+U+731b	猛
+U+731c	猜
+猜-VtLst	U+731c	猜
+猝-Kaisho	U+731d	猝
+U+731d	猝
+猟-Kaisho	U+731f	猟
+U+731f	猟
+猥-Kaisho	U+7325	猥
+U+7325	猥
+猩-Kaisho	U+7329	猩
+猩-KaishoVtLst	U+7329	猩
+U+7329	猩
+猪-Kaisho	U+732a	猪
+U+732a	猪
+猫-Kaisho	U+732b	猫
+U+732b	猫
+U+732e	献
+U+732f	猯
+U+7334	猴
+猶-Kaisho	U+7336	猶
+U+7336	猶
+猷-HyougaiKaisho	U+7337	猷
+猷-Hyougai	U+7337	猷
+U+7337	猷
+猾-KaishoHzFst	U+733e	猾
+猾-Kaisho	U+733e	猾
+U+733e	猾
+U+733f	猿
+U+7344	獄
+U+7345	獅
+U+734e	獎
+獏-Kaisho	U+734f	獏
+U+734f	獏
+U+7357	獗
+獣-Kaisho	U+7363	獣
+U+7363	獣
+U+7368	獨
+獪-Kaisho	U+736a	獪
+U+736a	獪
+獰-Kaisho	U+7370	獰
+U+7370	獰
+U+7372	獲
+U+7375	獵
+獸-Kaisho	U+7378	獸
+U+7378	獸
+獺-Kaisho	U+737a	獺
+U+737a	獺
+獻-HzFstLeRi	U+737b	獻
+獻-HzFstRiLe	U+737b	獻
+U+737b	獻
+獻-VtFstRiLe	U+737b	獻
+玄-Kaisho	U+7384	玄
+U+7384	玄
+率-Kaisho	U+7387	率
+U+7387	率
+U+7389	玉
+玉-VtLst	U+7389	玉
+U+738b	王
+王-VtLst	U+738b	王
+U+7396	玖
+玖-VtLst	U+7396	玖
+U+73a9	玩
+玲-Insatsu	U+73b2	玲
+U+73b2	玲
+玲-VtLst	U+73b2	玲
+U+73b3	玳
+玳-VtLst	U+73b3	玳
+U+73bb	玻
+玻-VtLst	U+73bb	玻
+珀-Kaisho	U+73c0	珀
+珀-KaishoVtLst	U+73c0	珀
+U+73c0	珀
+U+73c2	珂
+U+73c8	珈
+珈-VtLst	U+73c8	珈
+U+73ca	珊
+珊-VtLst	U+73ca	珊
+U+73cd	珍
+珍-VtLst	U+73cd	珍
+U+73ce	珎
+珎-VtLst	U+73ce	珎
+U+73de	珞
+珞-VtLst	U+73de	珞
+珠-Kaisho	U+73e0	珠
+珠-KaishoVtLst	U+73e0	珠
+U+73e0	珠
+珥-Kaisho	U+73e5	珥
+珥-KaishoVtLst	U+73e5	珥
+珥-KaishoVtLstVt3	U+73e5	珥
+U+73e5	珥
+U+73ea	珪
+珪-VtLst	U+73ea	珪
+U+73ed	班
+班-VtLst	U+73ed	班
+U+73ee	珮
+珮-VtLst	U+73ee	珮
+U+73f1	珱
+珱-VtLst	U+73f1	珱
+U+73f8	珸
+珸-VtLst	U+73f8	珸
+現-Kaisho	U+73fe	現
+現-KaishoVtLst	U+73fe	現
+U+73fe	現
+U+7403	球
+球-VtLst	U+7403	球
+琅-Kaisho	U+7405	琅
+琅-KaishoVtLst	U+7405	琅
+U+7405	琅
+理-Kaisho	U+7406	理
+理-KaishoVtLst	U+7406	理
+U+7406	理
+琉-Kaisho	U+7409	琉
+琉-KaishoVtLst	U+7409	琉
+U+7409	琉
+U+7422	琢
+琢-VtLst	U+7422	琢
+琥-HzFstLeRi	U+7425	琥
+琥-HzFstRiLe	U+7425	琥
+琥-RiLe	U+7425	琥
+U+7425	琥
+琥-VtLstHzFstLeRi	U+7425	琥
+琥-VtLstHzFstRiLe	U+7425	琥
+琥-VtLstRiLe	U+7425	琥
+琥-VtLst	U+7425	琥
+琲-MdFst	U+7432	琲
+U+7432	琲
+琳-Kaisho	U+7433	琳
+琳-KaishoVtLst	U+7433	琳
+U+7433	琳
+U+7434	琴
+琴-VtLst	U+7434	琴
+琵-Kaisho	U+7435	琵
+琵-KaishoVtLst	U+7435	琵
+U+7435	琵
+U+7436	琶
+琶-VtLst	U+7436	琶
+U+743a	琺
+琺-VtLst	U+743a	琺
+琿-Kaisho	U+743f	琿
+琿-KaishoVtLst	U+743f	琿
+U+743f	琿
+瑁-Kaisho	U+7441	瑁
+瑁-KaishoVtLst	U+7441	瑁
+U+7441	瑁
+U+7455	瑕
+瑕-VtLst	U+7455	瑕
+U+7459	瑙
+瑙-VtLst	U+7459	瑙
+瑚-Kaisho	U+745a	瑚
+瑚-KaishoVtLst	U+745a	瑚
+U+745a	瑚
+U+745b	瑛
+瑛-VtLst	U+745b	瑛
+U+745c	瑜
+瑜-VtLst	U+745c	瑜
+U+745e	瑞
+瑞-VtLst	U+745e	瑞
+U+745f	瑟
+瑟-Ten3	U+745f	瑟
+瑠-Kaisho	U+7460	瑠
+瑠-KaishoVtLst	U+7460	瑠
+U+7460	瑠
+瑣-Kaisho	U+7463	瑣
+瑣-KaishoVtLst	U+7463	瑣
+U+7463	瑣
+U+7464	瑤
+瑤-VtLst	U+7464	瑤
+U+7469	瑩
+瑩-VtLst	U+7469	瑩
+U+746a	瑪
+瑪-Vt6	U+746a	瑪
+瑪-VtLst	U+746a	瑪
+瑪-VtLstVt6	U+746a	瑪
+瑯-Kaisho	U+746f	瑯
+瑯-KaishoVtLst	U+746f	瑯
+U+746f	瑯
+瑰-Kaisho	U+7470	瑰
+瑰-KaishoVtLst	U+7470	瑰
+U+7470	瑰
+U+7473	瑳
+瑳-VtLst	U+7473	瑳
+瑳-VtLstVt4	U+7473	瑳
+瑳-VtLstVtLst	U+7473	瑳
+U+7476	瑶
+瑶-VtLst	U+7476	瑶
+U+747e	瑾
+瑾-VtLst	U+747e	瑾
+U+7483	璃
+璋-Kaisho	U+748b	璋
+璋-KaishoVtLst	U+748b	璋
+U+748b	璋
+U+749e	璞
+璞-VtLst	U+749e	璞
+璢-Kaisho	U+74a2	璢
+璢-KaishoVtLst	U+74a2	璢
+U+74a2	璢
+璧-Kaisho	U+74a7	璧
+璧-KaishoVtLst	U+74a7	璧
+U+74a7	璧
+U+74b0	環
+環-VtLst	U+74b0	環
+U+74bd	璽
+璽-VtLst	U+74bd	璽
+瓊-Kaisho	U+74ca	瓊
+瓊-KaishoVtLst	U+74ca	瓊
+U+74ca	瓊
+瓏-Kaisho	U+74cf	瓏
+瓏-KaishoVtLst	U+74cf	瓏
+U+74cf	瓏
+瓔-Kaisho	U+74d4	瓔
+瓔-KaishoVtLst	U+74d4	瓔
+U+74d4	瓔
+U+74dc	瓜
+U+74e0	瓠
+U+74e2	瓢
+瓣-Kaisho	U+74e3	瓣
+U+74e3	瓣
+瓦-HzLst	U+74e6	瓦
+U+74e6	瓦
+U+74e7	瓧
+U+74e9	瓩
+U+74ee	瓮
+U+74f0	瓰
+U+74f1	瓱
+U+74f2	瓲
+U+74f6	瓶
+U+74f7	瓷
+U+74f8	瓸
+U+7503	甃
+U+7504	甄
+U+7505	甅
+U+750c	甌
+U+750d	甍
+U+750e	甎
+甑-Hyougai	U+7511	甑
+U+7511	甑
+U+7513	甓
+甕-Hyougai	U+7515	甕
+U+7515	甕
+甘-Kaisho	U+7518	甘
+U+7518	甘
+甚-Kaisho	U+751a	甚
+U+751a	甚
+甜-Kaisho	U+751c	甜
+U+751c	甜
+甞-Kaisho	U+751e	甞
+U+751e	甞
+U+751f	生
+生-VtLst	U+751f	生
+産-Kaisho	U+7523	産
+産-KaishoVtLst	U+7523	産
+U+7523	産
+甥-Kaisho	U+7525	甥
+甥-KaishoVtLst	U+7525	甥
+U+7525	甥
+甦-HyougaiKaisho	U+7526	甦
+甦-HyougaiKaishoVtLst	U+7526	甦
+甦-Hyougai	U+7526	甦
+U+7526	甦
+用-Kaisho	U+7528	用
+U+7528	用
+甫-Kaisho	U+752b	甫
+U+752b	甫
+甬-Kaisho	U+752c	甬
+U+752c	甬
+田-Kaisho	U+7530	田
+U+7530	田
+由-Kaisho	U+7531	由
+由-KaishoVtLst	U+7531	由
+U+7531	由
+甲-Kaisho	U+7532	甲
+U+7532	甲
+申-Kaisho	U+7533	申
+U+7533	申
+男-Kaisho	U+7537	男
+U+7537	男
+甸-Kaisho	U+7538	甸
+U+7538	甸
+町-Kaisho	U+753a	町
+U+753a	町
+画-Kaisho	U+753b	画
+画-KaishoVtLst	U+753b	画
+U+753b	画
+甼-Kaisho	U+753c	甼
+U+753c	甼
+畄-Kaisho	U+7544	畄
+U+7544	畄
+畆-Kaisho	U+7546	畆
+U+7546	畆
+畉-Kaisho	U+7549	畉
+U+7549	畉
+畊-Kaisho	U+754a	畊
+U+754a	畊
+畋-Kaisho	U+754b	畋
+U+754b	畋
+界-Kaisho	U+754c	界
+U+754c	界
+畍-Kaisho	U+754d	畍
+U+754d	畍
+畏-Kaisho	U+754f	畏
+U+754f	畏
+U+7550	畐
+畑-Kaisho	U+7551	畑
+U+7551	畑
+畔-Kaisho	U+7554	畔
+U+7554	畔
+留-Kaisho	U+7559	留
+U+7559	留
+畚-Kaisho	U+755a	畚
+U+755a	畚
+畛-Kaisho	U+755b	畛
+U+755b	畛
+畜-Kaisho	U+755c	畜
+U+755c	畜
+畝-Kaisho	U+755d	畝
+U+755d	畝
+畠-Kaisho	U+7560	畠
+U+7560	畠
+畢-Kaisho	U+7562	畢
+U+7562	畢
+畤-Kaisho	U+7564	畤
+U+7564	畤
+略-Kaisho	U+7565	略
+U+7565	略
+畦-Kaisho	U+7566	畦
+U+7566	畦
+畧-Kaisho	U+7567	畧
+U+7567	畧
+畩-Kaisho	U+7569	畩
+U+7569	畩
+番-Kaisho	U+756a	番
+U+756a	番
+畫-Kaisho	U+756b	畫
+畫-KaishoVt4	U+756b	畫
+U+756b	畫
+畭-Kaisho	U+756d	畭
+U+756d	畭
+異-Kaisho	U+7570	異
+U+7570	異
+畳-Kaisho	U+7573	畳
+U+7573	畳
+畴-Kaisho	U+7574	畴
+U+7574	畴
+當-Kaisho	U+7576	當
+U+7576	當
+畷-Kaisho	U+7577	畷
+U+7577	畷
+畸-Kaisho	U+7578	畸
+U+7578	畸
+畿-Kaisho	U+757f	畿
+U+757f	畿
+疂-Kaisho	U+7582	疂
+U+7582	疂
+疆-Kaisho	U+7586	疆
+U+7586	疆
+疇-Kaisho	U+7587	疇
+U+7587	疇
+疉-Kaisho	U+7589	疉
+U+7589	疉
+疊-Kaisho	U+758a	疊
+U+758a	疊
+U+758b	疋
+疎-Kaisho	U+758e	疎
+U+758e	疎
+疏-Kaisho	U+758f	疏
+U+758f	疏
+疑-Kaisho	U+7591	疑
+U+7591	疑
+疒-Kaisho	U+7592	疒
+U+7592	疒
+疔-Kaisho	U+7594	疔
+U+7594	疔
+疚-Kaisho	U+759a	疚
+U+759a	疚
+疝-Kaisho	U+759d	疝
+U+759d	疝
+疣-Kaisho	U+75a3	疣
+U+75a3	疣
+疥-Kaisho	U+75a5	疥
+U+75a5	疥
+疫-Kaisho	U+75ab	疫
+U+75ab	疫
+疱-Kaisho	U+75b1	疱
+U+75b1	疱
+疲-Kaisho	U+75b2	疲
+U+75b2	疲
+疳-Kaisho	U+75b3	疳
+U+75b3	疳
+疵-KaishoHzFst	U+75b5	疵
+疵-Kaisho	U+75b5	疵
+U+75b5	疵
+疸-Kaisho	U+75b8	疸
+U+75b8	疸
+疹-Kaisho	U+75b9	疹
+U+75b9	疹
+疼-HyougaiKaisho	U+75bc	疼
+疼-Hyougai	U+75bc	疼
+U+75bc	疼
+疽-Kaisho	U+75bd	疽
+U+75bd	疽
+疾-Kaisho	U+75be	疾
+U+75be	疾
+痂-Kaisho	U+75c2	痂
+U+75c2	痂
+痃-Kaisho	U+75c3	痃
+U+75c3	痃
+病-Kaisho	U+75c5	病
+U+75c5	病
+症-KaishoHzFst	U+75c7	症
+症-Kaisho	U+75c7	症
+U+75c7	症
+痊-Kaisho	U+75ca	痊
+痊-KaishoVtLst	U+75ca	痊
+U+75ca	痊
+痍-Kaisho	U+75cd	痍
+U+75cd	痍
+痒-Kaisho	U+75d2	痒
+U+75d2	痒
+痔-Kaisho	U+75d4	痔
+U+75d4	痔
+痕-Kaisho	U+75d5	痕
+U+75d5	痕
+痘-Kaisho	U+75d8	痘
+U+75d8	痘
+痙-Kaisho	U+75d9	痙
+U+75d9	痙
+痛-Kaisho	U+75db	痛
+U+75db	痛
+痞-Kaisho	U+75de	痞
+U+75de	痞
+痢-Kaisho	U+75e2	痢
+U+75e2	痢
+痣-Kaisho	U+75e3	痣
+U+75e3	痣
+痩-Kaisho	U+75e9	痩
+U+75e9	痩
+痰-Kaisho	U+75f0	痰
+U+75f0	痰
+痲-Kaisho	U+75f2	痲
+U+75f2	痲
+痳-Kaisho	U+75f3	痳
+U+75f3	痳
+痴-Kaisho	U+75f4	痴
+U+75f4	痴
+痺-Kaisho	U+75fa	痺
+U+75fa	痺
+痼-Kaisho	U+75fc	痼
+U+75fc	痼
+痾-Kaisho	U+75fe	痾
+U+75fe	痾
+痿-Kaisho	U+75ff	痿
+U+75ff	痿
+瘁-Kaisho	U+7601	瘁
+U+7601	瘁
+瘉-Kaisho	U+7609	瘉
+U+7609	瘉
+瘋-Kaisho	U+760b	瘋
+U+760b	瘋
+瘍-Kaisho	U+760d	瘍
+U+760d	瘍
+瘟-Kaisho	U+761f	瘟
+U+761f	瘟
+瘠-Kaisho	U+7620	瘠
+U+7620	瘠
+瘡-Kaisho	U+7621	瘡
+U+7621	瘡
+瘢-Kaisho	U+7622	瘢
+U+7622	瘢
+瘤-Kaisho	U+7624	瘤
+U+7624	瘤
+瘧-KaishoHzFstLeRi	U+7627	瘧
+瘧-KaishoHzFstRiLe	U+7627	瘧
+瘧-Kaisho	U+7627	瘧
+瘧-KaishoVtFstRiLe	U+7627	瘧
+U+7627	瘧
+瘰-Kaisho	U+7630	瘰
+U+7630	瘰
+瘴-Kaisho	U+7634	瘴
+U+7634	瘴
+瘻-Kaisho	U+763b	瘻
+U+763b	瘻
+療-Kaisho	U+7642	療
+U+7642	療
+癆-Kaisho	U+7646	癆
+U+7646	癆
+癇-Kaisho	U+7647	癇
+U+7647	癇
+癈-KaishoDg3	U+7648	癈
+癈-KaishoDgLst	U+7648	癈
+癈-Kaisho	U+7648	癈
+U+7648	癈
+癌-Kaisho	U+764c	癌
+U+764c	癌
+癒-Kaisho	U+7652	癒
+U+7652	癒
+癖-Kaisho	U+7656	癖
+U+7656	癖
+癘-Kaisho	U+7658	癘
+U+7658	癘
+癜-Kaisho	U+765c	癜
+U+765c	癜
+癡-Kaisho	U+7661	癡
+U+7661	癡
+癢-Kaisho	U+7662	癢
+癢-KaishoVtLst	U+7662	癢
+U+7662	癢
+癧-KaishoHzFst	U+7667	癧
+癧-Kaisho	U+7667	癧
+U+7667	癧
+癨-Kaisho	U+7668	癨
+U+7668	癨
+癩-Kaisho	U+7669	癩
+U+7669	癩
+癪-Kaisho	U+766a	癪
+癪-KaishoVtLst	U+766a	癪
+U+766a	癪
+癬-Kaisho	U+766c	癬
+U+766c	癬
+癰-Kaisho	U+7670	癰
+U+7670	癰
+癲-Kaisho	U+7672	癲
+U+7672	癲
+癶-Dg3	U+7676	癶
+癶-DgLst	U+7676	癶
+U+7676	癶
+癸-Dg3	U+7678	癸
+癸-DgLst	U+7678	癸
+U+7678	癸
+発-Dg3	U+767a	発
+発-DgLst	U+767a	発
+U+767a	発
+登-Dg3	U+767b	登
+登-DgLst	U+767b	登
+U+767b	登
+發-Dg3	U+767c	發
+發-DgLst	U+767c	發
+U+767c	發
+白-Kaisho	U+767d	白
+U+767d	白
+百-Kaisho	U+767e	百
+U+767e	百
+皀-Kaisho	U+7680	皀
+U+7680	皀
+皃-Kaisho	U+7683	皃
+U+7683	皃
+的-Kaisho	U+7684	的
+U+7684	的
+皆-Kaisho	U+7686	皆
+U+7686	皆
+皇-Kaisho	U+7687	皇
+皇-KaishoVtLst	U+7687	皇
+U+7687	皇
+皈-Kaisho	U+7688	皈
+U+7688	皈
+皋-Kaisho	U+768b	皋
+U+768b	皋
+皎-Kaisho	U+768e	皎
+U+768e	皎
+皐-Kaisho	U+7690	皐
+U+7690	皐
+皓-Kaisho	U+7693	皓
+U+7693	皓
+皖-Kaisho	U+7696	皖
+U+7696	皖
+皙-Kaisho	U+7699	皙
+U+7699	皙
+皚-Kaisho	U+769a	皚
+U+769a	皚
+U+76ae	皮
+U+76b0	皰
+U+76b4	皴
+U+76b7	皷
+皸-Kaisho	U+76b8	皸
+U+76b8	皸
+皹-Kaisho	U+76b9	皹
+U+76b9	皹
+U+76ba	皺
+U+76bf	皿
+U+76c2	盂
+U+76c3	盃
+U+76c6	盆
+U+76c8	盈
+U+76ca	益
+U+76cd	盍
+U+76d2	盒
+U+76d6	盖
+U+76d7	盗
+U+76db	盛
+U+76dc	盜
+U+76de	盞
+盟-Kaisho	U+76df	盟
+U+76df	盟
+U+76e1	盡
+盡-VtLst	U+76e1	盡
+監-HzFst	U+76e3	監
+U+76e3	監
+U+76e4	盤
+U+76e5	盥
+盧-KaishoHzFstLeRi	U+76e7	盧
+盧-KaishoHzFstRiLe	U+76e7	盧
+盧-Kaisho	U+76e7	盧
+盧-KaishoVtFstRiLe	U+76e7	盧
+U+76e7	盧
+盪-Kaisho	U+76ea	盪
+U+76ea	盪
+目-Kaisho	U+76ee	目
+U+76ee	目
+盲-Kaisho	U+76f2	盲
+U+76f2	盲
+直-Kaisho	U+76f4	直
+U+76f4	直
+相-Kaisho	U+76f8	相
+U+76f8	相
+盻-Kaisho	U+76fb	盻
+U+76fb	盻
+盾-Kaisho	U+76fe	盾
+U+76fe	盾
+省-Kaisho	U+7701	省
+U+7701	省
+眄-Kaisho	U+7704	眄
+U+7704	眄
+眇-Kaisho	U+7707	眇
+U+7707	眇
+眈-Kaisho	U+7708	眈
+U+7708	眈
+眉-Kaisho	U+7709	眉
+U+7709	眉
+看-Kaisho	U+770b	看
+U+770b	看
+県-Kaisho	U+770c	県
+U+770c	県
+眛-Kaisho	U+771b	眛
+U+771b	眛
+眞-Kaisho	U+771e	眞
+U+771e	眞
+真-Kaisho	U+771f	真
+U+771f	真
+眠-Kaisho	U+7720	眠
+U+7720	眠
+眤-Kaisho	U+7724	眤
+U+7724	眤
+U+7725	眥
+U+7726	眦
+眩-Kaisho	U+7729	眩
+U+7729	眩
+眷-Kaisho	U+7737	眷
+U+7737	眷
+眸-Kaisho	U+7738	眸
+U+7738	眸
+眺-KaishoMidFst	U+773a	眺
+眺-Kaisho	U+773a	眺
+U+773a	眺
+眼-Kaisho	U+773c	眼
+U+773c	眼
+着-Kaisho	U+7740	着
+着-KaishoVtLst	U+7740	着
+U+7740	着
+睇-Kaisho	U+7747	睇
+U+7747	睇
+睚-Kaisho	U+775a	睚
+U+775a	睚
+睛-Kaisho	U+775b	睛
+睛-KaishoVtLst	U+775b	睛
+U+775b	睛
+睡-Kaisho	U+7761	睡
+睡-KaishoVtLst	U+7761	睡
+U+7761	睡
+督-KaishoHzFst	U+7763	督
+督-Kaisho	U+7763	督
+U+7763	督
+睥-Kaisho	U+7765	睥
+U+7765	睥
+睦-Kaisho	U+7766	睦
+U+7766	睦
+睨-KaishoHzFst	U+7768	睨
+睨-Kaisho	U+7768	睨
+U+7768	睨
+睫-Kaisho	U+776b	睫
+U+776b	睫
+睹-Kaisho	U+7779	睹
+U+7779	睹
+睾-Kaisho	U+777e	睾
+U+777e	睾
+睿-Kaisho	U+777f	睿
+U+777f	睿
+瞋-Kaisho	U+778b	瞋
+U+778b	瞋
+瞎-Kaisho	U+778e	瞎
+U+778e	瞎
+瞑-Kaisho	U+7791	瞑
+U+7791	瞑
+瞞-Kaisho	U+779e	瞞
+U+779e	瞞
+瞠-Kaisho	U+77a0	瞠
+U+77a0	瞠
+瞥-HyougaiKaisho	U+77a5	瞥
+瞥-Hyougai	U+77a5	瞥
+瞥-Kaisho	U+77a5	瞥
+U+77a5	瞥
+瞬-Kaisho	U+77ac	瞬
+U+77ac	瞬
+瞭-Kaisho	U+77ad	瞭
+U+77ad	瞭
+瞰-Kaisho	U+77b0	瞰
+瞰-KaishoVt3	U+77b0	瞰
+U+77b0	瞰
+瞳-Kaisho	U+77b3	瞳
+瞳-KaishoVtLst	U+77b3	瞳
+U+77b3	瞳
+瞶-Kaisho	U+77b6	瞶
+U+77b6	瞶
+瞹-Kaisho	U+77b9	瞹
+U+77b9	瞹
+瞻-Kaisho	U+77bb	瞻
+U+77bb	瞻
+瞼-Kaisho	U+77bc	瞼
+U+77bc	瞼
+瞽-Kaisho	U+77bd	瞽
+U+77bd	瞽
+瞿-Kaisho	U+77bf	瞿
+U+77bf	瞿
+矇-Kaisho	U+77c7	矇
+U+77c7	矇
+矍-Kaisho	U+77cd	矍
+U+77cd	矍
+矗-Kaisho	U+77d7	矗
+U+77d7	矗
+矚-Kaisho	U+77da	矚
+U+77da	矚
+U+77db	矛
+U+77dc	矜
+U+77e2	矢
+U+77e3	矣
+U+77e5	知
+U+77e7	矧
+矩-HzFst	U+77e9	矩
+U+77e9	矩
+U+77ed	短
+U+77ee	矮
+U+77ef	矯
+U+77f3	石
+U+77fc	矼
+U+7802	砂
+U+780c	砌
+砒-Kaisho	U+7812	砒
+U+7812	砒
+U+7814	研
+U+7815	砕
+砠-Kaisho	U+7820	砠
+U+7820	砠
+U+7825	砥
+砦-HzFst	U+7826	砦
+U+7826	砦
+砧-HzFst	U+7827	砧
+U+7827	砧
+U+7832	砲
+U+7834	破
+U+783a	砺
+砿-Kaisho	U+783f	砿
+U+783f	砿
+U+7845	硅
+硝-Kaisho	U+785d	硝
+U+785d	硝
+硫-Kaisho	U+786b	硫
+U+786b	硫
+硬-Kaisho	U+786c	硬
+U+786c	硬
+硯-Kaisho	U+786f	硯
+U+786f	硯
+U+7872	硲
+U+7874	硴
+硼-Kaisho	U+787c	硼
+U+787c	硼
+碁-Kaisho	U+7881	碁
+U+7881	碁
+U+7886	碆
+碇-Kaisho	U+7887	碇
+U+7887	碇
+U+788c	碌
+碍-Kaisho	U+788d	碍
+U+788d	碍
+碎-Kaisho	U+788e	碎
+U+788e	碎
+碑-Kaisho	U+7891	碑
+U+7891	碑
+U+7893	碓
+U+7895	碕
+碗-Kaisho	U+7897	碗
+U+7897	碗
+碚-Kaisho	U+789a	碚
+U+789a	碚
+碣-Kaisho	U+78a3	碣
+U+78a3	碣
+碧-Kaisho	U+78a7	碧
+碧-KaishoVtLst	U+78a7	碧
+U+78a7	碧
+碩-Kaisho	U+78a9	碩
+U+78a9	碩
+碪-Kaisho	U+78aa	碪
+U+78aa	碪
+U+78af	碯
+碵-KaishoHzFst	U+78b5	碵
+碵-Kaisho	U+78b5	碵
+U+78b5	碵
+U+78ba	確
+U+78bc	碼
+碼-Vt6	U+78bc	碼
+U+78be	碾
+U+78c1	磁
+磅-Kaisho	U+78c5	磅
+U+78c5	磅
+磆-KaishoHzFst	U+78c6	磆
+磆-Kaisho	U+78c6	磆
+U+78c6	磆
+U+78ca	磊
+U+78cb	磋
+磋-VtLst	U+78cb	磋
+U+78d0	磐
+U+78d1	磑
+磔-Hyougai	U+78d4	磔
+磔-Kaisho	U+78d4	磔
+U+78d4	磔
+U+78da	磚
+磧-Kaisho	U+78e7	磧
+磧-KaishoVtLst	U+78e7	磧
+U+78e7	磧
+磨-Kaisho	U+78e8	磨
+U+78e8	磨
+U+78ec	磬
+U+78ef	磯
+磴-Dg3	U+78f4	磴
+磴-DgLst	U+78f4	磴
+U+78f4	磴
+U+78fd	磽
+U+7901	礁
+U+7907	礇
+U+790e	礎
+礑-Kaisho	U+7911	礑
+U+7911	礑
+U+7912	礒
+礙-Kaisho	U+7919	礙
+U+7919	礙
+礦-Kaisho	U+7926	礦
+礦-KaishoVtLst	U+7926	礦
+U+7926	礦
+礪-Kaisho	U+792a	礪
+U+792a	礪
+礫-Kaisho	U+792b	礫
+U+792b	礫
+礬-Kaisho	U+792c	礬
+U+792c	礬
+U+793a	示
+U+793b	礻
+U+793c	礼
+U+793e	社
+U+7940	祀
+祁-Hyougai	U+7941	祁
+U+7941	祁
+祇-Hyougai	U+7947	祇
+U+7947	祇
+U+7948	祈
+祉-HzFst	U+7949	祉
+U+7949	祉
+U+7950	祐
+U+7953	祓
+U+7955	祕
+祕-Ten3	U+7955	祕
+祖-Kaisho	U+7956	祖
+U+7956	祖
+U+7957	祗
+U+795a	祚
+U+795d	祝
+神-Kaisho	U+795e	神
+U+795e	神
+祟-Hyougai	U+795f	祟
+U+795f	祟
+U+7960	祠
+U+7962	祢
+U+7965	祥
+U+7968	票
+U+796d	祭
+U+7977	祷
+祺-Kaisho	U+797a	祺
+U+797a	祺
+U+797f	祿
+禀-Kaisho	U+7980	禀
+U+7980	禀
+禁-Kaisho	U+7981	禁
+U+7981	禁
+禄-Kaisho	U+7984	禄
+U+7984	禄
+禅-Kaisho	U+7985	禅
+U+7985	禅
+U+798a	禊
+禍-HzFst	U+798d	禍
+U+798d	禍
+禎-KaishoHzFst	U+798e	禎
+禎-Kaisho	U+798e	禎
+U+798e	禎
+福-Kaisho	U+798f	福
+U+798f	福
+禝-Kaisho	U+799d	禝
+U+799d	禝
+U+79a6	禦
+U+79a7	禧
+禪-Kaisho	U+79aa	禪
+U+79aa	禪
+禮-Kaisho	U+79ae	禮
+禮-KaishoVtLst	U+79ae	禮
+U+79ae	禮
+禰-Hyougai	U+79b0	禰
+U+79b0	禰
+禳-Kaisho	U+79b3	禳
+U+79b3	禳
+U+79b8	禸
+U+79b9	禹
+禺-Kaisho	U+79ba	禺
+U+79ba	禺
+U+79bb	离
+U+79bd	禽
+禾-Kaisho	U+79be	禾
+U+79be	禾
+U+79bf	禿
+秀-Kaisho	U+79c0	秀
+U+79c0	秀
+私-Kaisho	U+79c1	私
+U+79c1	私
+秉-Kaisho	U+79c9	秉
+U+79c9	秉
+秋-Kaisho	U+79cb	秋
+U+79cb	秋
+科-Kaisho	U+79d1	科
+U+79d1	科
+秒-Kaisho	U+79d2	秒
+U+79d2	秒
+秕-Kaisho	U+79d5	秕
+U+79d5	秕
+秘-Kaisho	U+79d8	秘
+秘-KaishoTen3	U+79d8	秘
+U+79d8	秘
+租-Kaisho	U+79df	租
+U+79df	租
+秡-Kaisho	U+79e1	秡
+U+79e1	秡
+秣-Kaisho	U+79e3	秣
+U+79e3	秣
+秤-HyougaiKaisho	U+79e4	秤
+秤-Hyougai	U+79e4	秤
+U+79e4	秤
+秦-Kaisho	U+79e6	秦
+U+79e6	秦
+秧-Kaisho	U+79e7	秧
+U+79e7	秧
+秩-Kaisho	U+79e9	秩
+U+79e9	秩
+秬-KaishoHzFst	U+79ec	秬
+秬-Kaisho	U+79ec	秬
+U+79ec	秬
+称-Kaisho	U+79f0	称
+U+79f0	称
+移-Kaisho	U+79fb	移
+U+79fb	移
+稀-Kaisho	U+7a00	稀
+U+7a00	稀
+稈-Kaisho	U+7a08	稈
+U+7a08	稈
+程-Kaisho	U+7a0b	程
+程-KaishoVtLst	U+7a0b	程
+U+7a0b	程
+稍-Kaisho	U+7a0d	稍
+U+7a0d	稍
+税-Kaisho	U+7a0e	税
+U+7a0e	税
+稔-Kaisho	U+7a14	稔
+U+7a14	稔
+稗-HyougaiKaisho	U+7a17	稗
+稗-Hyougai	U+7a17	稗
+U+7a17	稗
+稘-Kaisho	U+7a18	稘
+U+7a18	稘
+稙-Kaisho	U+7a19	稙
+U+7a19	稙
+稚-Kaisho	U+7a1a	稚
+U+7a1a	稚
+稜-Kaisho	U+7a1c	稜
+U+7a1c	稜
+稟-Kaisho	U+7a1f	稟
+U+7a1f	稟
+稠-Kaisho	U+7a20	稠
+U+7a20	稠
+種-Kaisho	U+7a2e	種
+種-KaishoVtLst	U+7a2e	種
+U+7a2e	種
+稱-Kaisho	U+7a31	稱
+U+7a31	稱
+稲-Kaisho	U+7a32	稲
+U+7a32	稲
+稷-Kaisho	U+7a37	稷
+U+7a37	稷
+稻-KaishoHzFst	U+7a3b	稻
+稻-Kaisho	U+7a3b	稻
+U+7a3b	稻
+稼-Kaisho	U+7a3c	稼
+U+7a3c	稼
+稽-Kaisho	U+7a3d	稽
+U+7a3d	稽
+稾-Kaisho	U+7a3e	稾
+U+7a3e	稾
+稿-Kaisho	U+7a3f	稿
+U+7a3f	稿
+穀-Kaisho	U+7a40	穀
+U+7a40	穀
+穂-Kaisho	U+7a42	穂
+穂-KaishoVt4	U+7a42	穂
+穂-KaishoVtLst	U+7a42	穂
+U+7a42	穂
+穃-Kaisho	U+7a43	穃
+U+7a43	穃
+穆-Kaisho	U+7a46	穆
+U+7a46	穆
+穉-Kaisho	U+7a49	穉
+U+7a49	穉
+積-Kaisho	U+7a4d	積
+積-KaishoVtLst	U+7a4d	積
+U+7a4d	積
+穎-Kaisho	U+7a4e	穎
+U+7a4e	穎
+穏-Kaisho	U+7a4f	穏
+U+7a4f	穏
+穐-Kaisho	U+7a50	穐
+U+7a50	穐
+穗-Kaisho	U+7a57	穗
+U+7a57	穗
+穡-Kaisho	U+7a61	穡
+U+7a61	穡
+穢-KaishoHzFst	U+7a62	穢
+穢-KaishoHzFstTenFst	U+7a62	穢
+穢-Kaisho	U+7a62	穢
+U+7a62	穢
+穣-Kaisho	U+7a63	穣
+U+7a63	穣
+穩-Kaisho	U+7a69	穩
+U+7a69	穩
+穫-Kaisho	U+7a6b	穫
+U+7a6b	穫
+穰-Kaisho	U+7a70	穰
+U+7a70	穰
+穴-Kaisho	U+7a74	穴
+U+7a74	穴
+究-Kaisho	U+7a76	究
+U+7a76	究
+穹-Kaisho	U+7a79	穹
+U+7a79	穹
+空-Kaisho	U+7a7a	空
+U+7a7a	空
+穽-Kaisho	U+7a7d	穽
+U+7a7d	穽
+穿-HyougaiKaisho	U+7a7f	穿
+穿-Hyougai	U+7a7f	穿
+穿-Kaisho	U+7a7f	穿
+U+7a7f	穿
+突-Kaisho	U+7a81	突
+U+7a81	突
+窃-Kaisho	U+7a83	窃
+U+7a83	窃
+窄-Kaisho	U+7a84	窄
+U+7a84	窄
+窈-Kaisho	U+7a88	窈
+U+7a88	窈
+窒-Kaisho	U+7a92	窒
+窒-KaishoVtFst	U+7a92	窒
+U+7a92	窒
+窓-Kaisho	U+7a93	窓
+U+7a93	窓
+窕-KaishoMidFst	U+7a95	窕
+窕-Kaisho	U+7a95	窕
+U+7a95	窕
+窖-Kaisho	U+7a96	窖
+U+7a96	窖
+窗-Kaisho	U+7a97	窗
+U+7a97	窗
+窘-Kaisho	U+7a98	窘
+U+7a98	窘
+窟-Kaisho	U+7a9f	窟
+U+7a9f	窟
+窩-KaishoHzFst	U+7aa9	窩
+窩-Kaisho	U+7aa9	窩
+U+7aa9	窩
+窪-Kaisho	U+7aaa	窪
+U+7aaa	窪
+窮-Kaisho	U+7aae	窮
+U+7aae	窮
+窯-Kaisho	U+7aaf	窯
+窯-KaishoVtLst	U+7aaf	窯
+U+7aaf	窯
+窰-Kaisho	U+7ab0	窰
+U+7ab0	窰
+窶-Kaisho	U+7ab6	窶
+U+7ab6	窶
+窺-Kaisho	U+7aba	窺
+U+7aba	窺
+窿-Kaisho	U+7abf	窿
+窿-KaishoVtLst	U+7abf	窿
+U+7abf	窿
+竃-Kaisho	U+7ac3	竃
+U+7ac3	竃
+竄-KaishoHzFst	U+7ac4	竄
+竄-Kaisho	U+7ac4	竄
+U+7ac4	竄
+竅-Kaisho	U+7ac5	竅
+U+7ac5	竅
+竇-Kaisho	U+7ac7	竇
+U+7ac7	竇
+竈-HyougaiKaisho	U+7ac8	竈
+竈-Hyougai	U+7ac8	竈
+U+7ac8	竈
+竊-KaishoHzFst	U+7aca	竊
+竊-Kaisho	U+7aca	竊
+U+7aca	竊
+立-Kaisho	U+7acb	立
+U+7acb	立
+竍-Kaisho	U+7acd	竍
+U+7acd	竍
+竏-Kaisho	U+7acf	竏
+U+7acf	竏
+竒-Kaisho	U+7ad2	竒
+U+7ad2	竒
+竓-Kaisho	U+7ad3	竓
+U+7ad3	竓
+竕-Kaisho	U+7ad5	竕
+U+7ad5	竕
+站-KaishoHzFst	U+7ad9	站
+站-Kaisho	U+7ad9	站
+U+7ad9	站
+竚-Kaisho	U+7ada	竚
+U+7ada	竚
+竜-Kaisho	U+7adc	竜
+U+7adc	竜
+竝-Kaisho	U+7add	竝
+U+7add	竝
+竟-Kaisho	U+7adf	竟
+U+7adf	竟
+章-Kaisho	U+7ae0	章
+U+7ae0	章
+竡-Kaisho	U+7ae1	竡
+U+7ae1	竡
+竢-Kaisho	U+7ae2	竢
+U+7ae2	竢
+竣-Kaisho	U+7ae3	竣
+U+7ae3	竣
+童-Kaisho	U+7ae5	童
+童-KaishoVtLst	U+7ae5	童
+U+7ae5	童
+竦-Kaisho	U+7ae6	竦
+U+7ae6	竦
+竪-KaishoHzFst	U+7aea	竪
+竪-Kaisho	U+7aea	竪
+U+7aea	竪
+竭-Kaisho	U+7aed	竭
+U+7aed	竭
+端-Kaisho	U+7aef	端
+U+7aef	端
+竰-Kaisho	U+7af0	竰
+竰-KaishoVtLst	U+7af0	竰
+U+7af0	竰
+競-Kaisho	U+7af6	競
+U+7af6	競
+竸-Kaisho	U+7af8	竸
+U+7af8	竸
+U+7af9	竹
+U+7afa	竺
+U+7aff	竿
+U+7b02	笂
+U+7b04	笄
+U+7b06	笆
+笈-Hyougai	U+7b08	笈
+U+7b08	笈
+U+7b0a	笊
+U+7b0b	笋
+U+7b0f	笏
+U+7b11	笑
+笘-HzFst	U+7b18	笘
+U+7b18	笘
+U+7b19	笙
+笙-VtLst	U+7b19	笙
+笛-Kaisho	U+7b1b	笛
+笛-KaishoVtLst	U+7b1b	笛
+U+7b1b	笛
+U+7b1e	笞
+笠-Kaisho	U+7b20	笠
+U+7b20	笠
+U+7b25	笥
+U+7b26	符
+U+7b28	笨
+第-Kaisho	U+7b2c	第
+U+7b2c	第
+U+7b33	笳
+U+7b35	笵
+U+7b36	笶
+U+7b39	笹
+U+7b45	筅
+U+7b46	筆
+U+7b48	筈
+U+7b49	等
+筋-Kaisho	U+7b4b	筋
+U+7b4b	筋
+U+7b4c	筌
+筌-VtLst	U+7b4c	筌
+筍-Kaisho	U+7b4d	筍
+U+7b4d	筍
+U+7b4f	筏
+U+7b50	筐
+筐-VtLst	U+7b50	筐
+U+7b51	筑
+U+7b52	筒
+U+7b54	答
+策-Kaisho	U+7b56	策
+U+7b56	策
+U+7b5d	筝
+U+7b65	筥
+筧-Kaisho	U+7b67	筧
+U+7b67	筧
+U+7b6c	筬
+U+7b6e	筮
+U+7b70	筰
+U+7b71	筱
+U+7b74	筴
+筵-HyougaiHzFst	U+7b75	筵
+筵-Hyougai	U+7b75	筵
+U+7b75	筵
+U+7b7a	筺
+筺-VtLst	U+7b7a	筺
+箆-Kaisho	U+7b86	箆
+U+7b86	箆
+U+7b87	箇
+U+7b8b	箋
+U+7b8d	箍
+U+7b8f	箏
+U+7b92	箒
+箔-Kaisho	U+7b94	箔
+U+7b94	箔
+箕-Kaisho	U+7b95	箕
+U+7b95	箕
+算-Kaisho	U+7b97	算
+U+7b97	算
+箘-Kaisho	U+7b98	箘
+U+7b98	箘
+箙-Kaisho	U+7b99	箙
+箙-KaishoVtFst	U+7b99	箙
+U+7b99	箙
+U+7b9a	箚
+箜-Kaisho	U+7b9c	箜
+U+7b9c	箜
+箝-Kaisho	U+7b9d	箝
+U+7b9d	箝
+箟-Kaisho	U+7b9f	箟
+U+7b9f	箟
+管-Kaisho	U+7ba1	管
+U+7ba1	管
+箪-Kaisho	U+7baa	箪
+U+7baa	箪
+箭-HyougaiKaisho	U+7bad	箭
+箭-Hyougai	U+7bad	箭
+U+7bad	箭
+箱-Kaisho	U+7bb1	箱
+U+7bb1	箱
+U+7bb4	箴
+箸-HyougaiKaisho	U+7bb8	箸
+箸-Hyougai	U+7bb8	箸
+箸-Kaisho	U+7bb8	箸
+U+7bb8	箸
+節-Kaisho	U+7bc0	節
+U+7bc0	節
+篁-Kaisho	U+7bc1	篁
+篁-KaishoVtLst	U+7bc1	篁
+U+7bc1	篁
+範-Kaisho	U+7bc4	範
+U+7bc4	範
+U+7bc6	篆
+篇-HyougaiKaisho	U+7bc7	篇
+篇-Hyougai	U+7bc7	篇
+篇-JinmeiKaisho	U+7bc7	篇
+篇-Jinmei	U+7bc7	篇
+U+7bc7	篇
+築-Kaisho	U+7bc9	築
+U+7bc9	築
+U+7bcb	篋
+U+7bcc	篌
+篏-Kaisho	U+7bcf	篏
+U+7bcf	篏
+篝-HyougaiKaisho	U+7bdd	篝
+篝-Hyougai	U+7bdd	篝
+U+7bdd	篝
+篠-Kaisho	U+7be0	篠
+U+7be0	篠
+U+7be4	篤
+篤-Vt6	U+7be4	篤
+篥-Kaisho	U+7be5	篥
+U+7be5	篥
+篦-Kaisho	U+7be6	篦
+U+7be6	篦
+U+7be9	篩
+篭-Kaisho	U+7bed	篭
+U+7bed	篭
+篳-Kaisho	U+7bf3	篳
+U+7bf3	篳
+篶-HzFst	U+7bf6	篶
+U+7bf6	篶
+U+7bf7	篷
+簀-Kaisho	U+7c00	簀
+簀-KaishoVtLst	U+7c00	簀
+U+7c00	簀
+簇-Kaisho	U+7c07	簇
+U+7c07	簇
+U+7c0d	簍
+簑-Kaisho	U+7c11	簑
+U+7c11	簑
+簒-Kaisho	U+7c12	簒
+U+7c12	簒
+U+7c13	簓
+簔-Kaisho	U+7c14	簔
+U+7c14	簔
+簗-Kaisho	U+7c17	簗
+U+7c17	簗
+簟-Kaisho	U+7c1f	簟
+U+7c1f	簟
+簡-Kaisho	U+7c21	簡
+U+7c21	簡
+簣-Kaisho	U+7c23	簣
+U+7c23	簣
+U+7c27	簧
+簧-VtLst	U+7c27	簧
+簪-Hyougai	U+7c2a	簪
+U+7c2a	簪
+簫-Kaisho	U+7c2b	簫
+簫-KaishoVt6	U+7c2b	簫
+U+7c2b	簫
+U+7c37	簷
+簸-Kaisho	U+7c38	簸
+U+7c38	簸
+U+7c3d	簽
+簾-HyougaiKaisho	U+7c3e	簾
+簾-Hyougai	U+7c3e	簾
+簾-Kaisho	U+7c3e	簾
+U+7c3e	簾
+簿-Kaisho	U+7c3f	簿
+U+7c3f	簿
+籀-Kaisho	U+7c40	籀
+U+7c40	籀
+籃-HzFst	U+7c43	籃
+U+7c43	籃
+U+7c4c	籌
+籍-Kaisho	U+7c4d	籍
+U+7c4d	籍
+籏-Kaisho	U+7c4f	籏
+U+7c4f	籏
+籐-Kaisho	U+7c50	籐
+U+7c50	籐
+U+7c54	籔
+U+7c56	籖
+籘-Kaisho	U+7c58	籘
+U+7c58	籘
+籟-Kaisho	U+7c5f	籟
+U+7c5f	籟
+籠-Kaisho	U+7c60	籠
+U+7c60	籠
+U+7c64	籤
+籥-Kaisho	U+7c65	籥
+U+7c65	籥
+籬-Kaisho	U+7c6c	籬
+U+7c6c	籬
+米-Kaisho	U+7c73	米
+U+7c73	米
+籵-Kaisho	U+7c75	籵
+U+7c75	籵
+籾-HyougaiKaisho	U+7c7e	籾
+籾-Hyougai	U+7c7e	籾
+籾-Kaisho	U+7c7e	籾
+U+7c7e	籾
+粁-Kaisho	U+7c81	粁
+U+7c81	粁
+粂-HyougaiKaisho	U+7c82	粂
+粂-Hyougai	U+7c82	粂
+U+7c82	粂
+粃-Kaisho	U+7c83	粃
+U+7c83	粃
+粉-Kaisho	U+7c89	粉
+U+7c89	粉
+粋-Kaisho	U+7c8b	粋
+U+7c8b	粋
+粍-Kaisho	U+7c8d	粍
+U+7c8d	粍
+粐-Kaisho	U+7c90	粐
+U+7c90	粐
+粒-Kaisho	U+7c92	粒
+U+7c92	粒
+粕-Kaisho	U+7c95	粕
+U+7c95	粕
+粗-Kaisho	U+7c97	粗
+U+7c97	粗
+粘-KaishoHzFst	U+7c98	粘
+粘-Kaisho	U+7c98	粘
+U+7c98	粘
+U+7c9b	粛
+粟-Kaisho	U+7c9f	粟
+U+7c9f	粟
+粡-Kaisho	U+7ca1	粡
+U+7ca1	粡
+粢-Kaisho	U+7ca2	粢
+U+7ca2	粢
+U+7ca4	粤
+粥-Kaisho	U+7ca5	粥
+U+7ca5	粥
+粧-Kaisho	U+7ca7	粧
+U+7ca7	粧
+粨-Kaisho	U+7ca8	粨
+U+7ca8	粨
+粫-Kaisho	U+7cab	粫
+U+7cab	粫
+粭-Kaisho	U+7cad	粭
+U+7cad	粭
+粮-Kaisho	U+7cae	粮
+U+7cae	粮
+粱-Kaisho	U+7cb1	粱
+U+7cb1	粱
+粲-Kaisho	U+7cb2	粲
+U+7cb2	粲
+粳-Kaisho	U+7cb3	粳
+U+7cb3	粳
+粹-Kaisho	U+7cb9	粹
+U+7cb9	粹
+粽-Kaisho	U+7cbd	粽
+U+7cbd	粽
+精-Kaisho	U+7cbe	精
+精-KaishoVtLst	U+7cbe	精
+U+7cbe	精
+糀-Kaisho	U+7cc0	糀
+U+7cc0	糀
+糂-Kaisho	U+7cc2	糂
+U+7cc2	糂
+糅-Kaisho	U+7cc5	糅
+U+7cc5	糅
+糊-Kaisho	U+7cca	糊
+U+7cca	糊
+糎-Kaisho	U+7cce	糎
+糎-KaishoVtLst	U+7cce	糎
+U+7cce	糎
+糒-Kaisho	U+7cd2	糒
+U+7cd2	糒
+糖-Kaisho	U+7cd6	糖
+糖-KaishoVt5	U+7cd6	糖
+糖-KaishoVtLst	U+7cd6	糖
+U+7cd6	糖
+糘-Kaisho	U+7cd8	糘
+U+7cd8	糘
+糜-Kaisho	U+7cdc	糜
+U+7cdc	糜
+糞-Kaisho	U+7cde	糞
+U+7cde	糞
+糟-Kaisho	U+7cdf	糟
+糟-KaishoVtLst	U+7cdf	糟
+U+7cdf	糟
+糠-Kaisho	U+7ce0	糠
+U+7ce0	糠
+糢-Kaisho	U+7ce2	糢
+U+7ce2	糢
+糧-Kaisho	U+7ce7	糧
+糧-KaishoVtLst	U+7ce7	糧
+U+7ce7	糧
+糯-Kaisho	U+7cef	糯
+U+7cef	糯
+糲-Kaisho	U+7cf2	糲
+U+7cf2	糲
+糴-Kaisho	U+7cf4	糴
+U+7cf4	糴
+糶-Kaisho	U+7cf6	糶
+U+7cf6	糶
+糸-Kaisho	U+7cf8	糸
+U+7cf8	糸
+U+7cfa	糺
+系-Kaisho	U+7cfb	系
+U+7cfb	系
+U+7cfe	糾
+U+7d00	紀
+U+7d02	紂
+U+7d04	約
+U+7d05	紅
+U+7d06	紆
+紊-Kaisho	U+7d0a	紊
+U+7d0a	紊
+U+7d0b	紋
+U+7d0d	納
+U+7d10	紐
+U+7d14	純
+U+7d15	紕
+U+7d17	紗
+U+7d18	紘
+U+7d19	紙
+U+7d1a	級
+U+7d1b	紛
+U+7d1c	紜
+素-Kaisho	U+7d20	素
+素-KaishoVtLst	U+7d20	素
+U+7d20	素
+U+7d21	紡
+索-Kaisho	U+7d22	索
+U+7d22	索
+紫-KaishoHzFst	U+7d2b	紫
+紫-Kaisho	U+7d2b	紫
+U+7d2b	紫
+U+7d2c	紬
+紮-Kaisho	U+7d2e	紮
+U+7d2e	紮
+累-Kaisho	U+7d2f	累
+U+7d2f	累
+U+7d30	細
+U+7d32	紲
+U+7d33	紳
+U+7d35	紵
+U+7d39	紹
+U+7d3a	紺
+U+7d3f	紿
+U+7d42	終
+U+7d43	絃
+U+7d44	組
+U+7d45	絅
+U+7d46	絆
+U+7d4b	絋
+U+7d4c	経
+U+7d4e	絎
+U+7d4f	絏
+U+7d50	結
+U+7d56	絖
+絛-Kaisho	U+7d5b	絛
+U+7d5b	絛
+U+7d5e	絞
+U+7d61	絡
+U+7d62	絢
+U+7d63	絣
+U+7d66	給
+U+7d68	絨
+絮-Kaisho	U+7d6e	絮
+U+7d6e	絮
+U+7d71	統
+U+7d72	絲
+U+7d73	絳
+U+7d75	絵
+U+7d76	絶
+U+7d79	絹
+U+7d7d	絽
+U+7d89	綉
+U+7d8f	綏
+U+7d93	經
+U+7d99	継
+U+7d9a	続
+U+7d9b	綛
+U+7d9c	綜
+U+7d9f	綟
+U+7da2	綢
+U+7da3	綣
+U+7dab	綫
+U+7dac	綬
+U+7dad	維
+綮-Kaisho	U+7dae	綮
+U+7dae	綮
+U+7daf	綯
+U+7db0	綰
+U+7db1	綱
+U+7db2	網
+U+7db4	綴
+U+7db5	綵
+U+7db8	綸
+U+7dba	綺
+U+7dbb	綻
+U+7dbd	綽
+U+7dbe	綾
+U+7dbf	綿
+U+7dc7	緇
+緊-KaishoHzFst	U+7dca	緊
+緊-Kaisho	U+7dca	緊
+U+7dca	緊
+U+7dcb	緋
+U+7dcf	総
+U+7dd1	緑
+U+7dd2	緒
+緕-KaishoVt6	U+7dd5	緕
+U+7dd5	緕
+U+7dd8	緘
+U+7dda	線
+緜-Kaisho	U+7ddc	緜
+U+7ddc	緜
+U+7ddd	緝
+U+7dde	緞
+U+7de0	締
+U+7de1	緡
+U+7de4	緤
+U+7de8	編
+U+7de9	緩
+U+7dec	緬
+U+7def	緯
+U+7df2	緲
+U+7df4	練
+U+7dfb	緻
+U+7e01	縁
+U+7e04	縄
+U+7e05	縅
+U+7e09	縉
+U+7e0a	縊
+U+7e0b	縋
+U+7e12	縒
+U+7e1b	縛
+縞-Kaisho	U+7e1e	縞
+U+7e1e	縞
+U+7e1f	縟
+U+7e21	縡
+縢-Kaisho	U+7e22	縢
+U+7e22	縢
+縣-Kaisho	U+7e23	縣
+U+7e23	縣
+U+7e26	縦
+U+7e2b	縫
+U+7e2e	縮
+U+7e31	縱
+U+7e32	縲
+U+7e35	縵
+U+7e37	縷
+U+7e39	縹
+U+7e3a	縺
+縻-Kaisho	U+7e3b	縻
+U+7e3b	縻
+U+7e3d	總
+U+7e3e	績
+繁-Kaisho	U+7e41	繁
+U+7e41	繁
+U+7e43	繃
+U+7e46	繆
+U+7e4a	繊
+繋-JinmeiKaisho	U+7e4b	繋
+繋-Jinmei	U+7e4b	繋
+繋-Kaisho	U+7e4b	繋
+U+7e4b	繋
+U+7e4d	繍
+U+7e54	織
+U+7e55	繕
+U+7e56	繖
+U+7e59	繙
+U+7e5a	繚
+U+7e5d	繝
+U+7e5e	繞
+U+7e66	繦
+U+7e67	繧
+U+7e69	繩
+U+7e6a	繪
+U+7e6d	繭
+U+7e70	繰
+U+7e79	繹
+U+7e7b	繻
+U+7e7c	繼
+U+7e7d	繽
+U+7e7f	繿
+纂-Kaisho	U+7e82	纂
+U+7e82	纂
+U+7e83	纃
+U+7e88	纈
+U+7e89	纉
+U+7e8c	續
+U+7e8e	纎
+U+7e8f	纏
+U+7e90	纐
+U+7e92	纒
+U+7e93	纓
+U+7e94	纔
+U+7e96	纖
+纛-Kaisho	U+7e9b	纛
+纛-KaishoVtLst	U+7e9b	纛
+U+7e9b	纛
+U+7e9c	纜
+U+7f36	缶
+U+7f38	缸
+U+7f3a	缺
+罅-HzFstLeRi	U+7f45	罅
+罅-HzFstRiLe	U+7f45	罅
+U+7f45	罅
+罅-VtFstRiLe	U+7f45	罅
+罌-Kaisho	U+7f4c	罌
+U+7f4c	罌
+罍-Kaisho	U+7f4d	罍
+U+7f4d	罍
+罎-Kaisho	U+7f4e	罎
+U+7f4e	罎
+U+7f50	罐
+U+7f51	网
+U+7f52	罒
+罔-Kaisho	U+7f54	罔
+U+7f54	罔
+U+7f55	罕
+U+7f58	罘
+U+7f5f	罟
+U+7f60	罠
+罧-Kaisho	U+7f67	罧
+U+7f67	罧
+罨-Kaisho	U+7f68	罨
+U+7f68	罨
+罩-KaishoHzFst	U+7f69	罩
+罩-Kaisho	U+7f69	罩
+U+7f69	罩
+罪-MdFst	U+7f6a	罪
+U+7f6a	罪
+U+7f6b	罫
+置-Kaisho	U+7f6e	置
+U+7f6e	置
+U+7f70	罰
+署-Kaisho	U+7f72	署
+U+7f72	署
+U+7f75	罵
+罵-Vt6	U+7f75	罵
+罷-Kaisho	U+7f77	罷
+U+7f77	罷
+U+7f78	罸
+U+7f79	罹
+U+7f82	羂
+羃-Kaisho	U+7f83	羃
+U+7f83	羃
+U+7f85	羅
+羆-Kaisho	U+7f86	羆
+U+7f86	羆
+U+7f87	羇
+U+7f88	羈
+羈-Vt6	U+7f88	羈
+U+7f8a	羊
+U+7f8c	羌
+美-Kaisho	U+7f8e	美
+美-KaishoVtLst	U+7f8e	美
+U+7f8e	美
+U+7f94	羔
+羔-VtLst	U+7f94	羔
+羚-Insatsu	U+7f9a	羚
+U+7f9a	羚
+U+7f9d	羝
+U+7f9e	羞
+羞-VtLst	U+7f9e	羞
+U+7fa3	羣
+U+7fa4	群
+U+7fa8	羨
+U+7fa9	義
+U+7fae	羮
+羮-VtLst	U+7fae	羮
+羯-Kaisho	U+7faf	羯
+U+7faf	羯
+U+7fb2	羲
+羶-Kaisho	U+7fb6	羶
+U+7fb6	羶
+羸-Kaisho	U+7fb8	羸
+羸-LeFst	U+7fb8	羸
+U+7fb8	羸
+U+7fb9	羹
+羹-VtLst	U+7fb9	羹
+羽-Kaisho	U+7fbd	羽
+U+7fbd	羽
+U+7fc1	翁
+U+7fc5	翅
+U+7fc6	翆
+翊-Kaisho	U+7fca	翊
+U+7fca	翊
+翌-Kaisho	U+7fcc	翌
+U+7fcc	翌
+習-Kaisho	U+7fd2	習
+U+7fd2	習
+U+7fd4	翔
+U+7fd5	翕
+翠-Kaisho	U+7fe0	翠
+U+7fe0	翠
+翡-MdFst	U+7fe1	翡
+U+7fe1	翡
+U+7fe6	翦
+翩-Kaisho	U+7fe9	翩
+U+7fe9	翩
+翫-HyougaiKaisho	U+7feb	翫
+翫-Hyougai	U+7feb	翫
+U+7feb	翫
+翰-HyougaiKaisho	U+7ff0	翰
+翰-Hyougai	U+7ff0	翰
+U+7ff0	翰
+U+7ff3	翳
+U+7ff9	翹
+翻-Kaisho	U+7ffb	翻
+U+7ffb	翻
+翼-Kaisho	U+7ffc	翼
+U+7ffc	翼
+U+8000	耀
+老-Kaisho	U+8001	老
+U+8001	老
+U+8002	耂
+考-Kaisho	U+8003	考
+U+8003	考
+U+8004	耄
+者-Kaisho	U+8005	者
+U+8005	者
+耆-Kaisho	U+8006	耆
+U+8006	耆
+U+800b	耋
+耋-VtFst	U+800b	耋
+U+800c	而
+U+8010	耐
+耒-Kaisho	U+8012	耒
+U+8012	耒
+耕-Kaisho	U+8015	耕
+U+8015	耕
+耗-Kaisho	U+8017	耗
+U+8017	耗
+耘-Kaisho	U+8018	耘
+U+8018	耘
+耙-Kaisho	U+8019	耙
+U+8019	耙
+耜-Kaisho	U+801c	耜
+U+801c	耜
+耡-Kaisho	U+8021	耡
+U+8021	耡
+耨-Kaisho	U+8028	耨
+U+8028	耨
+耳-Kaisho	U+8033	耳
+耳-KaishoVt3	U+8033	耳
+U+8033	耳
+耶-Kaisho	U+8036	耶
+耶-KaishoVt3	U+8036	耶
+U+8036	耶
+耻-KaishoHzFst	U+803b	耻
+耻-Kaisho	U+803b	耻
+耻-KaishoVt3HzFst	U+803b	耻
+耻-KaishoVt3	U+803b	耻
+U+803b	耻
+耽-Kaisho	U+803d	耽
+耽-KaishoVt3	U+803d	耽
+U+803d	耽
+耿-Kaisho	U+803f	耿
+耿-KaishoVt3	U+803f	耿
+U+803f	耿
+聆-Insatsu	U+8046	聆
+聆-Kaisho	U+8046	聆
+聆-KaishoVt3	U+8046	聆
+U+8046	聆
+聊-Kaisho	U+804a	聊
+聊-KaishoVt3	U+804a	聊
+U+804a	聊
+聒-Kaisho	U+8052	聒
+聒-KaishoVt3	U+8052	聒
+U+8052	聒
+聖-Kaisho	U+8056	聖
+聖-KaishoVt3	U+8056	聖
+聖-KaishoVt3VtLst	U+8056	聖
+聖-KaishoVtLst	U+8056	聖
+U+8056	聖
+聘-Kaisho	U+8058	聘
+聘-KaishoVt3Vt3	U+8058	聘
+聘-KaishoVt3VtLst	U+8058	聘
+U+8058	聘
+聚-Kaisho	U+805a	聚
+聚-KaishoVt3	U+805a	聚
+U+805a	聚
+聞-Kaisho	U+805e	聞
+聞-KaishoVt3	U+805e	聞
+U+805e	聞
+聟-Kaisho	U+805f	聟
+聟-KaishoVt3	U+805f	聟
+U+805f	聟
+聡-Kaisho	U+8061	聡
+聡-KaishoVt3	U+8061	聡
+U+8061	聡
+聢-Kaisho	U+8062	聢
+聢-KaishoVt3	U+8062	聢
+U+8062	聢
+聨-Kaisho	U+8068	聨
+聨-KaishoVt3	U+8068	聨
+U+8068	聨
+聯-Kaisho	U+806f	聯
+聯-KaishoVt3	U+806f	聯
+U+806f	聯
+聰-Kaisho	U+8070	聰
+聰-KaishoVt3	U+8070	聰
+U+8070	聰
+聲-Kaisho	U+8072	聲
+聲-KaishoVt3	U+8072	聲
+U+8072	聲
+聳-Kaisho	U+8073	聳
+聳-KaishoVt3	U+8073	聳
+U+8073	聳
+聴-Kaisho	U+8074	聴
+聴-KaishoVt3	U+8074	聴
+U+8074	聴
+聶-Kaisho	U+8076	聶
+聶-KaishoVt3	U+8076	聶
+U+8076	聶
+職-Kaisho	U+8077	職
+職-KaishoVt3	U+8077	職
+U+8077	職
+聹-Kaisho	U+8079	聹
+聹-KaishoVt3	U+8079	聹
+U+8079	聹
+聽-Kaisho	U+807d	聽
+聽-KaishoVt3	U+807d	聽
+聽-KaishoVt3VtLst	U+807d	聽
+聽-KaishoVtLst	U+807d	聽
+U+807d	聽
+聾-Kaisho	U+807e	聾
+聾-KaishoVt3	U+807e	聾
+U+807e	聾
+U+807f	聿
+U+8084	肄
+肅-Kaisho	U+8085	肅
+肅-KaishoVt6	U+8085	肅
+U+8085	肅
+肆-HzFst	U+8086	肆
+U+8086	肆
+U+8087	肇
+U+8089	肉
+肋-Kaisho	U+808b	肋
+U+808b	肋
+肌-Kaisho	U+808c	肌
+U+808c	肌
+肓-Kaisho	U+8093	肓
+U+8093	肓
+肖-Kaisho	U+8096	肖
+U+8096	肖
+肘-Kaisho	U+8098	肘
+U+8098	肘
+肚-Kaisho	U+809a	肚
+U+809a	肚
+肛-Kaisho	U+809b	肛
+U+809b	肛
+肝-Kaisho	U+809d	肝
+U+809d	肝
+股-Kaisho	U+80a1	股
+U+80a1	股
+肢-Kaisho	U+80a2	肢
+U+80a2	肢
+肥-Kaisho	U+80a5	肥
+U+80a5	肥
+肩-Kaisho	U+80a9	肩
+U+80a9	肩
+肪-Kaisho	U+80aa	肪
+U+80aa	肪
+肬-Kaisho	U+80ac	肬
+U+80ac	肬
+肭-Kaisho	U+80ad	肭
+U+80ad	肭
+肯-KaishoHzFst	U+80af	肯
+肯-Kaisho	U+80af	肯
+U+80af	肯
+肱-Kaisho	U+80b1	肱
+U+80b1	肱
+育-Kaisho	U+80b2	育
+U+80b2	育
+肴-Kaisho	U+80b4	肴
+U+80b4	肴
+肺-Kaisho	U+80ba	肺
+U+80ba	肺
+胃-Kaisho	U+80c3	胃
+U+80c3	胃
+胄-Kaisho	U+80c4	胄
+胄-KaishoVtLst	U+80c4	胄
+U+80c4	胄
+胆-Kaisho	U+80c6	胆
+U+80c6	胆
+背-Kaisho	U+80cc	背
+U+80cc	背
+胎-Kaisho	U+80ce	胎
+U+80ce	胎
+胖-Kaisho	U+80d6	胖
+U+80d6	胖
+胙-Kaisho	U+80d9	胙
+U+80d9	胙
+胚-Kaisho	U+80da	胚
+U+80da	胚
+胛-Kaisho	U+80db	胛
+U+80db	胛
+胝-Kaisho	U+80dd	胝
+U+80dd	胝
+胞-Kaisho	U+80de	胞
+U+80de	胞
+胡-Kaisho	U+80e1	胡
+U+80e1	胡
+胤-Kaisho	U+80e4	胤
+U+80e4	胤
+胥-Kaisho	U+80e5	胥
+U+80e5	胥
+胯-Kaisho	U+80ef	胯
+U+80ef	胯
+胱-Kaisho	U+80f1	胱
+U+80f1	胱
+胴-Kaisho	U+80f4	胴
+U+80f4	胴
+胸-Kaisho	U+80f8	胸
+U+80f8	胸
+胼-Kaisho	U+80fc	胼
+U+80fc	胼
+能-Kaisho	U+80fd	能
+U+80fd	能
+脂-Kaisho	U+8102	脂
+U+8102	脂
+脅-Kaisho	U+8105	脅
+U+8105	脅
+脆-Kaisho	U+8106	脆
+U+8106	脆
+脇-Kaisho	U+8107	脇
+U+8107	脇
+脈-Kaisho	U+8108	脈
+U+8108	脈
+脉-Kaisho	U+8109	脉
+U+8109	脉
+脊-Kaisho	U+810a	脊
+U+810a	脊
+脚-Kaisho	U+811a	脚
+U+811a	脚
+脛-Kaisho	U+811b	脛
+U+811b	脛
+脣-Kaisho	U+8123	脣
+U+8123	脣
+脩-Kaisho	U+8129	脩
+U+8129	脩
+脯-Kaisho	U+812f	脯
+U+812f	脯
+脱-Kaisho	U+8131	脱
+U+8131	脱
+脳-Kaisho	U+8133	脳
+U+8133	脳
+脹-KaishoHzFst	U+8139	脹
+脹-Kaisho	U+8139	脹
+U+8139	脹
+脾-Kaisho	U+813e	脾
+U+813e	脾
+腆-Kaisho	U+8146	腆
+腆-KaishoVtLst	U+8146	腆
+U+8146	腆
+腋-Kaisho	U+814b	腋
+U+814b	腋
+腎-KaishoHzFst	U+814e	腎
+腎-Kaisho	U+814e	腎
+U+814e	腎
+腐-Kaisho	U+8150	腐
+U+8150	腐
+腑-Kaisho	U+8151	腑
+U+8151	腑
+腓-KaishoMdFst	U+8153	腓
+腓-Kaisho	U+8153	腓
+U+8153	腓
+腔-Kaisho	U+8154	腔
+U+8154	腔
+腕-Kaisho	U+8155	腕
+U+8155	腕
+腟-Kaisho	U+815f	腟
+腟-KaishoVtFst	U+815f	腟
+U+815f	腟
+腥-Kaisho	U+8165	腥
+腥-KaishoVtLst	U+8165	腥
+U+8165	腥
+腦-Kaisho	U+8166	腦
+U+8166	腦
+腫-Kaisho	U+816b	腫
+腫-KaishoVtLst	U+816b	腫
+U+816b	腫
+腮-Kaisho	U+816e	腮
+U+816e	腮
+腰-Kaisho	U+8170	腰
+U+8170	腰
+腱-HyougaiKaisho	U+8171	腱
+腱-Hyougai	U+8171	腱
+U+8171	腱
+腴-Kaisho	U+8174	腴
+U+8174	腴
+腸-Kaisho	U+8178	腸
+U+8178	腸
+腹-Kaisho	U+8179	腹
+U+8179	腹
+腺-Kaisho	U+817a	腺
+U+817a	腺
+腿-HyougaiKaisho	U+817f	腿
+腿-Hyougai	U+817f	腿
+腿-Kaisho	U+817f	腿
+U+817f	腿
+膀-Kaisho	U+8180	膀
+U+8180	膀
+膂-Kaisho	U+8182	膂
+U+8182	膂
+膃-Kaisho	U+8183	膃
+U+8183	膃
+膈-Kaisho	U+8188	膈
+U+8188	膈
+膊-Kaisho	U+818a	膊
+U+818a	膊
+膏-HyougaiKaisho	U+818f	膏
+膏-Hyougai	U+818f	膏
+U+818f	膏
+膓-Kaisho	U+8193	膓
+U+8193	膓
+膕-Kaisho	U+8195	膕
+U+8195	膕
+膚-KaishoHzFstLeRi	U+819a	膚
+膚-KaishoHzFstRiLe	U+819a	膚
+膚-Kaisho	U+819a	膚
+膚-KaishoVtFstRiLe	U+819a	膚
+U+819a	膚
+膜-Kaisho	U+819c	膜
+U+819c	膜
+膝-Kaisho	U+819d	膝
+U+819d	膝
+膠-Kaisho	U+81a0	膠
+U+81a0	膠
+膣-Kaisho	U+81a3	膣
+膣-KaishoVtFst	U+81a3	膣
+U+81a3	膣
+膤-Kaisho	U+81a4	膤
+U+81a4	膤
+膨-Kaisho	U+81a8	膨
+U+81a8	膨
+膩-Kaisho	U+81a9	膩
+U+81a9	膩
+膰-Kaisho	U+81b0	膰
+U+81b0	膰
+膳-Kaisho	U+81b3	膳
+U+81b3	膳
+膵-Kaisho	U+81b5	膵
+U+81b5	膵
+膸-Kaisho	U+81b8	膸
+U+81b8	膸
+膺-Kaisho	U+81ba	膺
+U+81ba	膺
+膽-Kaisho	U+81bd	膽
+U+81bd	膽
+膾-Kaisho	U+81be	膾
+U+81be	膾
+膿-Kaisho	U+81bf	膿
+膿-KaishoVtLst	U+81bf	膿
+U+81bf	膿
+臀-Kaisho	U+81c0	臀
+U+81c0	臀
+臂-Kaisho	U+81c2	臂
+U+81c2	臂
+臆-Kaisho	U+81c6	臆
+U+81c6	臆
+臈-Kaisho	U+81c8	臈
+U+81c8	臈
+臉-Kaisho	U+81c9	臉
+U+81c9	臉
+臍-Kaisho	U+81cd	臍
+U+81cd	臍
+臑-Kaisho	U+81d1	臑
+U+81d1	臑
+臓-KaishoHzFst	U+81d3	臓
+臓-KaishoHzFstTenFst	U+81d3	臓
+臓-Kaisho	U+81d3	臓
+U+81d3	臓
+臘-Kaisho	U+81d8	臘
+U+81d8	臘
+臙-Kaisho	U+81d9	臙
+U+81d9	臙
+臚-KaishoHzFstLeRi	U+81da	臚
+臚-KaishoHzFstRiLe	U+81da	臚
+臚-Kaisho	U+81da	臚
+臚-KaishoVtFstRiLe	U+81da	臚
+U+81da	臚
+臟-KaishoHzFst	U+81df	臟
+臟-KaishoHzFstTenFst	U+81df	臟
+臟-Kaisho	U+81df	臟
+U+81df	臟
+U+81e0	臠
+臣-HzFst	U+81e3	臣
+U+81e3	臣
+臥-HzFst	U+81e5	臥
+U+81e5	臥
+臧-HzFst	U+81e7	臧
+臧-HzFstTenFst	U+81e7	臧
+U+81e7	臧
+臨-HzFst	U+81e8	臨
+U+81e8	臨
+自-Kaisho	U+81ea	自
+U+81ea	自
+臭-Kaisho	U+81ed	臭
+U+81ed	臭
+U+81f3	至
+至-VtFst	U+81f3	至
+U+81f4	致
+致-VtFst	U+81f4	致
+U+81fa	臺
+臺-VtFst	U+81fa	臺
+臻-Kaisho	U+81fb	臻
+臻-KaishoVtFst	U+81fb	臻
+U+81fb	臻
+臼-HzFst	U+81fc	臼
+U+81fc	臼
+U+81fe	臾
+舁-HzFst	U+8201	舁
+U+8201	舁
+舂-HzFst	U+8202	舂
+U+8202	舂
+舅-KaishoHzFst	U+8205	舅
+舅-Kaisho	U+8205	舅
+U+8205	舅
+與-LeFst	U+8207	與
+U+8207	與
+興-MdFst	U+8208	興
+U+8208	興
+舉-LeFst	U+8209	舉
+U+8209	舉
+舊-HzFst	U+820a	舊
+U+820a	舊
+U+820c	舌
+U+820d	舍
+U+820e	舎
+U+8210	舐
+U+8212	舒
+舖-Kaisho	U+8216	舖
+U+8216	舖
+舗-Kaisho	U+8217	舗
+U+8217	舗
+舘-Kaisho	U+8218	舘
+U+8218	舘
+U+821b	舛
+U+821c	舜
+舞-KaishoHzLst	U+821e	舞
+舞-Kaisho	U+821e	舞
+U+821e	舞
+U+821f	舟
+U+8229	舩
+航-Kaisho	U+822a	航
+U+822a	航
+舫-Kaisho	U+822b	舫
+U+822b	舫
+U+822c	般
+U+822e	舮
+舳-Kaisho	U+8233	舳
+舳-KaishoVtLst	U+8233	舳
+U+8233	舳
+舵-Kaisho	U+8235	舵
+U+8235	舵
+舶-Kaisho	U+8236	舶
+U+8236	舶
+舷-Kaisho	U+8237	舷
+U+8237	舷
+U+8238	舸
+船-Kaisho	U+8239	船
+U+8239	船
+U+8240	艀
+U+8247	艇
+艘-Hyougai	U+8258	艘
+U+8258	艘
+艘-VtLst	U+8258	艘
+U+8259	艙
+艚-Kaisho	U+825a	艚
+艚-KaishoVtLst	U+825a	艚
+U+825a	艚
+U+825d	艝
+艟-Kaisho	U+825f	艟
+艟-KaishoVtLst	U+825f	艟
+U+825f	艟
+U+8262	艢
+U+8264	艤
+艦-HzFst	U+8266	艦
+U+8266	艦
+U+8268	艨
+艪-Kaisho	U+826a	艪
+U+826a	艪
+艫-KaishoHzFstLeRi	U+826b	艫
+艫-KaishoHzFstRiLe	U+826b	艫
+艫-Kaisho	U+826b	艫
+艫-KaishoVtFstRiLe	U+826b	艫
+U+826b	艫
+艮-Kaisho	U+826e	艮
+U+826e	艮
+良-Kaisho	U+826f	良
+U+826f	良
+艱-Kaisho	U+8271	艱
+U+8271	艱
+U+8272	色
+艶-Kaisho	U+8276	艶
+艶-KaishoVtLst	U+8276	艶
+U+8276	艶
+U+8277	艷
+U+8278	艸
+U+8279	艹
+U+827e	艾
+U+828b	芋
+U+828d	芍
+芒-HyougaiKaisho	U+8292	芒
+芒-Hyougai	U+8292	芒
+U+8292	芒
+U+8299	芙
+U+829d	芝
+U+829f	芟
+U+82a5	芥
+芦-Hyougai	U+82a6	芦
+U+82a6	芦
+U+82ab	芫
+U+82ac	芬
+U+82ad	芭
+U+82af	芯
+U+82b1	花
+芳-Kaisho	U+82b3	芳
+U+82b3	芳
+U+82b8	芸
+U+82b9	芹
+U+82bb	芻
+U+82bd	芽
+U+82c5	苅
+U+82d1	苑
+U+82d2	苒
+苓-Insatsu	U+82d3	苓
+U+82d3	苓
+U+82d4	苔
+苗-Kaisho	U+82d7	苗
+U+82d7	苗
+苙-Kaisho	U+82d9	苙
+U+82d9	苙
+U+82db	苛
+苜-Kaisho	U+82dc	苜
+U+82dc	苜
+U+82de	苞
+U+82df	苟
+U+82e1	苡
+苣-HzFst	U+82e3	苣
+U+82e3	苣
+U+82e5	若
+U+82e6	苦
+苧-Kaisho	U+82e7	苧
+U+82e7	苧
+苫-HzFst	U+82eb	苫
+U+82eb	苫
+英-Kaisho	U+82f1	英
+U+82f1	英
+U+82f3	苳
+苴-Kaisho	U+82f4	苴
+U+82f4	苴
+U+82f9	苹
+U+82fa	苺
+U+82fb	苻
+U+8302	茂
+U+8303	范
+U+8304	茄
+U+8305	茅
+U+8306	茆
+茉-Kaisho	U+8309	茉
+U+8309	茉
+U+830e	茎
+U+8316	茖
+U+8317	茗
+U+8318	茘
+U+831c	茜
+U+8323	茣
+茨-Hyougai	U+8328	茨
+U+8328	茨
+茫-Kaisho	U+832b	茫
+U+832b	茫
+U+832f	茯
+茱-Kaisho	U+8331	茱
+U+8331	茱
+U+8332	茲
+U+8334	茴
+U+8335	茵
+茶-Kaisho	U+8336	茶
+U+8336	茶
+茸-Kaisho	U+8338	茸
+茸-KaishoVt3	U+8338	茸
+U+8338	茸
+U+8339	茹
+荀-Kaisho	U+8340	荀
+U+8340	荀
+U+8345	荅
+草-Kaisho	U+8349	草
+U+8349	草
+U+834a	荊
+U+834f	荏
+U+8350	荐
+荒-Kaisho	U+8352	荒
+U+8352	荒
+U+8358	荘
+U+8373	荳
+U+8375	荵
+U+8377	荷
+U+837b	荻
+U+837c	荼
+莅-Kaisho	U+8385	莅
+U+8385	莅
+莇-Kaisho	U+8387	莇
+U+8387	莇
+莉-Kaisho	U+8389	莉
+U+8389	莉
+U+838a	莊
+U+838e	莎
+U+8393	莓
+U+8396	莖
+莚-HzFst	U+839a	莚
+U+839a	莚
+莞-Kaisho	U+839e	莞
+U+839e	莞
+U+839f	莟
+莠-Kaisho	U+83a0	莠
+U+83a0	莠
+U+83a2	莢
+莨-Kaisho	U+83a8	莨
+U+83a8	莨
+U+83aa	莪
+莫-Kaisho	U+83ab	莫
+U+83ab	莫
+莱-Jinmei	U+83b1	莱
+莱-Kaisho	U+83b1	莱
+U+83b1	莱
+U+83b5	莵
+U+83bd	莽
+U+83c1	菁
+菁-VtLst	U+83c1	菁
+菅-Kaisho	U+83c5	菅
+U+83c5	菅
+菊-Kaisho	U+83ca	菊
+U+83ca	菊
+菌-Kaisho	U+83cc	菌
+U+83cc	菌
+菎-Kaisho	U+83ce	菎
+U+83ce	菎
+菓-Kaisho	U+83d3	菓
+U+83d3	菓
+菖-Kaisho	U+83d6	菖
+U+83d6	菖
+菘-Kaisho	U+83d8	菘
+U+83d8	菘
+菜-Kaisho	U+83dc	菜
+U+83dc	菜
+U+83df	菟
+U+83e0	菠
+菩-Kaisho	U+83e9	菩
+U+83e9	菩
+U+83eb	菫
+菫-VtLst	U+83eb	菫
+U+83ef	華
+U+83f0	菰
+U+83f1	菱
+菲-MdFst	U+83f2	菲
+U+83f2	菲
+菴-Kaisho	U+83f4	菴
+U+83f4	菴
+U+83f7	菷
+菻-Kaisho	U+83fb	菻
+U+83fb	菻
+菽-HzFst	U+83fd	菽
+U+83fd	菽
+萃-Kaisho	U+8403	萃
+U+8403	萃
+U+8404	萄
+萇-HzFst	U+8407	萇
+U+8407	萇
+U+840b	萋
+萋-VtLst	U+840b	萋
+萌-Kaisho	U+840c	萌
+U+840c	萌
+U+840d	萍
+U+840e	萎
+萓-Kaisho	U+8413	萓
+U+8413	萓
+U+8420	萠
+U+8422	萢
+萩-Kaisho	U+8429	萩
+U+8429	萩
+萪-Kaisho	U+842a	萪
+U+842a	萪
+萬-Kaisho	U+842c	萬
+U+842c	萬
+萱-Kaisho	U+8431	萱
+U+8431	萱
+萵-HzFst	U+8435	萵
+U+8435	萵
+U+8438	萸
+U+843c	萼
+U+843d	落
+葆-Kaisho	U+8446	葆
+U+8446	葆
+葉-Kaisho	U+8449	葉
+U+8449	葉
+U+844e	葎
+著-Kaisho	U+8457	著
+U+8457	著
+葛-HyougaiKaisho	U+845b	葛
+葛-Hyougai	U+845b	葛
+葛-Kaisho	U+845b	葛
+U+845b	葛
+葡-Kaisho	U+8461	葡
+U+8461	葡
+U+8462	葢
+董-Kaisho	U+8463	董
+董-KaishoVtLst	U+8463	董
+U+8463	董
+U+8466	葦
+葩-Kaisho	U+8469	葩
+U+8469	葩
+葫-Kaisho	U+846b	葫
+U+846b	葫
+U+846c	葬
+U+846d	葭
+葭-VtFst	U+846d	葭
+U+846e	葮
+U+846f	葯
+U+8471	葱
+葵-Dg3	U+8475	葵
+葵-DgLst	U+8475	葵
+U+8475	葵
+葷-Kaisho	U+8477	葷
+U+8477	葷
+葹-Kaisho	U+8479	葹
+U+8479	葹
+葺-Kaisho	U+847a	葺
+葺-KaishoVt3	U+847a	葺
+U+847a	葺
+蒂-Kaisho	U+8482	蒂
+U+8482	蒂
+U+8484	蒄
+U+848b	蒋
+蒐-Kaisho	U+8490	蒐
+U+8490	蒐
+蒔-Kaisho	U+8494	蒔
+U+8494	蒔
+U+8499	蒙
+U+849c	蒜
+蒟-Kaisho	U+849f	蒟
+U+849f	蒟
+蒡-Kaisho	U+84a1	蒡
+U+84a1	蒡
+U+84ad	蒭
+蒲-Kaisho	U+84b2	蒲
+U+84b2	蒲
+U+84b8	蒸
+U+84b9	蒹
+U+84bb	蒻
+U+84bc	蒼
+蒿-Kaisho	U+84bf	蒿
+U+84bf	蒿
+蓁-Kaisho	U+84c1	蓁
+U+84c1	蓁
+蓄-Kaisho	U+84c4	蓄
+U+84c4	蓄
+蓆-Kaisho	U+84c6	蓆
+U+84c6	蓆
+蓉-Kaisho	U+84c9	蓉
+U+84c9	蓉
+U+84ca	蓊
+U+84cb	蓋
+蓍-Kaisho	U+84cd	蓍
+U+84cd	蓍
+U+84d0	蓐
+蓑-Kaisho	U+84d1	蓑
+U+84d1	蓑
+蓖-Kaisho	U+84d6	蓖
+U+84d6	蓖
+蓙-Kaisho	U+84d9	蓙
+蓙-KaishoVtLst	U+84d9	蓙
+U+84d9	蓙
+蓙-VtLst	U+84d9	蓙
+U+84da	蓚
+蓬-Hyougai	U+84ec	蓬
+U+84ec	蓬
+蓮-Kaisho	U+84ee	蓮
+U+84ee	蓮
+U+84f4	蓴
+U+84fc	蓼
+蓿-Kaisho	U+84ff	蓿
+U+84ff	蓿
+蔀-Kaisho	U+8500	蔀
+U+8500	蔀
+U+8506	蔆
+蔑-Hyougai	U+8511	蔑
+U+8511	蔑
+蔓-Kaisho	U+8513	蔓
+U+8513	蔓
+蔔-Kaisho	U+8514	蔔
+U+8514	蔔
+U+8515	蔕
+蔗-Kaisho	U+8517	蔗
+U+8517	蔗
+U+8518	蔘
+U+851a	蔚
+蔟-Kaisho	U+851f	蔟
+U+851f	蔟
+U+8521	蔡
+U+8523	蔣
+蔦-Kaisho	U+8526	蔦
+U+8526	蔦
+蔬-Kaisho	U+852c	蔬
+U+852c	蔬
+U+852d	蔭
+蔵-HzFst	U+8535	蔵
+蔵-HzFstTenFst	U+8535	蔵
+U+8535	蔵
+蔽-Hyougai	U+853d	蔽
+U+853d	蔽
+蕀-Kaisho	U+8540	蕀
+U+8540	蕀
+U+8541	蕁
+蕃-Kaisho	U+8543	蕃
+U+8543	蕃
+蕈-Kaisho	U+8548	蕈
+U+8548	蕈
+U+8549	蕉
+U+854a	蕊
+U+854b	蕋
+U+854e	蕎
+蕕-Kaisho	U+8555	蕕
+U+8555	蕕
+U+8557	蕗
+U+8558	蕘
+U+855a	蕚
+U+8563	蕣
+U+8568	蕨
+蕩-Kaisho	U+8569	蕩
+U+8569	蕩
+蕪-HzLst	U+856a	蕪
+U+856a	蕪
+蕭-Kaisho	U+856d	蕭
+蕭-KaishoVt6	U+856d	蕭
+U+856d	蕭
+蕷-Kaisho	U+8577	蕷
+U+8577	蕷
+蕾-Kaisho	U+857e	蕾
+U+857e	蕾
+U+8580	薀
+薄-Kaisho	U+8584	薄
+U+8584	薄
+U+8587	薇
+薈-Kaisho	U+8588	薈
+U+8588	薈
+薊-Kaisho	U+858a	薊
+U+858a	薊
+薐-Kaisho	U+8590	薐
+U+8590	薐
+薑-Kaisho	U+8591	薑
+U+8591	薑
+U+8594	薔
+U+8597	薗
+U+8599	薙
+薛-Kaisho	U+859b	薛
+U+859b	薛
+薜-Kaisho	U+859c	薜
+U+859c	薜
+U+85a4	薤
+薦-Kaisho	U+85a6	薦
+U+85a6	薦
+U+85a8	薨
+薩-HyougaiKaisho	U+85a9	薩
+薩-HyougaiKaishoVtLst	U+85a9	薩
+薩-Hyougai	U+85a9	薩
+薩-Kaisho	U+85a9	薩
+U+85a9	薩
+薪-Kaisho	U+85aa	薪
+U+85aa	薪
+薫-Kaisho	U+85ab	薫
+薫-KaishoVtLst	U+85ab	薫
+U+85ab	薫
+薬-Kaisho	U+85ac	薬
+U+85ac	薬
+U+85ae	薮
+薯-HyougaiKaisho	U+85af	薯
+薯-Hyougai	U+85af	薯
+U+85af	薯
+U+85b9	薹
+薹-VtFst	U+85b9	薹
+薺-Kaisho	U+85ba	薺
+U+85ba	薺
+藁-Kaisho	U+85c1	藁
+U+85c1	藁
+藉-Kaisho	U+85c9	藉
+U+85c9	藉
+藍-HzFst	U+85cd	藍
+U+85cd	藍
+藏-HzFst	U+85cf	藏
+藏-HzFstTenFst	U+85cf	藏
+U+85cf	藏
+藐-Kaisho	U+85d0	藐
+U+85d0	藐
+藕-Kaisho	U+85d5	藕
+U+85d5	藕
+藜-Kaisho	U+85dc	藜
+U+85dc	藜
+U+85dd	藝
+藤-Kaisho	U+85e4	藤
+U+85e4	藤
+藥-Kaisho	U+85e5	藥
+U+85e5	藥
+藩-Kaisho	U+85e9	藩
+U+85e9	藩
+U+85ea	藪
+藷-HyougaiKaisho	U+85f7	藷
+藷-Hyougai	U+85f7	藷
+U+85f7	藷
+藹-Kaisho	U+85f9	藹
+U+85f9	藹
+藺-Kaisho	U+85fa	藺
+U+85fa	藺
+藻-Kaisho	U+85fb	藻
+U+85fb	藻
+藾-Kaisho	U+85fe	藾
+U+85fe	藾
+蘂-Kaisho	U+8602	蘂
+U+8602	蘂
+蘆-KaishoHzFstLeRi	U+8606	蘆
+蘆-KaishoHzFstRiLe	U+8606	蘆
+蘆-Kaisho	U+8606	蘆
+蘆-KaishoVtFstRiLe	U+8606	蘆
+U+8606	蘆
+蘇-Kaisho	U+8607	蘇
+U+8607	蘇
+U+860a	蘊
+蘋-KaishoHzFst	U+860b	蘋
+蘋-Kaisho	U+860b	蘋
+U+860b	蘋
+蘓-Kaisho	U+8613	蘓
+U+8613	蘓
+蘖-Kaisho	U+8616	蘖
+U+8616	蘖
+蘗-Kaisho	U+8617	蘗
+U+8617	蘗
+蘚-Kaisho	U+861a	蘚
+U+861a	蘚
+蘢-Kaisho	U+8622	蘢
+U+8622	蘢
+蘭-Kaisho	U+862d	蘭
+U+862d	蘭
+蘯-Kaisho	U+862f	蘯
+U+862f	蘯
+U+8630	蘰
+U+863f	蘿
+虍-HzFstLeRi	U+864d	虍
+虍-HzFstRiLe	U+864d	虍
+U+864d	虍
+虍-VtFstRiLe	U+864d	虍
+虎-HzFstLeRi	U+864e	虎
+虎-HzFstRiLe	U+864e	虎
+U+864e	虎
+虎-VtFstRiLe	U+864e	虎
+虐-HzFstLeRi	U+8650	虐
+虐-HzFstRiLe	U+8650	虐
+U+8650	虐
+虐-VtFstRiLe	U+8650	虐
+虔-HyougaiKaishoHzFstLeRi	U+8654	虔
+虔-HyougaiKaishoHzFstRiLe	U+8654	虔
+虔-HyougaiKaisho	U+8654	虔
+虔-HyougaiKaishoVtFstRiLe	U+8654	虔
+虔-Hyougai	U+8654	虔
+U+8654	虔
+處-HzFstLeRi	U+8655	處
+處-HzFstRiLe	U+8655	處
+U+8655	處
+處-VtFstRiLe	U+8655	處
+虚-HzFstLeRi	U+865a	虚
+虚-HzFstRiLe	U+865a	虚
+U+865a	虚
+虚-VtFstRiLe	U+865a	虚
+虜-KaishoHzFstLeRi	U+865c	虜
+虜-KaishoHzFstRiLe	U+865c	虜
+虜-Kaisho	U+865c	虜
+虜-KaishoVtFstRiLe	U+865c	虜
+U+865c	虜
+虞-HzFstLeRi	U+865e	虞
+虞-HzFstRiLe	U+865e	虞
+U+865e	虞
+虞-VtFstRiLe	U+865e	虞
+號-HzFstLeRi	U+865f	號
+號-HzFstRiLe	U+865f	號
+U+865f	號
+號-VtFstRiLe	U+865f	號
+虧-HzFstLeRi	U+8667	虧
+虧-HzFstRiLe	U+8667	虧
+U+8667	虧
+虧-VtFstRiLe	U+8667	虧
+U+866b	虫
+U+8671	虱
+U+8679	虹
+虻-Kaisho	U+867b	虻
+U+867b	虻
+蚊-Kaisho	U+868a	蚊
+U+868a	蚊
+U+868b	蚋
+U+868c	蚌
+U+8693	蚓
+蚕-Kaisho	U+8695	蚕
+U+8695	蚕
+U+86a3	蚣
+U+86a4	蚤
+U+86a9	蚩
+U+86aa	蚪
+U+86ab	蚫
+U+86af	蚯
+蚰-Kaisho	U+86b0	蚰
+蚰-KaishoVtLst	U+86b0	蚰
+U+86b0	蚰
+蚶-Kaisho	U+86b6	蚶
+U+86b6	蚶
+U+86c4	蛄
+蛆-Kaisho	U+86c6	蛆
+U+86c6	蛆
+蛇-Kaisho	U+86c7	蛇
+U+86c7	蛇
+蛉-Insatsu	U+86c9	蛉
+U+86c9	蛉
+U+86cb	蛋
+U+86cd	蛍
+U+86ce	蛎
+U+86d4	蛔
+U+86d9	蛙
+蛛-Kaisho	U+86db	蛛
+U+86db	蛛
+U+86de	蛞
+蛟-Kaisho	U+86df	蛟
+U+86df	蛟
+U+86e4	蛤
+U+86e9	蛩
+U+86ec	蛬
+U+86ed	蛭
+蛮-Kaisho	U+86ee	蛮
+U+86ee	蛮
+U+86ef	蛯
+蛸-HyougaiKaisho	U+86f8	蛸
+蛸-Hyougai	U+86f8	蛸
+U+86f8	蛸
+蛹-Kaisho	U+86f9	蛹
+U+86f9	蛹
+U+86fb	蛻
+U+86fe	蛾
+U+8700	蜀
+U+8702	蜂
+蜃-Hyougai	U+8703	蜃
+U+8703	蜃
+蜆-Kaisho	U+8706	蜆
+U+8706	蜆
+U+8708	蜈
+U+8709	蜉
+蜊-Kaisho	U+870a	蜊
+U+870a	蜊
+U+870d	蜍
+蜑-HzFst	U+8711	蜑
+U+8711	蜑
+蜒-HzFst	U+8712	蜒
+U+8712	蜒
+U+8718	蜘
+蜚-MdFst	U+871a	蜚
+U+871a	蜚
+蜜-Kaisho	U+871c	蜜
+蜜-KaishoTen3	U+871c	蜜
+U+871c	蜜
+蜥-Kaisho	U+8725	蜥
+U+8725	蜥
+U+8729	蜩
+蜴-Kaisho	U+8734	蜴
+U+8734	蜴
+U+8737	蜷
+U+873b	蜻
+蜻-VtLst	U+873b	蜻
+蜿-Kaisho	U+873f	蜿
+U+873f	蜿
+蝉-Kaisho	U+8749	蝉
+U+8749	蝉
+蝋-Kaisho	U+874b	蝋
+U+874b	蝋
+蝌-Kaisho	U+874c	蝌
+U+874c	蝌
+蝎-Kaisho	U+874e	蝎
+U+874e	蝎
+U+8753	蝓
+蝕-HyougaiKaisho	U+8755	蝕
+蝕-Hyougai	U+8755	蝕
+蝕-Kaisho	U+8755	蝕
+U+8755	蝕
+蝗-Kaisho	U+8757	蝗
+蝗-KaishoVtLst	U+8757	蝗
+U+8757	蝗
+蝙-Kaisho	U+8759	蝙
+U+8759	蝙
+蝟-Kaisho	U+875f	蝟
+U+875f	蝟
+蝠-Kaisho	U+8760	蝠
+U+8760	蝠
+蝣-Kaisho	U+8763	蝣
+U+8763	蝣
+U+8766	蝦
+U+8768	蝨
+蝪-Kaisho	U+876a	蝪
+U+876a	蝪
+蝮-Kaisho	U+876e	蝮
+U+876e	蝮
+蝴-Kaisho	U+8774	蝴
+U+8774	蝴
+蝶-Kaisho	U+8776	蝶
+U+8776	蝶
+蝸-HzFst	U+8778	蝸
+U+8778	蝸
+蝿-Kaisho	U+877f	蝿
+U+877f	蝿
+螂-Kaisho	U+8782	螂
+U+8782	螂
+U+878d	融
+螟-Kaisho	U+879f	螟
+U+879f	螟
+U+87a2	螢
+U+87ab	螫
+螯-Kaisho	U+87af	螯
+U+87af	螯
+U+87b3	螳
+螺-Kaisho	U+87ba	螺
+U+87ba	螺
+U+87bb	螻
+U+87bd	螽
+蟀-Kaisho	U+87c0	蟀
+U+87c0	蟀
+U+87c4	蟄
+蟆-Kaisho	U+87c6	蟆
+U+87c6	蟆
+蟇-Kaisho	U+87c7	蟇
+U+87c7	蟇
+U+87cb	蟋
+U+87d0	蟐
+U+87d2	蟒
+蟠-Kaisho	U+87e0	蟠
+U+87e0	蟠
+U+87ef	蟯
+U+87f2	蟲
+蟶-Kaisho	U+87f6	蟶
+蟶-KaishoVt3	U+87f6	蟶
+U+87f6	蟶
+蟷-Kaisho	U+87f7	蟷
+U+87f7	蟷
+蟹-Kaisho	U+87f9	蟹
+U+87f9	蟹
+U+87fb	蟻
+U+87fe	蟾
+蠅-Hyougai	U+8805	蠅
+U+8805	蠅
+蠍-Kaisho	U+880d	蠍
+U+880d	蠍
+U+880e	蠎
+蠏-Kaisho	U+880f	蠏
+U+880f	蠏
+蠑-Kaisho	U+8811	蠑
+U+8811	蠑
+U+8815	蠕
+U+8816	蠖
+U+8821	蠡
+蠢-Kaisho	U+8822	蠢
+U+8822	蠢
+蠣-Kaisho	U+8823	蠣
+U+8823	蠣
+U+8827	蠧
+U+8831	蠱
+蠶-Hyougai	U+8836	蠶
+U+8836	蠶
+U+8839	蠹
+U+883b	蠻
+U+8840	血
+U+8842	衂
+U+8844	衄
+U+8846	衆
+U+884c	行
+U+884d	衍
+衒-Kaisho	U+8852	衒
+U+8852	衒
+術-Kaisho	U+8853	術
+U+8853	術
+U+8857	街
+U+8859	衙
+U+885b	衛
+衝-Kaisho	U+885d	衝
+衝-KaishoVtLst	U+885d	衝
+U+885d	衝
+U+885e	衞
+衡-Kaisho	U+8861	衡
+U+8861	衡
+衢-Kaisho	U+8862	衢
+U+8862	衢
+衣-Kaisho	U+8863	衣
+U+8863	衣
+U+8864	衤
+表-HzLst	U+8868	表
+U+8868	表
+U+886b	衫
+衰-Kaisho	U+8870	衰
+U+8870	衰
+U+8872	衲
+衵-Kaisho	U+8875	衵
+U+8875	衵
+衷-Hyougai	U+8877	衷
+U+8877	衷
+U+887d	衽
+衾-Kaisho	U+887e	衾
+U+887e	衾
+U+887f	衿
+U+8881	袁
+U+8882	袂
+袈-Kaisho	U+8888	袈
+U+8888	袈
+袋-Kaisho	U+888b	袋
+U+888b	袋
+U+888d	袍
+袒-Kaisho	U+8892	袒
+U+8892	袒
+袖-Kaisho	U+8896	袖
+袖-KaishoVtLst	U+8896	袖
+U+8896	袖
+U+8897	袗
+袙-Kaisho	U+8899	袙
+U+8899	袙
+袞-Kaisho	U+889e	袞
+U+889e	袞
+U+88a2	袢
+袤-Kaisho	U+88a4	袤
+U+88a4	袤
+U+88ab	被
+U+88ae	袮
+袰-Kaisho	U+88b0	袰
+U+88b0	袰
+U+88b1	袱
+U+88b4	袴
+U+88b5	袵
+U+88b7	袷
+U+88bf	袿
+裁-Kaisho	U+88c1	裁
+U+88c1	裁
+裂-Kaisho	U+88c2	裂
+U+88c2	裂
+裃-HzFst	U+88c3	裃
+U+88c3	裃
+U+88c4	裄
+装-Kaisho	U+88c5	装
+U+88c5	装
+裏-Kaisho	U+88cf	裏
+裏-KaishoVtLst	U+88cf	裏
+U+88cf	裏
+裔-Kaisho	U+88d4	裔
+U+88d4	裔
+U+88d5	裕
+裘-Kaisho	U+88d8	裘
+U+88d8	裘
+U+88d9	裙
+補-Kaisho	U+88dc	補
+U+88dc	補
+裝-Kaisho	U+88dd	裝
+U+88dd	裝
+裟-Kaisho	U+88df	裟
+U+88df	裟
+裡-Kaisho	U+88e1	裡
+裡-KaishoVtLst	U+88e1	裡
+U+88e1	裡
+裨-Kaisho	U+88e8	裨
+U+88e8	裨
+U+88f2	裲
+裳-Kaisho	U+88f3	裳
+U+88f3	裳
+裴-KaishoMdFst	U+88f4	裴
+裴-Kaisho	U+88f4	裴
+U+88f4	裴
+裸-Kaisho	U+88f8	裸
+U+88f8	裸
+裹-Kaisho	U+88f9	裹
+U+88f9	裹
+裼-Kaisho	U+88fc	裼
+U+88fc	裼
+製-Kaisho	U+88fd	製
+U+88fd	製
+U+88fe	裾
+U+8902	褂
+U+8904	褄
+褄-VtLst	U+8904	褄
+複-Kaisho	U+8907	複
+U+8907	複
+褊-Kaisho	U+890a	褊
+U+890a	褊
+褌-Kaisho	U+890c	褌
+U+890c	褌
+褐-Kaisho	U+8910	褐
+U+8910	褐
+褒-Kaisho	U+8912	褒
+U+8912	褒
+褓-Kaisho	U+8913	褓
+U+8913	褓
+褝-Kaisho	U+891d	褝
+U+891d	褝
+U+891e	褞
+U+8925	褥
+褪-Kaisho	U+892a	褪
+U+892a	褪
+褫-HzFstLeRi	U+892b	褫
+褫-HzFstRiLe	U+892b	褫
+U+892b	褫
+褫-VtFstRiLe	U+892b	褫
+褶-Kaisho	U+8936	褶
+U+8936	褶
+U+8938	褸
+褻-Kaisho	U+893b	褻
+U+893b	褻
+U+8941	襁
+襃-Kaisho	U+8943	襃
+U+8943	襃
+襄-Kaisho	U+8944	襄
+U+8944	襄
+襌-Kaisho	U+894c	襌
+U+894c	襌
+襍-Kaisho	U+894d	襍
+U+894d	襍
+襖-Hyougai	U+8956	襖
+U+8956	襖
+襞-Kaisho	U+895e	襞
+U+895e	襞
+U+895f	襟
+襠-Kaisho	U+8960	襠
+U+8960	襠
+襤-HzFst	U+8964	襤
+U+8964	襤
+U+8966	襦
+U+896a	襪
+襭-Kaisho	U+896d	襭
+U+896d	襭
+襯-Kaisho	U+896f	襯
+U+896f	襯
+襲-Kaisho	U+8972	襲
+U+8972	襲
+襴-Kaisho	U+8974	襴
+U+8974	襴
+襷-LeFst	U+8977	襷
+U+8977	襷
+U+897e	襾
+U+897f	西
+U+8981	要
+覃-Kaisho	U+8983	覃
+U+8983	覃
+覆-Kaisho	U+8986	覆
+U+8986	覆
+覇-Kaisho	U+8987	覇
+U+8987	覇
+覈-Kaisho	U+8988	覈
+U+8988	覈
+U+898a	覊
+覊-Vt6	U+898a	覊
+見-Kaisho	U+898b	見
+U+898b	見
+規-Kaisho	U+898f	規
+U+898f	規
+覓-Kaisho	U+8993	覓
+U+8993	覓
+視-Kaisho	U+8996	視
+U+8996	視
+覗-Kaisho	U+8997	覗
+U+8997	覗
+覘-KaishoHzFst	U+8998	覘
+覘-Kaisho	U+8998	覘
+U+8998	覘
+覚-Kaisho	U+899a	覚
+U+899a	覚
+覡-Kaisho	U+89a1	覡
+U+89a1	覡
+覦-Kaisho	U+89a6	覦
+U+89a6	覦
+覧-KaishoHzFst	U+89a7	覧
+覧-Kaisho	U+89a7	覧
+U+89a7	覧
+覩-Kaisho	U+89a9	覩
+U+89a9	覩
+親-Kaisho	U+89aa	親
+U+89aa	親
+覬-Kaisho	U+89ac	覬
+U+89ac	覬
+覯-Kaisho	U+89af	覯
+U+89af	覯
+覲-Kaisho	U+89b2	覲
+U+89b2	覲
+観-Kaisho	U+89b3	観
+U+89b3	観
+覺-Kaisho	U+89ba	覺
+U+89ba	覺
+覽-KaishoHzFst	U+89bd	覽
+覽-Kaisho	U+89bd	覽
+U+89bd	覽
+覿-Kaisho	U+89bf	覿
+U+89bf	覿
+觀-Kaisho	U+89c0	觀
+U+89c0	觀
+角-Kaisho	U+89d2	角
+U+89d2	角
+觚-Kaisho	U+89da	觚
+U+89da	觚
+U+89dc	觜
+觝-Kaisho	U+89dd	觝
+U+89dd	觝
+解-Kaisho	U+89e3	解
+U+89e3	解
+触-Kaisho	U+89e6	触
+U+89e6	触
+觧-Kaisho	U+89e7	觧
+U+89e7	觧
+觴-Kaisho	U+89f4	觴
+U+89f4	觴
+觸-Kaisho	U+89f8	觸
+U+89f8	觸
+U+8a00	言
+U+8a02	訂
+U+8a03	訃
+U+8a08	計
+訊-Hyougai	U+8a0a	訊
+U+8a0a	訊
+U+8a0c	訌
+U+8a0e	討
+U+8a10	訐
+U+8a13	訓
+U+8a16	訖
+U+8a17	託
+U+8a18	記
+U+8a1b	訛
+訝-Hyougai	U+8a1d	訝
+U+8a1d	訝
+U+8a1f	訟
+U+8a23	訣
+U+8a25	訥
+訪-Kaisho	U+8a2a	訪
+U+8a2a	訪
+U+8a2d	設
+U+8a31	許
+U+8a33	訳
+U+8a34	訴
+U+8a36	訶
+U+8a3a	診
+註-Hyougai	U+8a3b	註
+註-HyougaiVtLst	U+8a3b	註
+U+8a3b	註
+証-HzFst	U+8a3c	証
+U+8a3c	証
+U+8a41	詁
+U+8a46	詆
+U+8a48	詈
+U+8a50	詐
+詑-Kaisho	U+8a51	詑
+U+8a51	詑
+U+8a52	詒
+U+8a54	詔
+U+8a55	評
+詛-Kaisho	U+8a5b	詛
+U+8a5b	詛
+U+8a5e	詞
+U+8a60	詠
+詢-Kaisho	U+8a62	詢
+U+8a62	詢
+詣-Kaisho	U+8a63	詣
+U+8a63	詣
+U+8a66	試
+U+8a69	詩
+詫-Kaisho	U+8a6b	詫
+U+8a6b	詫
+U+8a6c	詬
+U+8a6d	詭
+詮-Hyougai	U+8a6e	詮
+詮-HyougaiVtLst	U+8a6e	詮
+U+8a6e	詮
+U+8a70	詰
+U+8a71	話
+該-Kaisho	U+8a72	該
+U+8a72	該
+U+8a73	詳
+U+8a7c	詼
+誂-MidFst	U+8a82	誂
+U+8a82	誂
+誄-Kaisho	U+8a84	誄
+U+8a84	誄
+誅-Kaisho	U+8a85	誅
+U+8a85	誅
+U+8a87	誇
+U+8a89	誉
+U+8a8c	誌
+U+8a8d	認
+U+8a91	誑
+誑-VtLst	U+8a91	誑
+U+8a93	誓
+誕-HzFst	U+8a95	誕
+U+8a95	誕
+誘-Kaisho	U+8a98	誘
+U+8a98	誘
+誚-Kaisho	U+8a9a	誚
+U+8a9a	誚
+U+8a9e	語
+U+8aa0	誠
+U+8aa1	誡
+U+8aa3	誣
+U+8aa4	誤
+U+8aa5	誥
+誦-Kaisho	U+8aa6	誦
+U+8aa6	誦
+U+8aa8	誨
+U+8aac	説
+U+8aad	読
+U+8ab0	誰
+課-Kaisho	U+8ab2	課
+U+8ab2	課
+誹-HyougaiMdFst	U+8ab9	誹
+誹-Hyougai	U+8ab9	誹
+誹-Jinmei	U+8ab9	誹
+U+8ab9	誹
+誼-Kaisho	U+8abc	誼
+U+8abc	誼
+U+8abf	調
+諂-HzFst	U+8ac2	諂
+U+8ac2	諂
+諄-Kaisho	U+8ac4	諄
+U+8ac4	諄
+U+8ac7	談
+請-Kaisho	U+8acb	請
+請-KaishoVtLst	U+8acb	請
+U+8acb	請
+諌-Kaisho	U+8acc	諌
+U+8acc	諌
+U+8acd	諍
+諏-Kaisho	U+8acf	諏
+諏-KaishoVt3	U+8acf	諏
+U+8acf	諏
+諒-Kaisho	U+8ad2	諒
+U+8ad2	諒
+論-Kaisho	U+8ad6	論
+U+8ad6	論
+諚-Kaisho	U+8ada	諚
+U+8ada	諚
+U+8adb	諛
+諜-Kaisho	U+8adc	諜
+U+8adc	諜
+諞-Kaisho	U+8ade	諞
+U+8ade	諞
+諠-Kaisho	U+8ae0	諠
+U+8ae0	諠
+U+8ae1	諡
+諢-Kaisho	U+8ae2	諢
+U+8ae2	諢
+U+8ae4	諤
+諦-Kaisho	U+8ae6	諦
+U+8ae6	諦
+諧-Kaisho	U+8ae7	諧
+U+8ae7	諧
+諫-Kaisho	U+8aeb	諫
+U+8aeb	諫
+諭-Kaisho	U+8aed	諭
+U+8aed	諭
+U+8aee	諮
+U+8af1	諱
+諳-Kaisho	U+8af3	諳
+U+8af3	諳
+U+8af7	諷
+諸-Kaisho	U+8af8	諸
+U+8af8	諸
+諺-HyougaiKaisho	U+8afa	諺
+諺-Hyougai	U+8afa	諺
+諺-Kaisho	U+8afa	諺
+U+8afa	諺
+U+8afe	諾
+謀-Kaisho	U+8b00	謀
+U+8b00	謀
+謁-Kaisho	U+8b01	謁
+U+8b01	謁
+謂-Kaisho	U+8b02	謂
+U+8b02	謂
+謄-Kaisho	U+8b04	謄
+U+8b04	謄
+謇-Kaisho	U+8b07	謇
+U+8b07	謇
+U+8b0c	謌
+謎-HyougaiKaisho	U+8b0e	謎
+謎-Hyougai	U+8b0e	謎
+謎-Kaisho	U+8b0e	謎
+U+8b0e	謎
+U+8b10	謐
+謐-Ten3	U+8b10	謐
+謔-HzFstLeRi	U+8b14	謔
+謔-HzFstRiLe	U+8b14	謔
+U+8b14	謔
+謔-VtFstRiLe	U+8b14	謔
+謖-Kaisho	U+8b16	謖
+U+8b16	謖
+謗-Kaisho	U+8b17	謗
+U+8b17	謗
+U+8b19	謙
+U+8b1a	謚
+講-Kaisho	U+8b1b	講
+U+8b1b	講
+謝-Kaisho	U+8b1d	謝
+U+8b1d	謝
+U+8b20	謠
+U+8b21	謡
+U+8b26	謦
+謨-Kaisho	U+8b28	謨
+U+8b28	謨
+謫-Kaisho	U+8b2b	謫
+U+8b2b	謫
+謬-Hyougai	U+8b2c	謬
+U+8b2c	謬
+U+8b33	謳
+U+8b39	謹
+謹-VtLst	U+8b39	謹
+謾-Kaisho	U+8b3e	謾
+U+8b3e	謾
+U+8b41	譁
+證-Dg3	U+8b49	證
+證-DgLst	U+8b49	證
+U+8b49	證
+U+8b4c	譌
+U+8b4e	譎
+U+8b4f	譏
+譖-Kaisho	U+8b56	譖
+U+8b56	譖
+識-Kaisho	U+8b58	識
+U+8b58	識
+譚-Kaisho	U+8b5a	譚
+U+8b5a	譚
+譛-Kaisho	U+8b5b	譛
+U+8b5b	譛
+譜-Kaisho	U+8b5c	譜
+U+8b5c	譜
+譟-Kaisho	U+8b5f	譟
+U+8b5f	譟
+U+8b66	警
+U+8b6b	譫
+譬-Kaisho	U+8b6c	譬
+U+8b6c	譬
+U+8b6f	譯
+U+8b70	議
+U+8b71	譱
+譲-Kaisho	U+8b72	譲
+譲-KaishoVtLst	U+8b72	譲
+U+8b72	譲
+U+8b74	譴
+U+8b77	護
+譽-LeFst	U+8b7d	譽
+U+8b7d	譽
+讀-Kaisho	U+8b80	讀
+U+8b80	讀
+讃-Kaisho	U+8b83	讃
+U+8b83	讃
+U+8b8a	變
+U+8b8c	讌
+U+8b8e	讎
+U+8b90	讐
+讒-Kaisho	U+8b92	讒
+U+8b92	讒
+讓-Kaisho	U+8b93	讓
+讓-KaishoVtLst	U+8b93	讓
+U+8b93	讓
+U+8b96	讖
+U+8b99	讙
+讚-Kaisho	U+8b9a	讚
+U+8b9a	讚
+U+8c37	谷
+U+8c3a	谺
+U+8c3f	谿
+豁-Kaisho	U+8c41	豁
+U+8c41	豁
+U+8c46	豆
+U+8c48	豈
+豊-Kaisho	U+8c4a	豊
+豊-KaishoVtLst	U+8c4a	豊
+U+8c4a	豊
+豌-Kaisho	U+8c4c	豌
+U+8c4c	豌
+豎-HzFst	U+8c4e	豎
+U+8c4e	豎
+U+8c50	豐
+U+8c55	豕
+豚-Kaisho	U+8c5a	豚
+U+8c5a	豚
+U+8c61	象
+U+8c62	豢
+豪-Kaisho	U+8c6a	豪
+U+8c6a	豪
+U+8c6b	豫
+豬-Kaisho	U+8c6c	豬
+U+8c6c	豬
+U+8c78	豸
+豹-Hyougai	U+8c79	豹
+U+8c79	豹
+U+8c7a	豺
+豼-Kaisho	U+8c7c	豼
+U+8c7c	豼
+U+8c82	貂
+貅-Kaisho	U+8c85	貅
+U+8c85	貅
+U+8c89	貉
+貊-Kaisho	U+8c8a	貊
+U+8c8a	貊
+貌-Kaisho	U+8c8c	貌
+U+8c8c	貌
+貍-Kaisho	U+8c8d	貍
+貍-KaishoVtLst	U+8c8d	貍
+U+8c8d	貍
+貎-HzFst	U+8c8e	貎
+U+8c8e	貎
+貔-Kaisho	U+8c94	貔
+U+8c94	貔
+貘-Kaisho	U+8c98	貘
+U+8c98	貘
+貝-Kaisho	U+8c9d	貝
+U+8c9d	貝
+貞-KaishoHzFst	U+8c9e	貞
+貞-Kaisho	U+8c9e	貞
+U+8c9e	貞
+負-Kaisho	U+8ca0	負
+U+8ca0	負
+財-Kaisho	U+8ca1	財
+U+8ca1	財
+貢-Kaisho	U+8ca2	貢
+U+8ca2	貢
+貧-Kaisho	U+8ca7	貧
+U+8ca7	貧
+U+8ca8	貨
+販-Kaisho	U+8ca9	販
+U+8ca9	販
+貪-Kaisho	U+8caa	貪
+U+8caa	貪
+貫-Kaisho	U+8cab	貫
+U+8cab	貫
+責-Kaisho	U+8cac	責
+責-KaishoVtLst	U+8cac	責
+U+8cac	責
+貭-Kaisho	U+8cad	貭
+U+8cad	貭
+貮-Kaisho	U+8cae	貮
+U+8cae	貮
+貯-Kaisho	U+8caf	貯
+U+8caf	貯
+貰-Kaisho	U+8cb0	貰
+U+8cb0	貰
+U+8cb2	貲
+貳-Kaisho	U+8cb3	貳
+U+8cb3	貳
+貴-Kaisho	U+8cb4	貴
+U+8cb4	貴
+貶-Kaisho	U+8cb6	貶
+U+8cb6	貶
+U+8cb7	買
+貸-Kaisho	U+8cb8	貸
+U+8cb8	貸
+費-Kaisho	U+8cbb	費
+U+8cbb	費
+貼-KaishoHzFst	U+8cbc	貼
+貼-Kaisho	U+8cbc	貼
+U+8cbc	貼
+貽-Kaisho	U+8cbd	貽
+U+8cbd	貽
+貿-Kaisho	U+8cbf	貿
+U+8cbf	貿
+賀-Kaisho	U+8cc0	賀
+U+8cc0	賀
+賁-Kaisho	U+8cc1	賁
+U+8cc1	賁
+賂-Kaisho	U+8cc2	賂
+U+8cc2	賂
+賃-Kaisho	U+8cc3	賃
+U+8cc3	賃
+賄-Kaisho	U+8cc4	賄
+U+8cc4	賄
+資-Kaisho	U+8cc7	資
+U+8cc7	資
+賈-Kaisho	U+8cc8	賈
+U+8cc8	賈
+賊-Kaisho	U+8cca	賊
+U+8cca	賊
+賍-Kaisho	U+8ccd	賍
+U+8ccd	賍
+賎-Kaisho	U+8cce	賎
+U+8cce	賎
+賑-Kaisho	U+8cd1	賑
+U+8cd1	賑
+賓-Kaisho	U+8cd3	賓
+U+8cd3	賓
+賚-Kaisho	U+8cda	賚
+U+8cda	賚
+賛-Kaisho	U+8cdb	賛
+U+8cdb	賛
+賜-Kaisho	U+8cdc	賜
+U+8cdc	賜
+賞-Kaisho	U+8cde	賞
+U+8cde	賞
+賠-Kaisho	U+8ce0	賠
+U+8ce0	賠
+賢-KaishoHzFst	U+8ce2	賢
+賢-Kaisho	U+8ce2	賢
+U+8ce2	賢
+賣-Kaisho	U+8ce3	賣
+U+8ce3	賣
+賤-Kaisho	U+8ce4	賤
+U+8ce4	賤
+賦-KaishoHzFst	U+8ce6	賦
+賦-Kaisho	U+8ce6	賦
+U+8ce6	賦
+質-Kaisho	U+8cea	質
+U+8cea	質
+賭-HyougaiKaisho	U+8ced	賭
+賭-Hyougai	U+8ced	賭
+賭-Kaisho	U+8ced	賭
+U+8ced	賭
+賺-Kaisho	U+8cfa	賺
+U+8cfa	賺
+賻-Kaisho	U+8cfb	賻
+U+8cfb	賻
+購-Kaisho	U+8cfc	購
+U+8cfc	購
+賽-Kaisho	U+8cfd	賽
+U+8cfd	賽
+贄-Kaisho	U+8d04	贄
+U+8d04	贄
+贅-Kaisho	U+8d05	贅
+U+8d05	贅
+贇-KaishoHzFst	U+8d07	贇
+贇-Kaisho	U+8d07	贇
+U+8d07	贇
+贈-Kaisho	U+8d08	贈
+U+8d08	贈
+贊-Kaisho	U+8d0a	贊
+U+8d0a	贊
+贋-Kaisho	U+8d0b	贋
+U+8d0b	贋
+贍-Kaisho	U+8d0d	贍
+U+8d0d	贍
+贏-Kaisho	U+8d0f	贏
+贏-LeFst	U+8d0f	贏
+U+8d0f	贏
+贐-Kaisho	U+8d10	贐
+贐-KaishoVtLst	U+8d10	贐
+U+8d10	贐
+贓-KaishoHzFst	U+8d13	贓
+贓-KaishoHzFstTenFst	U+8d13	贓
+贓-Kaisho	U+8d13	贓
+U+8d13	贓
+贔-Kaisho	U+8d14	贔
+U+8d14	贔
+贖-Kaisho	U+8d16	贖
+U+8d16	贖
+U+8d64	赤
+U+8d66	赦
+U+8d67	赧
+U+8d6b	赫
+赭-Kaisho	U+8d6d	赭
+U+8d6d	赭
+U+8d70	走
+U+8d71	赱
+U+8d73	赳
+U+8d74	赴
+起-Kaisho	U+8d77	起
+U+8d77	起
+U+8d81	趁
+U+8d85	超
+U+8d8a	越
+趙-Kaisho	U+8d99	趙
+U+8d99	趙
+趣-Kaisho	U+8da3	趣
+趣-KaishoVt3	U+8da3	趣
+U+8da3	趣
+U+8da8	趨
+U+8db3	足
+U+8dba	趺
+趾-HzFst	U+8dbe	趾
+U+8dbe	趾
+U+8dc2	跂
+U+8dcb	跋
+U+8dcc	跌
+U+8dcf	跏
+U+8dd6	跖
+U+8dda	跚
+U+8ddb	跛
+距-HzFst	U+8ddd	距
+U+8ddd	距
+跟-Kaisho	U+8ddf	跟
+U+8ddf	跟
+跡-Kaisho	U+8de1	跡
+U+8de1	跡
+U+8de3	跣
+U+8de8	跨
+U+8dea	跪
+U+8deb	跫
+U+8def	路
+跳-MidFst	U+8df3	跳
+U+8df3	跳
+U+8df5	践
+U+8dfc	跼
+U+8dff	跿
+踈-Kaisho	U+8e08	踈
+U+8e08	踈
+踉-Kaisho	U+8e09	踉
+U+8e09	踉
+踊-Kaisho	U+8e0a	踊
+U+8e0a	踊
+踏-Kaisho	U+8e0f	踏
+U+8e0f	踏
+U+8e10	踐
+踝-Kaisho	U+8e1d	踝
+U+8e1d	踝
+U+8e1e	踞
+U+8e1f	踟
+踪-Kaisho	U+8e2a	踪
+U+8e2a	踪
+U+8e30	踰
+踴-Kaisho	U+8e34	踴
+U+8e34	踴
+踵-Kaisho	U+8e35	踵
+踵-KaishoVtLst	U+8e35	踵
+U+8e35	踵
+蹂-Kaisho	U+8e42	蹂
+U+8e42	蹂
+蹄-Kaisho	U+8e44	蹄
+U+8e44	蹄
+蹇-Kaisho	U+8e47	蹇
+U+8e47	蹇
+蹈-HzFst	U+8e48	蹈
+U+8e48	蹈
+U+8e49	蹉
+蹉-VtLst	U+8e49	蹉
+U+8e4a	蹊
+U+8e4c	蹌
+蹐-Kaisho	U+8e50	蹐
+U+8e50	蹐
+蹕-Kaisho	U+8e55	蹕
+U+8e55	蹕
+蹙-HzFst	U+8e59	蹙
+蹙-HzFstTenFst	U+8e59	蹙
+U+8e59	蹙
+蹟-Kaisho	U+8e5f	蹟
+蹟-KaishoVtLst	U+8e5f	蹟
+U+8e5f	蹟
+蹠-Kaisho	U+8e60	蹠
+U+8e60	蹠
+U+8e63	蹣
+U+8e64	蹤
+蹲-Kaisho	U+8e72	蹲
+U+8e72	蹲
+蹴-Kaisho	U+8e74	蹴
+U+8e74	蹴
+U+8e76	蹶
+U+8e7c	蹼
+躁-Kaisho	U+8e81	躁
+U+8e81	躁
+躄-Kaisho	U+8e84	躄
+U+8e84	躄
+U+8e85	躅
+躇-Kaisho	U+8e87	躇
+U+8e87	躇
+U+8e8a	躊
+躋-Kaisho	U+8e8b	躋
+U+8e8b	躋
+U+8e8d	躍
+躑-Kaisho	U+8e91	躑
+U+8e91	躑
+躓-Kaisho	U+8e93	躓
+U+8e93	躓
+躔-Kaisho	U+8e94	躔
+躔-KaishoVtLst	U+8e94	躔
+U+8e94	躔
+躙-Kaisho	U+8e99	躙
+U+8e99	躙
+躡-Kaisho	U+8ea1	躡
+躡-KaishoVt3	U+8ea1	躡
+U+8ea1	躡
+躪-Kaisho	U+8eaa	躪
+U+8eaa	躪
+身-Kaisho	U+8eab	身
+U+8eab	身
+躬-Kaisho	U+8eac	躬
+U+8eac	躬
+躯-Kaisho	U+8eaf	躯
+U+8eaf	躯
+躰-Kaisho	U+8eb0	躰
+U+8eb0	躰
+躱-Kaisho	U+8eb1	躱
+U+8eb1	躱
+躾-Kaisho	U+8ebe	躾
+躾-KaishoVtLst	U+8ebe	躾
+U+8ebe	躾
+軅-Kaisho	U+8ec5	軅
+U+8ec5	軅
+軆-Kaisho	U+8ec6	軆
+軆-KaishoVtLst	U+8ec6	軆
+U+8ec6	軆
+軈-Kaisho	U+8ec8	軈
+U+8ec8	軈
+車-Kaisho	U+8eca	車
+U+8eca	車
+軋-Kaisho	U+8ecb	軋
+U+8ecb	軋
+軌-Kaisho	U+8ecc	軌
+U+8ecc	軌
+軍-Kaisho	U+8ecd	軍
+U+8ecd	軍
+軒-Kaisho	U+8ed2	軒
+U+8ed2	軒
+軛-Kaisho	U+8edb	軛
+U+8edb	軛
+軟-Kaisho	U+8edf	軟
+U+8edf	軟
+転-Kaisho	U+8ee2	転
+U+8ee2	転
+軣-Kaisho	U+8ee3	軣
+U+8ee3	軣
+軫-Kaisho	U+8eeb	軫
+U+8eeb	軫
+軸-Kaisho	U+8ef8	軸
+軸-KaishoVtLst	U+8ef8	軸
+U+8ef8	軸
+軻-Kaisho	U+8efb	軻
+U+8efb	軻
+軼-Kaisho	U+8efc	軼
+U+8efc	軼
+軽-Kaisho	U+8efd	軽
+U+8efd	軽
+軾-Kaisho	U+8efe	軾
+U+8efe	軾
+較-Kaisho	U+8f03	較
+U+8f03	較
+輅-Kaisho	U+8f05	輅
+U+8f05	輅
+載-Kaisho	U+8f09	載
+U+8f09	載
+輊-Kaisho	U+8f0a	輊
+輊-KaishoVtFst	U+8f0a	輊
+U+8f0a	輊
+輌-Kaisho	U+8f0c	輌
+U+8f0c	輌
+輒-Kaisho	U+8f12	輒
+輒-KaishoVt3	U+8f12	輒
+U+8f12	輒
+輓-Kaisho	U+8f13	輓
+U+8f13	輓
+輔-Kaisho	U+8f14	輔
+U+8f14	輔
+輕-Kaisho	U+8f15	輕
+U+8f15	輕
+輙-Kaisho	U+8f19	輙
+輙-KaishoVt3	U+8f19	輙
+U+8f19	輙
+輛-Kaisho	U+8f1b	輛
+U+8f1b	輛
+輜-Kaisho	U+8f1c	輜
+U+8f1c	輜
+輝-Kaisho	U+8f1d	輝
+U+8f1d	輝
+輟-Kaisho	U+8f1f	輟
+U+8f1f	輟
+輦-Kaisho	U+8f26	輦
+U+8f26	輦
+輩-KaishoMdFst	U+8f29	輩
+輩-Kaisho	U+8f29	輩
+U+8f29	輩
+輪-Kaisho	U+8f2a	輪
+U+8f2a	輪
+輯-Kaisho	U+8f2f	輯
+輯-KaishoVt3	U+8f2f	輯
+U+8f2f	輯
+輳-Kaisho	U+8f33	輳
+U+8f33	輳
+輸-Kaisho	U+8f38	輸
+U+8f38	輸
+輹-Kaisho	U+8f39	輹
+U+8f39	輹
+輻-Kaisho	U+8f3b	輻
+U+8f3b	輻
+輾-Kaisho	U+8f3e	輾
+U+8f3e	輾
+輿-Kaisho	U+8f3f	輿
+U+8f3f	輿
+轂-Kaisho	U+8f42	轂
+U+8f42	轂
+轄-Kaisho	U+8f44	轄
+轄-KaishoVtLst	U+8f44	轄
+U+8f44	轄
+轅-Kaisho	U+8f45	轅
+U+8f45	轅
+轆-Kaisho	U+8f46	轆
+U+8f46	轆
+轉-Kaisho	U+8f49	轉
+U+8f49	轉
+轌-Kaisho	U+8f4c	轌
+U+8f4c	轌
+轍-Kaisho	U+8f4d	轍
+U+8f4d	轍
+轎-Kaisho	U+8f4e	轎
+U+8f4e	轎
+轗-Kaisho	U+8f57	轗
+U+8f57	轗
+轜-Kaisho	U+8f5c	轜
+U+8f5c	轜
+轟-Kaisho	U+8f5f	轟
+U+8f5f	轟
+U+8f61	轡
+轢-Kaisho	U+8f62	轢
+U+8f62	轢
+轣-KaishoHzFst	U+8f63	轣
+轣-Kaisho	U+8f63	轣
+U+8f63	轣
+轤-KaishoHzFstLeRi	U+8f64	轤
+轤-KaishoHzFstRiLe	U+8f64	轤
+轤-Kaisho	U+8f64	轤
+轤-KaishoVtFstRiLe	U+8f64	轤
+U+8f64	轤
+辛-Kaisho	U+8f9b	辛
+U+8f9b	辛
+辜-Kaisho	U+8f9c	辜
+U+8f9c	辜
+辞-Kaisho	U+8f9e	辞
+U+8f9e	辞
+辟-Kaisho	U+8f9f	辟
+U+8f9f	辟
+辣-Kaisho	U+8fa3	辣
+U+8fa3	辣
+辧-Kaisho	U+8fa7	辧
+U+8fa7	辧
+辨-Kaisho	U+8fa8	辨
+U+8fa8	辨
+辭-Kaisho	U+8fad	辭
+U+8fad	辭
+辮-Kaisho	U+8fae	辮
+U+8fae	辮
+辯-Kaisho	U+8faf	辯
+U+8faf	辯
+U+8fb0	辰
+U+8fb1	辱
+農-Kaisho	U+8fb2	農
+農-KaishoVtLst	U+8fb2	農
+U+8fb2	農
+U+8fb6	辶
+U+8fb7	辷
+U+8fba	辺
+辻-Hyougai	U+8fbb	辻
+U+8fbb	辻
+U+8fbc	込
+辿-Hyougai	U+8fbf	辿
+U+8fbf	辿
+迂-Hyougai	U+8fc2	迂
+U+8fc2	迂
+迄-Hyougai	U+8fc4	迄
+U+8fc4	迄
+U+8fc5	迅
+U+8fce	迎
+U+8fd1	近
+U+8fd4	返
+U+8fda	迚
+U+8fe2	迢
+U+8fe5	迥
+迦-Hyougai	U+8fe6	迦
+U+8fe6	迦
+U+8fe9	迩
+迪-Kaisho	U+8fea	迪
+迪-KaishoVtLst	U+8fea	迪
+U+8fea	迪
+迫-Kaisho	U+8feb	迫
+U+8feb	迫
+U+8fed	迭
+U+8fef	迯
+述-Kaisho	U+8ff0	述
+U+8ff0	述
+U+8ff4	迴
+迷-Kaisho	U+8ff7	迷
+U+8ff7	迷
+U+8ff8	迸
+迹-Kaisho	U+8ff9	迹
+U+8ff9	迹
+U+8ffa	迺
+U+8ffd	追
+退-Kaisho	U+9000	退
+U+9000	退
+U+9001	送
+逃-MidFst	U+9003	逃
+U+9003	逃
+U+9005	逅
+U+9006	逆
+逋-Kaisho	U+900b	逋
+U+900b	逋
+逍-Kaisho	U+900d	逍
+U+900d	逍
+逎-Kaisho	U+900e	逎
+U+900e	逎
+透-Kaisho	U+900f	透
+U+900f	透
+U+9010	逐
+U+9011	逑
+U+9013	逓
+U+9014	途
+U+9015	逕
+U+9016	逖
+逗-Hyougai	U+9017	逗
+U+9017	逗
+這-Hyougai	U+9019	這
+U+9019	這
+通-Kaisho	U+901a	通
+U+901a	通
+U+901d	逝
+U+901e	逞
+逞-VtLst	U+901e	逞
+速-Kaisho	U+901f	速
+U+901f	速
+U+9020	造
+U+9021	逡
+逢-Hyougai	U+9022	逢
+U+9022	逢
+連-Kaisho	U+9023	連
+U+9023	連
+U+9027	逧
+U+902e	逮
+U+9031	週
+U+9032	進
+U+9035	逵
+U+9036	逶
+U+9038	逸
+U+9039	逹
+逼-HyougaiKaisho	U+903c	逼
+逼-Hyougai	U+903c	逼
+U+903c	逼
+U+903e	逾
+遁-HyougaiKaisho	U+9041	遁
+遁-Hyougai	U+9041	遁
+遁-Kaisho	U+9041	遁
+U+9041	遁
+U+9042	遂
+U+9045	遅
+遇-Kaisho	U+9047	遇
+U+9047	遇
+遉-KaishoHzFst	U+9049	遉
+遉-Kaisho	U+9049	遉
+U+9049	遉
+遊-Kaisho	U+904a	遊
+U+904a	遊
+運-Kaisho	U+904b	運
+U+904b	運
+遍-Kaisho	U+904d	遍
+U+904d	遍
+過-HzFst	U+904e	過
+U+904e	過
+遏-Kaisho	U+904f	遏
+U+904f	遏
+U+9050	遐
+遑-Kaisho	U+9051	遑
+遑-KaishoVtLst	U+9051	遑
+U+9051	遑
+遒-Kaisho	U+9052	遒
+U+9052	遒
+道-Kaisho	U+9053	道
+U+9053	道
+U+9054	達
+U+9055	違
+U+9056	遖
+遘-Kaisho	U+9058	遘
+U+9058	遘
+U+9059	遙
+遜-Hyougai	U+905c	遜
+U+905c	遜
+遞-HzFstLeRi	U+905e	遞
+遞-HzFstRiLe	U+905e	遞
+U+905e	遞
+遞-VtFstRiLe	U+905e	遞
+U+9060	遠
+遡-HyougaiKaisho	U+9061	遡
+遡-Hyougai	U+9061	遡
+遡-Kaisho	U+9061	遡
+U+9061	遡
+U+9063	遣
+U+9065	遥
+遨-Kaisho	U+9068	遨
+U+9068	遨
+適-Kaisho	U+9069	適
+U+9069	適
+遭-Kaisho	U+906d	遭
+遭-KaishoVtLst	U+906d	遭
+U+906d	遭
+遮-Kaisho	U+906e	遮
+U+906e	遮
+遯-Kaisho	U+906f	遯
+U+906f	遯
+U+9072	遲
+遵-Kaisho	U+9075	遵
+U+9075	遵
+U+9076	遶
+U+9077	遷
+U+9078	選
+遺-Kaisho	U+907a	遺
+U+907a	遺
+遼-Kaisho	U+907c	遼
+U+907c	遼
+遽-HzFstLeRi	U+907d	遽
+遽-HzFstRiLe	U+907d	遽
+U+907d	遽
+遽-VtFstRiLe	U+907d	遽
+避-Kaisho	U+907f	避
+U+907f	避
+邀-Kaisho	U+9080	邀
+U+9080	邀
+邁-Kaisho	U+9081	邁
+U+9081	邁
+邂-Kaisho	U+9082	邂
+U+9082	邂
+邃-Kaisho	U+9083	邃
+U+9083	邃
+U+9084	還
+U+9087	邇
+邉-Kaisho	U+9089	邉
+U+9089	邉
+邊-Kaisho	U+908a	邊
+U+908a	邊
+U+908f	邏
+U+9091	邑
+U+90a3	那
+U+90a6	邦
+U+90a8	邨
+U+90aa	邪
+邯-Kaisho	U+90af	邯
+U+90af	邯
+U+90b1	邱
+U+90b5	邵
+U+90b8	邸
+郁-Kaisho	U+90c1	郁
+U+90c1	郁
+郊-Kaisho	U+90ca	郊
+U+90ca	郊
+郎-Kaisho	U+90ce	郎
+U+90ce	郎
+U+90db	郛
+U+90e1	郡
+U+90e2	郢
+U+90e4	郤
+部-Kaisho	U+90e8	部
+U+90e8	部
+郭-Kaisho	U+90ed	郭
+U+90ed	郭
+U+90f5	郵
+郵-VtLst	U+90f5	郵
+郷-Kaisho	U+90f7	郷
+U+90f7	郷
+都-Kaisho	U+90fd	都
+U+90fd	都
+U+9102	鄂
+U+9112	鄒
+鄙-Kaisho	U+9119	鄙
+U+9119	鄙
+鄭-HyougaiKaisho	U+912d	鄭
+鄭-Hyougai	U+912d	鄭
+U+912d	鄭
+U+9130	鄰
+鄲-Kaisho	U+9132	鄲
+U+9132	鄲
+酉-Kaisho	U+9149	酉
+U+9149	酉
+酊-Kaisho	U+914a	酊
+U+914a	酊
+酋-HyougaiKaisho	U+914b	酋
+酋-Hyougai	U+914b	酋
+U+914b	酋
+酌-Kaisho	U+914c	酌
+U+914c	酌
+配-Kaisho	U+914d	配
+U+914d	配
+酎-Kaisho	U+914e	酎
+U+914e	酎
+酒-Kaisho	U+9152	酒
+U+9152	酒
+酔-Kaisho	U+9154	酔
+U+9154	酔
+酖-Kaisho	U+9156	酖
+U+9156	酖
+酘-Kaisho	U+9158	酘
+U+9158	酘
+酢-Kaisho	U+9162	酢
+U+9162	酢
+酣-Kaisho	U+9163	酣
+U+9163	酣
+酥-Kaisho	U+9165	酥
+U+9165	酥
+酩-Kaisho	U+9169	酩
+U+9169	酩
+酪-Kaisho	U+916a	酪
+U+916a	酪
+酬-Kaisho	U+916c	酬
+U+916c	酬
+酲-Kaisho	U+9172	酲
+U+9172	酲
+酳-Kaisho	U+9173	酳
+U+9173	酳
+酵-Kaisho	U+9175	酵
+U+9175	酵
+酷-Kaisho	U+9177	酷
+U+9177	酷
+酸-Kaisho	U+9178	酸
+U+9178	酸
+醂-Kaisho	U+9182	醂
+U+9182	醂
+醇-Kaisho	U+9187	醇
+U+9187	醇
+醉-Kaisho	U+9189	醉
+U+9189	醉
+醋-Kaisho	U+918b	醋
+U+918b	醋
+醍-Kaisho	U+918d	醍
+U+918d	醍
+醐-Kaisho	U+9190	醐
+U+9190	醐
+醒-Kaisho	U+9192	醒
+醒-KaishoVtLst	U+9192	醒
+U+9192	醒
+醗-KaishoDg3	U+9197	醗
+醗-KaishoDgLst	U+9197	醗
+醗-Kaisho	U+9197	醗
+U+9197	醗
+醜-Kaisho	U+919c	醜
+U+919c	醜
+醢-Kaisho	U+91a2	醢
+U+91a2	醢
+醤-Jinmei	U+91a4	醤
+醤-Kaisho	U+91a4	醤
+U+91a4	醤
+醪-Kaisho	U+91aa	醪
+U+91aa	醪
+醫-Kaisho	U+91ab	醫
+U+91ab	醫
+醯-Kaisho	U+91af	醯
+U+91af	醯
+醴-Kaisho	U+91b4	醴
+醴-KaishoVtLst	U+91b4	醴
+U+91b4	醴
+醵-KaishoHzFstLeRi	U+91b5	醵
+醵-KaishoHzFstRiLe	U+91b5	醵
+醵-Kaisho	U+91b5	醵
+醵-KaishoVtFstRiLe	U+91b5	醵
+U+91b5	醵
+醸-Kaisho	U+91b8	醸
+醸-KaishoVtLst	U+91b8	醸
+U+91b8	醸
+醺-Kaisho	U+91ba	醺
+醺-KaishoVtLst	U+91ba	醺
+U+91ba	醺
+釀-Kaisho	U+91c0	釀
+釀-KaishoVtLst	U+91c0	釀
+U+91c0	釀
+釁-Kaisho	U+91c1	釁
+釁-MdFst	U+91c1	釁
+U+91c1	釁
+釆-Kaisho	U+91c6	釆
+U+91c6	釆
+采-Kaisho	U+91c7	采
+U+91c7	采
+釈-Kaisho	U+91c8	釈
+U+91c8	釈
+釉-Kaisho	U+91c9	釉
+釉-KaishoVtLst	U+91c9	釉
+U+91c9	釉
+釋-Kaisho	U+91cb	釋
+U+91cb	釋
+里-Kaisho	U+91cc	里
+里-KaishoVtLst	U+91cc	里
+U+91cc	里
+重-Kaisho	U+91cd	重
+重-KaishoVtLst	U+91cd	重
+U+91cd	重
+野-Kaisho	U+91ce	野
+野-KaishoVtLst	U+91ce	野
+U+91ce	野
+量-Kaisho	U+91cf	量
+量-KaishoVtLst	U+91cf	量
+U+91cf	量
+釐-Kaisho	U+91d0	釐
+釐-KaishoVtLst	U+91d0	釐
+U+91d0	釐
+U+91d1	金
+U+91d6	釖
+U+91d8	釘
+U+91db	釛
+釜-Hyougai	U+91dc	釜
+U+91dc	釜
+U+91dd	針
+U+91df	釟
+U+91e1	釡
+U+91e3	釣
+U+91e6	釦
+U+91e7	釧
+U+91f5	釵
+U+91f6	釶
+U+91fc	釼
+U+91ff	釿
+U+920d	鈍
+U+920e	鈎
+U+9211	鈑
+U+9214	鈔
+U+9215	鈕
+U+921e	鈞
+U+9229	鈩
+U+922c	鈬
+鈴-Insatsu	U+9234	鈴
+U+9234	鈴
+U+9237	鈷
+鈿-Kaisho	U+923f	鈿
+U+923f	鈿
+U+9244	鉄
+鉅-HzFst	U+9245	鉅
+U+9245	鉅
+鉈-Kaisho	U+9248	鉈
+U+9248	鉈
+鉉-Kaisho	U+9249	鉉
+U+9249	鉉
+U+924b	鉋
+U+9250	鉐
+鉗-Kaisho	U+9257	鉗
+U+9257	鉗
+U+925a	鉚
+U+925b	鉛
+U+925e	鉞
+U+9262	鉢
+U+9264	鉤
+鉦-HzFst	U+9266	鉦
+U+9266	鉦
+鉱-Kaisho	U+9271	鉱
+U+9271	鉱
+U+927e	鉾
+銀-Kaisho	U+9280	銀
+U+9280	銀
+銃-Kaisho	U+9283	銃
+U+9283	銃
+U+9285	銅
+U+9291	銑
+U+9293	銓
+銓-VtLst	U+9293	銓
+U+9295	銕
+銖-Kaisho	U+9296	銖
+U+9296	銖
+U+9298	銘
+銚-MidFst	U+929a	銚
+U+929a	銚
+U+929b	銛
+U+929c	銜
+U+92ad	銭
+銷-Kaisho	U+92b7	銷
+U+92b7	銷
+銹-Kaisho	U+92b9	銹
+U+92b9	銹
+U+92cf	鋏
+U+92d2	鋒
+鋤-Kaisho	U+92e4	鋤
+U+92e4	鋤
+鋩-Kaisho	U+92e9	鋩
+U+92e9	鋩
+鋪-Kaisho	U+92ea	鋪
+U+92ea	鋪
+U+92ed	鋭
+U+92f2	鋲
+U+92f3	鋳
+U+92f8	鋸
+鋺-Kaisho	U+92fa	鋺
+U+92fa	鋺
+U+92fc	鋼
+錆-HyougaiKaisho	U+9306	錆
+錆-HyougaiKaishoVtLst	U+9306	錆
+錆-Hyougai	U+9306	錆
+U+9306	錆
+U+930f	錏
+U+9310	錐
+U+9318	錘
+錘-VtLst	U+9318	錘
+錙-Kaisho	U+9319	錙
+U+9319	錙
+U+931a	錚
+錠-Kaisho	U+9320	錠
+U+9320	錠
+U+9322	錢
+U+9323	錣
+錦-Kaisho	U+9326	錦
+U+9326	錦
+錨-Kaisho	U+9328	錨
+U+9328	錨
+錫-Kaisho	U+932b	錫
+U+932b	錫
+錬-Kaisho	U+932c	錬
+U+932c	錬
+U+932e	錮
+錯-Kaisho	U+932f	錯
+U+932f	錯
+録-Kaisho	U+9332	録
+U+9332	録
+U+9335	錵
+錺-Kaisho	U+933a	錺
+U+933a	錺
+錻-HzFst	U+933b	錻
+U+933b	錻
+鍄-Kaisho	U+9344	鍄
+U+9344	鍄
+鍋-HzFst	U+934b	鍋
+U+934b	鍋
+鍍-Kaisho	U+934d	鍍
+U+934d	鍍
+U+9354	鍔
+鍖-Kaisho	U+9356	鍖
+U+9356	鍖
+U+935b	鍛
+U+935c	鍜
+鍠-Kaisho	U+9360	鍠
+鍠-KaishoVtLst	U+9360	鍠
+U+9360	鍠
+鍬-Kaisho	U+936c	鍬
+U+936c	鍬
+U+936e	鍮
+鍵-Hyougai	U+9375	鍵
+U+9375	鍵
+U+937c	鍼
+鍾-Kaisho	U+937e	鍾
+鍾-KaishoVtLst	U+937e	鍾
+U+937e	鍾
+U+938c	鎌
+鎔-Kaisho	U+9394	鎔
+U+9394	鎔
+鎖-Kaisho	U+9396	鎖
+U+9396	鎖
+U+9397	鎗
+鎚-Hyougai	U+939a	鎚
+U+939a	鎚
+U+93a7	鎧
+鎬-Kaisho	U+93ac	鎬
+U+93ac	鎬
+鎭-Kaisho	U+93ad	鎭
+U+93ad	鎭
+鎮-Kaisho	U+93ae	鎮
+U+93ae	鎮
+U+93b0	鎰
+U+93b9	鎹
+鏃-Kaisho	U+93c3	鏃
+U+93c3	鏃
+鏈-Kaisho	U+93c8	鏈
+U+93c8	鏈
+U+93d0	鏐
+鏑-Kaisho	U+93d1	鏑
+U+93d1	鏑
+鏖-Kaisho	U+93d6	鏖
+U+93d6	鏖
+鏗-HzFst	U+93d7	鏗
+U+93d7	鏗
+U+93d8	鏘
+鏝-Kaisho	U+93dd	鏝
+U+93dd	鏝
+鏡-Kaisho	U+93e1	鏡
+U+93e1	鏡
+U+93e4	鏤
+鏥-Kaisho	U+93e5	鏥
+U+93e5	鏥
+鏨-Kaisho	U+93e8	鏨
+U+93e8	鏨
+U+9403	鐃
+鐇-Kaisho	U+9407	鐇
+U+9407	鐇
+鐐-Kaisho	U+9410	鐐
+U+9410	鐐
+鐓-Kaisho	U+9413	鐓
+U+9413	鐓
+鐔-Kaisho	U+9414	鐔
+U+9414	鐔
+鐘-Kaisho	U+9418	鐘
+鐘-KaishoVtLst	U+9418	鐘
+U+9418	鐘
+鐙-Dg3	U+9419	鐙
+鐙-DgLst	U+9419	鐙
+U+9419	鐙
+U+941a	鐚
+U+9421	鐡
+U+942b	鐫
+U+9435	鐵
+鐵-VtLst	U+9435	鐵
+U+9436	鐶
+U+9438	鐸
+鐺-Kaisho	U+943a	鐺
+U+943a	鐺
+U+9441	鑁
+U+9444	鑄
+鑑-HzFst	U+9451	鑑
+U+9451	鑑
+鑒-HzFst	U+9452	鑒
+U+9452	鑒
+鑓-Hyougai	U+9453	鑓
+U+9453	鑓
+鑚-Kaisho	U+945a	鑚
+U+945a	鑚
+鑛-Kaisho	U+945b	鑛
+鑛-KaishoVtLst	U+945b	鑛
+U+945b	鑛
+U+945e	鑞
+鑠-Kaisho	U+9460	鑠
+U+9460	鑠
+鑢-KaishoHzFstLeRi	U+9462	鑢
+鑢-KaishoHzFstRiLe	U+9462	鑢
+鑢-Kaisho	U+9462	鑢
+鑢-KaishoVtFstRiLe	U+9462	鑢
+U+9462	鑢
+鑪-KaishoHzFstLeRi	U+946a	鑪
+鑪-KaishoHzFstRiLe	U+946a	鑪
+鑪-Kaisho	U+946a	鑪
+鑪-KaishoVtFstRiLe	U+946a	鑪
+U+946a	鑪
+鑰-Kaisho	U+9470	鑰
+U+9470	鑰
+U+9475	鑵
+鑷-Kaisho	U+9477	鑷
+鑷-KaishoVt3	U+9477	鑷
+U+9477	鑷
+U+947c	鑼
+鑽-Kaisho	U+947d	鑽
+U+947d	鑽
+U+947e	鑾
+U+947f	鑿
+钁-Kaisho	U+9481	钁
+U+9481	钁
+長-HzFst	U+9577	長
+U+9577	長
+門-Kaisho	U+9580	門
+U+9580	門
+閂-Kaisho	U+9582	閂
+U+9582	閂
+閃-Kaisho	U+9583	閃
+U+9583	閃
+閇-Kaisho	U+9587	閇
+U+9587	閇
+閉-Kaisho	U+9589	閉
+U+9589	閉
+閊-Kaisho	U+958a	閊
+U+958a	閊
+開-Kaisho	U+958b	開
+U+958b	開
+閏-Kaisho	U+958f	閏
+U+958f	閏
+閑-Kaisho	U+9591	閑
+U+9591	閑
+間-Kaisho	U+9593	間
+U+9593	間
+閔-Kaisho	U+9594	閔
+U+9594	閔
+閖-Kaisho	U+9596	閖
+U+9596	閖
+閘-Kaisho	U+9598	閘
+U+9598	閘
+閙-Kaisho	U+9599	閙
+U+9599	閙
+閠-Kaisho	U+95a0	閠
+閠-KaishoVtLst	U+95a0	閠
+U+95a0	閠
+関-Kaisho	U+95a2	関
+U+95a2	関
+閣-Kaisho	U+95a3	閣
+U+95a3	閣
+閤-Kaisho	U+95a4	閤
+U+95a4	閤
+閥-Kaisho	U+95a5	閥
+U+95a5	閥
+閧-Kaisho	U+95a7	閧
+U+95a7	閧
+閨-Kaisho	U+95a8	閨
+U+95a8	閨
+閭-Kaisho	U+95ad	閭
+U+95ad	閭
+閲-Kaisho	U+95b2	閲
+U+95b2	閲
+閹-Kaisho	U+95b9	閹
+U+95b9	閹
+閻-KaishoHzFst	U+95bb	閻
+閻-Kaisho	U+95bb	閻
+U+95bb	閻
+閼-Kaisho	U+95bc	閼
+U+95bc	閼
+閾-Kaisho	U+95be	閾
+U+95be	閾
+闃-Kaisho	U+95c3	闃
+U+95c3	闃
+闇-Kaisho	U+95c7	闇
+U+95c7	闇
+闊-Kaisho	U+95ca	闊
+U+95ca	闊
+闌-Kaisho	U+95cc	闌
+U+95cc	闌
+闍-Kaisho	U+95cd	闍
+U+95cd	闍
+闔-Kaisho	U+95d4	闔
+U+95d4	闔
+闕-Kaisho	U+95d5	闕
+U+95d5	闕
+闖-Kaisho	U+95d6	闖
+闖-KaishoVt6	U+95d6	闖
+U+95d6	闖
+闘-Kaisho	U+95d8	闘
+U+95d8	闘
+關-Kaisho	U+95dc	關
+U+95dc	關
+闡-Kaisho	U+95e1	闡
+U+95e1	闡
+闢-Kaisho	U+95e2	闢
+U+95e2	闢
+闥-Kaisho	U+95e5	闥
+U+95e5	闥
+U+961c	阜
+U+961d	阝
+U+9621	阡
+U+9628	阨
+U+962a	阪
+U+962e	阮
+阯-HzFst	U+962f	阯
+U+962f	阯
+防-Kaisho	U+9632	防
+U+9632	防
+阻-Kaisho	U+963b	阻
+U+963b	阻
+U+963f	阿
+陀-Kaisho	U+9640	陀
+U+9640	陀
+U+9642	陂
+U+9644	附
+U+964b	陋
+陌-Kaisho	U+964c	陌
+U+964c	陌
+U+964d	降
+陏-Kaisho	U+964f	陏
+U+964f	陏
+限-Kaisho	U+9650	限
+U+9650	限
+陛-Kaisho	U+965b	陛
+U+965b	陛
+U+965c	陜
+U+965d	陝
+U+965e	陞
+陟-HzFst	U+965f	陟
+U+965f	陟
+院-Kaisho	U+9662	院
+U+9662	院
+陣-Kaisho	U+9663	陣
+U+9663	陣
+U+9664	除
+陥-Kaisho	U+9665	陥
+U+9665	陥
+U+9666	陦
+陪-Kaisho	U+966a	陪
+U+966a	陪
+陬-Kaisho	U+966c	陬
+陬-KaishoVt3	U+966c	陬
+U+966c	陬
+U+9670	陰
+U+9672	陲
+陲-VtLst	U+9672	陲
+陳-Kaisho	U+9673	陳
+U+9673	陳
+U+9675	陵
+U+9676	陶
+陷-HzFst	U+9677	陷
+U+9677	陷
+U+9678	陸
+U+967a	険
+陽-Kaisho	U+967d	陽
+U+967d	陽
+隅-Kaisho	U+9685	隅
+U+9685	隅
+U+9686	隆
+隆-VtLst	U+9686	隆
+隈-Kaisho	U+9688	隈
+U+9688	隈
+U+968a	隊
+隋-Kaisho	U+968b	隋
+U+968b	隋
+隍-Kaisho	U+968d	隍
+隍-KaishoVtLst	U+968d	隍
+U+968d	隍
+階-Kaisho	U+968e	階
+U+968e	階
+随-Kaisho	U+968f	随
+U+968f	随
+U+9694	隔
+U+9695	隕
+隗-Kaisho	U+9697	隗
+U+9697	隗
+U+9698	隘
+隙-HyougaiKaisho	U+9699	隙
+隙-Hyougai	U+9699	隙
+隙-Kaisho	U+9699	隙
+U+9699	隙
+U+969b	際
+障-Kaisho	U+969c	障
+U+969c	障
+隠-Kaisho	U+96a0	隠
+U+96a0	隠
+U+96a3	隣
+U+96a7	隧
+隨-Kaisho	U+96a8	隨
+U+96a8	隨
+U+96aa	險
+隰-Kaisho	U+96b0	隰
+U+96b0	隰
+U+96b1	隱
+U+96b2	隲
+隲-Vt6	U+96b2	隲
+隴-Kaisho	U+96b4	隴
+U+96b4	隴
+U+96b6	隶
+U+96b7	隷
+隸-Kaisho	U+96b8	隸
+U+96b8	隸
+U+96b9	隹
+U+96bb	隻
+U+96bc	隼
+U+96c0	雀
+U+96c1	雁
+U+96c4	雄
+U+96c5	雅
+集-Kaisho	U+96c6	集
+U+96c6	集
+U+96c7	雇
+U+96c9	雉
+U+96cb	雋
+雌-HzFst	U+96cc	雌
+雌-HzFstVtLst	U+96cc	雌
+U+96cc	雌
+雌-VtLst	U+96cc	雌
+雍-Kaisho	U+96cd	雍
+U+96cd	雍
+雎-Kaisho	U+96ce	雎
+U+96ce	雎
+雑-Kaisho	U+96d1	雑
+U+96d1	雑
+U+96d5	雕
+U+96d6	雖
+U+96d9	雙
+U+96db	雛
+雜-Kaisho	U+96dc	雜
+U+96dc	雜
+離-Kaisho	U+96e2	離
+U+96e2	離
+U+96e3	難
+U+96e8	雨
+U+96e9	雩
+雪-Kaisho	U+96ea	雪
+U+96ea	雪
+U+96eb	雫
+U+96f0	雰
+U+96f2	雲
+零-Insatsu	U+96f6	零
+U+96f6	零
+雷-Kaisho	U+96f7	雷
+U+96f7	雷
+U+96f9	雹
+電-Kaisho	U+96fb	電
+U+96fb	電
+U+9700	需
+霄-Kaisho	U+9704	霄
+U+9704	霄
+U+9706	霆
+U+9707	震
+U+9708	霈
+U+970a	霊
+U+970d	霍
+霎-Kaisho	U+970e	霎
+U+970e	霎
+霏-MdFst	U+970f	霏
+U+970f	霏
+霑-HzFst	U+9711	霑
+U+9711	霑
+霓-HzFst	U+9713	霓
+U+9713	霓
+霖-Kaisho	U+9716	霖
+U+9716	霖
+U+9719	霙
+霜-Kaisho	U+971c	霜
+U+971c	霜
+U+971e	霞
+霞-VtFst	U+971e	霞
+霤-Kaisho	U+9724	霤
+U+9724	霤
+U+9727	霧
+U+972a	霪
+霰-Kaisho	U+9730	霰
+U+9730	霰
+U+9732	露
+霸-Kaisho	U+9738	霸
+U+9738	霸
+霹-Kaisho	U+9739	霹
+U+9739	霹
+霽-Kaisho	U+973d	霽
+U+973d	霽
+霾-Kaisho	U+973e	霾
+霾-KaishoVtLst	U+973e	霾
+U+973e	霾
+靂-HzFst	U+9742	靂
+U+9742	靂
+靄-HyougaiKaisho	U+9744	靄
+靄-Hyougai	U+9744	靄
+U+9744	靄
+U+9746	靆
+靈-MdFst	U+9748	靈
+U+9748	靈
+U+9749	靉
+青-Kaisho	U+9752	青
+青-KaishoVtLst	U+9752	青
+U+9752	青
+靖-Kaisho	U+9756	靖
+靖-KaishoVtLst	U+9756	靖
+U+9756	靖
+静-Kaisho	U+9759	静
+静-KaishoVtLst	U+9759	静
+U+9759	静
+U+975c	靜
+靜-VtLst	U+975c	靜
+非-MdFst	U+975e	非
+U+975e	非
+靠-MdFst	U+9760	靠
+U+9760	靠
+靡-KaishoMdFst	U+9761	靡
+靡-Kaisho	U+9761	靡
+U+9761	靡
+U+9762	面
+U+9764	靤
+靦-Kaisho	U+9766	靦
+U+9766	靦
+靨-Kaisho	U+9768	靨
+U+9768	靨
+U+9769	革
+U+976b	靫
+U+976d	靭
+靱-Hyougai	U+9771	靱
+U+9771	靱
+U+9774	靴
+U+9779	靹
+靺-Kaisho	U+977a	靺
+U+977a	靺
+靼-Kaisho	U+977c	靼
+U+977c	靼
+U+9781	鞁
+鞄-Hyougai	U+9784	鞄
+U+9784	鞄
+U+9785	鞅
+U+9786	鞆
+U+978b	鞋
+鞍-Kaisho	U+978d	鞍
+U+978d	鞍
+U+978f	鞏
+鞐-HzFst	U+9790	鞐
+U+9790	鞐
+鞘-HyougaiKaisho	U+9798	鞘
+鞘-Hyougai	U+9798	鞘
+鞘-Kaisho	U+9798	鞘
+U+9798	鞘
+鞜-Kaisho	U+979c	鞜
+U+979c	鞜
+鞠-Kaisho	U+97a0	鞠
+U+97a0	鞠
+鞣-Kaisho	U+97a3	鞣
+U+97a3	鞣
+鞦-Kaisho	U+97a6	鞦
+U+97a6	鞦
+鞨-Kaisho	U+97a8	鞨
+U+97a8	鞨
+U+97ab	鞫
+鞭-HyougaiKaisho	U+97ad	鞭
+鞭-Hyougai	U+97ad	鞭
+鞭-Kaisho	U+97ad	鞭
+U+97ad	鞭
+U+97b3	鞳
+鞴-Kaisho	U+97b4	鞴
+U+97b4	鞴
+U+97c3	韃
+U+97c6	韆
+U+97c8	韈
+U+97cb	韋
+U+97d3	韓
+U+97dc	韜
+U+97ed	韭
+U+97ee	韮
+韲-Kaisho	U+97f2	韲
+U+97f2	韲
+音-Kaisho	U+97f3	音
+U+97f3	音
+韵-Kaisho	U+97f5	韵
+U+97f5	韵
+韶-Kaisho	U+97f6	韶
+U+97f6	韶
+韻-Kaisho	U+97fb	韻
+U+97fb	韻
+響-Kaisho	U+97ff	響
+U+97ff	響
+頁-Kaisho	U+9801	頁
+U+9801	頁
+頂-Kaisho	U+9802	頂
+U+9802	頂
+頃-Kaisho	U+9803	頃
+U+9803	頃
+項-Kaisho	U+9805	項
+U+9805	項
+順-Kaisho	U+9806	順
+U+9806	順
+須-Kaisho	U+9808	須
+U+9808	須
+頌-Kaisho	U+980c	頌
+U+980c	頌
+頏-Kaisho	U+980f	頏
+U+980f	頏
+預-Kaisho	U+9810	預
+U+9810	預
+頑-Kaisho	U+9811	頑
+U+9811	頑
+頒-Kaisho	U+9812	頒
+U+9812	頒
+頓-Kaisho	U+9813	頓
+U+9813	頓
+頗-Kaisho	U+9817	頗
+U+9817	頗
+領-Insatsu	U+9818	領
+領-Kaisho	U+9818	領
+U+9818	領
+頚-Kaisho	U+981a	頚
+U+981a	頚
+頡-Kaisho	U+9821	頡
+U+9821	頡
+頤-Kaisho	U+9824	頤
+U+9824	頤
+頬-Kaisho	U+982c	頬
+U+982c	頬
+頭-Kaisho	U+982d	頭
+U+982d	頭
+U+9830	頰
+頴-Kaisho	U+9834	頴
+U+9834	頴
+頷-Kaisho	U+9837	頷
+U+9837	頷
+頸-Kaisho	U+9838	頸
+U+9838	頸
+頻-KaishoHzFst	U+983b	頻
+頻-Kaisho	U+983b	頻
+U+983b	頻
+頼-Kaisho	U+983c	頼
+U+983c	頼
+頽-Kaisho	U+983d	頽
+U+983d	頽
+顆-Kaisho	U+9846	顆
+U+9846	顆
+顋-Kaisho	U+984b	顋
+U+984b	顋
+題-Kaisho	U+984c	題
+U+984c	題
+額-Kaisho	U+984d	額
+U+984d	額
+顎-Kaisho	U+984e	顎
+U+984e	顎
+顏-Kaisho	U+984f	顏
+U+984f	顏
+顔-Kaisho	U+9854	顔
+U+9854	顔
+顕-Kaisho	U+9855	顕
+U+9855	顕
+願-Kaisho	U+9858	願
+U+9858	願
+顛-Kaisho	U+985b	顛
+U+985b	顛
+類-Kaisho	U+985e	類
+U+985e	類
+顧-Kaisho	U+9867	顧
+U+9867	顧
+顫-Kaisho	U+986b	顫
+U+986b	顫
+顯-Kaisho	U+986f	顯
+U+986f	顯
+顰-KaishoHzFst	U+9870	顰
+顰-Kaisho	U+9870	顰
+U+9870	顰
+顱-KaishoHzFstLeRi	U+9871	顱
+顱-KaishoHzFstRiLe	U+9871	顱
+顱-Kaisho	U+9871	顱
+顱-KaishoVtFstRiLe	U+9871	顱
+U+9871	顱
+顳-Kaisho	U+9873	顳
+顳-KaishoVt3	U+9873	顳
+U+9873	顳
+顴-Kaisho	U+9874	顴
+U+9874	顴
+U+98a8	風
+U+98aa	颪
+颯-Kaisho	U+98af	颯
+U+98af	颯
+U+98b1	颱
+颶-Kaisho	U+98b6	颶
+U+98b6	颶
+U+98c3	飃
+U+98c4	飄
+U+98c6	飆
+U+98db	飛
+飜-Kaisho	U+98dc	飜
+U+98dc	飜
+食-Kaisho	U+98df	食
+U+98df	食
+U+98e0	飠
+飢-Kaisho	U+98e2	飢
+U+98e2	飢
+飩-Kaisho	U+98e9	飩
+U+98e9	飩
+飫-Kaisho	U+98eb	飫
+U+98eb	飫
+飭-Kaisho	U+98ed	飭
+U+98ed	飭
+飮-Kaisho	U+98ee	飮
+U+98ee	飮
+飯-Kaisho	U+98ef	飯
+U+98ef	飯
+飲-Kaisho	U+98f2	飲
+U+98f2	飲
+飴-HyougaiKaisho	U+98f4	飴
+飴-Hyougai	U+98f4	飴
+U+98f4	飴
+飼-Kaisho	U+98fc	飼
+U+98fc	飼
+飽-Kaisho	U+98fd	飽
+U+98fd	飽
+飾-Kaisho	U+98fe	飾
+U+98fe	飾
+餃-Kaisho	U+9903	餃
+U+9903	餃
+餅-HyougaiKaisho	U+9905	餅
+餅-Hyougai	U+9905	餅
+餅-Kaisho	U+9905	餅
+U+9905	餅
+餉-Kaisho	U+9909	餉
+U+9909	餉
+養-Kaisho	U+990a	養
+養-KaishoVtLst	U+990a	養
+U+990a	養
+餌-HyougaiKaisho	U+990c	餌
+餌-HyougaiKaishoVt3	U+990c	餌
+餌-Hyougai	U+990c	餌
+餌-Kaisho	U+990c	餌
+餌-KaishoVt3	U+990c	餌
+U+990c	餌
+餐-HyougaiKaisho	U+9910	餐
+餐-Hyougai	U+9910	餐
+U+9910	餐
+餒-Kaisho	U+9912	餒
+U+9912	餒
+餓-Kaisho	U+9913	餓
+U+9913	餓
+餔-Kaisho	U+9914	餔
+U+9914	餔
+餘-Kaisho	U+9918	餘
+U+9918	餘
+餝-Kaisho	U+991d	餝
+U+991d	餝
+餞-Kaisho	U+991e	餞
+U+991e	餞
+餠-Kaisho	U+9920	餠
+U+9920	餠
+餡-KaishoHzFst	U+9921	餡
+餡-Kaisho	U+9921	餡
+U+9921	餡
+餤-Kaisho	U+9924	餤
+U+9924	餤
+館-Kaisho	U+9928	館
+U+9928	館
+餬-Kaisho	U+992c	餬
+U+992c	餬
+U+992e	餮
+餽-Kaisho	U+993d	餽
+U+993d	餽
+餾-Kaisho	U+993e	餾
+U+993e	餾
+饂-Kaisho	U+9942	饂
+U+9942	饂
+饅-Kaisho	U+9945	饅
+U+9945	饅
+饉-Kaisho	U+9949	饉
+U+9949	饉
+饋-Kaisho	U+994b	饋
+U+994b	饋
+饌-Kaisho	U+994c	饌
+U+994c	饌
+饐-Kaisho	U+9950	饐
+U+9950	饐
+饑-Kaisho	U+9951	饑
+U+9951	饑
+饒-Kaisho	U+9952	饒
+U+9952	饒
+饕-HzFstLeRi	U+9955	饕
+饕-HzFstRiLe	U+9955	饕
+U+9955	饕
+饕-VtFstRiLe	U+9955	饕
+饗-HyougaiKaisho	U+9957	饗
+饗-Hyougai	U+9957	饗
+U+9957	饗
+首-Kaisho	U+9996	首
+U+9996	首
+馗-Kaisho	U+9997	馗
+U+9997	馗
+馘-Kaisho	U+9998	馘
+U+9998	馘
+香-Kaisho	U+9999	香
+U+9999	香
+馥-Kaisho	U+99a5	馥
+U+99a5	馥
+馨-Kaisho	U+99a8	馨
+U+99a8	馨
+U+99ac	馬
+馬-Vt6	U+99ac	馬
+U+99ad	馭
+馭-Vt6	U+99ad	馭
+U+99ae	馮
+馮-Vt6	U+99ae	馮
+U+99b3	馳
+馳-Vt6	U+99b3	馳
+U+99b4	馴
+馴-Vt6	U+99b4	馴
+馼-Kaisho	U+99bc	馼
+馼-KaishoVt6	U+99bc	馼
+U+99bc	馼
+駁-Hyougai	U+99c1	駁
+駁-HyougaiVt6	U+99c1	駁
+U+99c1	駁
+U+99c4	駄
+駄-Vt6	U+99c4	駄
+U+99c5	駅
+駅-Vt6	U+99c5	駅
+U+99c6	駆
+駆-Vt6	U+99c6	駆
+U+99c8	駈
+駈-Vt6	U+99c8	駈
+U+99d0	駐
+駐-Vt6VtLst	U+99d0	駐
+駐-VtLst	U+99d0	駐
+U+99d1	駑
+駑-Vt6	U+99d1	駑
+U+99d2	駒
+駒-Vt6	U+99d2	駒
+U+99d5	駕
+駕-Vt6	U+99d5	駕
+U+99d8	駘
+駘-Vt6	U+99d8	駘
+U+99db	駛
+駛-Vt6	U+99db	駛
+駝-Kaisho	U+99dd	駝
+駝-KaishoVt6	U+99dd	駝
+U+99dd	駝
+U+99df	駟
+駟-Vt6	U+99df	駟
+U+99e2	駢
+駢-Vt6	U+99e2	駢
+駭-Kaisho	U+99ed	駭
+駭-KaishoVt6	U+99ed	駭
+U+99ed	駭
+駮-Kaisho	U+99ee	駮
+駮-KaishoVt6	U+99ee	駮
+U+99ee	駮
+U+99f1	駱
+駱-Vt6	U+99f1	駱
+U+99f2	駲
+駲-Vt6	U+99f2	駲
+U+99f8	駸
+駸-Vt6	U+99f8	駸
+駻-Kaisho	U+99fb	駻
+駻-KaishoVt6	U+99fb	駻
+U+99fb	駻
+U+99ff	駿
+駿-Vt6	U+99ff	駿
+騁-Kaisho	U+9a01	騁
+騁-KaishoVtLst	U+9a01	騁
+U+9a01	騁
+U+9a05	騅
+騅-Vt6	U+9a05	騅
+U+9a0e	騎
+騎-Vt6	U+9a0e	騎
+騏-Kaisho	U+9a0f	騏
+騏-KaishoVt6	U+9a0f	騏
+U+9a0f	騏
+U+9a12	騒
+騒-Vt6	U+9a12	騒
+U+9a13	験
+験-Vt6	U+9a13	験
+騙-HyougaiKaisho	U+9a19	騙
+騙-HyougaiKaishoVt6	U+9a19	騙
+騙-Hyougai	U+9a19	騙
+U+9a19	騙
+騨-Kaisho	U+9a28	騨
+騨-KaishoVt6	U+9a28	騨
+U+9a28	騨
+騫-Kaisho	U+9a2b	騫
+騫-KaishoVt6	U+9a2b	騫
+U+9a2b	騫
+騰-Kaisho	U+9a30	騰
+騰-KaishoVt6	U+9a30	騰
+U+9a30	騰
+U+9a37	騷
+騷-Vt6	U+9a37	騷
+騾-Kaisho	U+9a3e	騾
+騾-KaishoVt6	U+9a3e	騾
+U+9a3e	騾
+驀-Kaisho	U+9a40	驀
+驀-KaishoVt6	U+9a40	驀
+U+9a40	驀
+U+9a42	驂
+驂-Vt6	U+9a42	驂
+U+9a43	驃
+驃-Vt6	U+9a43	驃
+U+9a45	驅
+驅-Vt6	U+9a45	驅
+U+9a4d	驍
+驍-Vt6	U+9a4d	驍
+U+9a55	驕
+驕-Vt6	U+9a55	驕
+U+9a57	驗
+驗-Vt6	U+9a57	驗
+U+9a5a	驚
+驚-Vt6	U+9a5a	驚
+U+9a5b	驛
+驛-Vt6	U+9a5b	驛
+驟-Kaisho	U+9a5f	驟
+驟-KaishoVt3Vt3	U+9a5f	驟
+驟-KaishoVt6Vt3	U+9a5f	驟
+驟-KaishoVt6Vt6	U+9a5f	驟
+U+9a5f	驟
+驢-KaishoHzFstRiLe	U+9a62	驢
+驢-Kaisho	U+9a62	驢
+驢-KaishoVt3HzFstLeRi	U+9a62	驢
+驢-KaishoVt3VtFstRiLe	U+9a62	驢
+驢-KaishoVt6HzFstLeRi	U+9a62	驢
+驢-KaishoVt6HzFstRiLe	U+9a62	驢
+驢-KaishoVt6VtFstRiLe	U+9a62	驢
+U+9a62	驢
+驤-Kaisho	U+9a64	驤
+驤-KaishoVtLst	U+9a64	驤
+U+9a64	驤
+驥-Kaisho	U+9a65	驥
+驥-KaishoVt6	U+9a65	驥
+U+9a65	驥
+U+9a69	驩
+驩-Vt6	U+9a69	驩
+驪-Kaisho	U+9a6a	驪
+驪-KaishoVt6	U+9a6a	驪
+U+9a6a	驪
+U+9a6b	驫
+驫-Vt6	U+9a6b	驫
+骨-KaishoHzFst	U+9aa8	骨
+骨-Kaisho	U+9aa8	骨
+U+9aa8	骨
+骭-KaishoHzFst	U+9aad	骭
+骭-Kaisho	U+9aad	骭
+U+9aad	骭
+骰-KaishoHzFst	U+9ab0	骰
+骰-Kaisho	U+9ab0	骰
+U+9ab0	骰
+骸-KaishoHzFst	U+9ab8	骸
+骸-Kaisho	U+9ab8	骸
+U+9ab8	骸
+骼-KaishoHzFst	U+9abc	骼
+骼-Kaisho	U+9abc	骼
+U+9abc	骼
+髀-KaishoHzFst	U+9ac0	髀
+髀-Kaisho	U+9ac0	髀
+U+9ac0	髀
+髄-KaishoHzFst	U+9ac4	髄
+髄-Kaisho	U+9ac4	髄
+U+9ac4	髄
+髏-KaishoHzFst	U+9acf	髏
+髏-Kaisho	U+9acf	髏
+U+9acf	髏
+髑-KaishoHzFst	U+9ad1	髑
+髑-Kaisho	U+9ad1	髑
+U+9ad1	髑
+髓-KaishoHzFst	U+9ad3	髓
+髓-Kaisho	U+9ad3	髓
+U+9ad3	髓
+體-KaishoHzFst	U+9ad4	體
+體-Kaisho	U+9ad4	體
+U+9ad4	體
+高-Kaisho	U+9ad8	高
+U+9ad8	高
+髞-Kaisho	U+9ade	髞
+U+9ade	髞
+髟-HzFst	U+9adf	髟
+U+9adf	髟
+髢-HzFst	U+9ae2	髢
+U+9ae2	髢
+髣-KaishoHzFst	U+9ae3	髣
+髣-Kaisho	U+9ae3	髣
+U+9ae3	髣
+髦-HzFst	U+9ae6	髦
+U+9ae6	髦
+髪-HzFst	U+9aea	髪
+U+9aea	髪
+髫-HzFst	U+9aeb	髫
+U+9aeb	髫
+髭-HzFstHzFst	U+9aed	髭
+髭-HzFst	U+9aed	髭
+U+9aed	髭
+髭-VtFstHzFst	U+9aed	髭
+髮-HzFst	U+9aee	髮
+U+9aee	髮
+髯-HzFst	U+9aef	髯
+U+9aef	髯
+髱-HzFst	U+9af1	髱
+U+9af1	髱
+髴-HzFst	U+9af4	髴
+U+9af4	髴
+髷-KaishoHzFst	U+9af7	髷
+髷-Kaisho	U+9af7	髷
+U+9af7	髷
+髻-HzFst	U+9afb	髻
+U+9afb	髻
+鬆-KaishoHzFst	U+9b06	鬆
+鬆-Kaisho	U+9b06	鬆
+U+9b06	鬆
+鬘-KaishoHzFst	U+9b18	鬘
+鬘-Kaisho	U+9b18	鬘
+U+9b18	鬘
+鬚-KaishoHzFst	U+9b1a	鬚
+鬚-Kaisho	U+9b1a	鬚
+U+9b1a	鬚
+鬟-HzFst	U+9b1f	鬟
+U+9b1f	鬟
+鬢-KaishoHzFst	U+9b22	鬢
+鬢-Kaisho	U+9b22	鬢
+U+9b22	鬢
+鬣-HzFst	U+9b23	鬣
+U+9b23	鬣
+U+9b25	鬥
+鬥-VtLst	U+9b25	鬥
+鬧-Kaisho	U+9b27	鬧
+鬧-KaishoVtLst	U+9b27	鬧
+U+9b27	鬧
+U+9b28	鬨
+鬨-VtLst	U+9b28	鬨
+鬩-HzFst	U+9b29	鬩
+U+9b29	鬩
+鬩-VtLstHzFst	U+9b29	鬩
+鬩-VtLst	U+9b29	鬩
+U+9b2a	鬪
+鬪-VtLst	U+9b2a	鬪
+U+9b2e	鬮
+鬮-VtLst	U+9b2e	鬮
+U+9b2f	鬯
+U+9b31	鬱
+U+9b32	鬲
+U+9b3b	鬻
+鬼-Kaisho	U+9b3c	鬼
+U+9b3c	鬼
+魁-Kaisho	U+9b41	魁
+U+9b41	魁
+魂-Kaisho	U+9b42	魂
+U+9b42	魂
+魃-Kaisho	U+9b43	魃
+U+9b43	魃
+魄-Kaisho	U+9b44	魄
+U+9b44	魄
+魅-Kaisho	U+9b45	魅
+U+9b45	魅
+魍-Kaisho	U+9b4d	魍
+U+9b4d	魍
+魎-Kaisho	U+9b4e	魎
+U+9b4e	魎
+魏-Kaisho	U+9b4f	魏
+U+9b4f	魏
+U+9b51	魑
+魔-Kaisho	U+9b54	魔
+U+9b54	魔
+魘-Kaisho	U+9b58	魘
+U+9b58	魘
+魚-Kaisho	U+9b5a	魚
+U+9b5a	魚
+魯-Kaisho	U+9b6f	魯
+U+9b6f	魯
+魴-Kaisho	U+9b74	魴
+U+9b74	魴
+鮃-Kaisho	U+9b83	鮃
+U+9b83	鮃
+鮎-KaishoHzFst	U+9b8e	鮎
+鮎-Kaisho	U+9b8e	鮎
+U+9b8e	鮎
+鮑-Kaisho	U+9b91	鮑
+U+9b91	鮑
+鮒-Kaisho	U+9b92	鮒
+U+9b92	鮒
+鮓-Kaisho	U+9b93	鮓
+U+9b93	鮓
+鮖-Kaisho	U+9b96	鮖
+U+9b96	鮖
+鮗-Kaisho	U+9b97	鮗
+U+9b97	鮗
+鮟-Kaisho	U+9b9f	鮟
+U+9b9f	鮟
+鮠-Kaisho	U+9ba0	鮠
+U+9ba0	鮠
+鮨-Kaisho	U+9ba8	鮨
+U+9ba8	鮨
+鮪-Kaisho	U+9baa	鮪
+U+9baa	鮪
+鮫-HyougaiKaisho	U+9bab	鮫
+鮫-Hyougai	U+9bab	鮫
+U+9bab	鮫
+鮭-Kaisho	U+9bad	鮭
+U+9bad	鮭
+鮮-Kaisho	U+9bae	鮮
+U+9bae	鮮
+鮴-Kaisho	U+9bb4	鮴
+U+9bb4	鮴
+鮹-Kaisho	U+9bb9	鮹
+U+9bb9	鮹
+鯀-Kaisho	U+9bc0	鯀
+U+9bc0	鯀
+鯆-Kaisho	U+9bc6	鯆
+U+9bc6	鯆
+鯉-Kaisho	U+9bc9	鯉
+鯉-KaishoVtLst	U+9bc9	鯉
+U+9bc9	鯉
+鯊-Kaisho	U+9bca	鯊
+U+9bca	鯊
+鯏-Kaisho	U+9bcf	鯏
+U+9bcf	鯏
+鯑-Kaisho	U+9bd1	鯑
+U+9bd1	鯑
+鯒-Kaisho	U+9bd2	鯒
+U+9bd2	鯒
+鯔-Kaisho	U+9bd4	鯔
+U+9bd4	鯔
+鯖-HyougaiKaisho	U+9bd6	鯖
+鯖-HyougaiKaishoVtLst	U+9bd6	鯖
+鯖-Hyougai	U+9bd6	鯖
+U+9bd6	鯖
+鯛-Kaisho	U+9bdb	鯛
+U+9bdb	鯛
+鯡-KaishoMdFst	U+9be1	鯡
+鯡-Kaisho	U+9be1	鯡
+U+9be1	鯡
+鯢-KaishoHzFst	U+9be2	鯢
+鯢-Kaisho	U+9be2	鯢
+U+9be2	鯢
+鯣-Kaisho	U+9be3	鯣
+U+9be3	鯣
+鯤-Kaisho	U+9be4	鯤
+U+9be4	鯤
+鯨-Kaisho	U+9be8	鯨
+U+9be8	鯨
+鯰-Kaisho	U+9bf0	鯰
+U+9bf0	鯰
+鯱-KaishoHzFstLeRi	U+9bf1	鯱
+鯱-KaishoHzFstRiLe	U+9bf1	鯱
+鯱-Kaisho	U+9bf1	鯱
+鯱-KaishoVtFstRiLe	U+9bf1	鯱
+U+9bf1	鯱
+鯲-Kaisho	U+9bf2	鯲
+U+9bf2	鯲
+鯵-Kaisho	U+9bf5	鯵
+U+9bf5	鯵
+鰄-Kaisho	U+9c04	鰄
+U+9c04	鰄
+鰆-Kaisho	U+9c06	鰆
+U+9c06	鰆
+鰈-Kaisho	U+9c08	鰈
+U+9c08	鰈
+鰉-Kaisho	U+9c09	鰉
+鰉-KaishoVtLst	U+9c09	鰉
+U+9c09	鰉
+鰊-Kaisho	U+9c0a	鰊
+U+9c0a	鰊
+鰌-Kaisho	U+9c0c	鰌
+U+9c0c	鰌
+鰍-Kaisho	U+9c0d	鰍
+U+9c0d	鰍
+鰐-Kaisho	U+9c10	鰐
+U+9c10	鰐
+鰒-Kaisho	U+9c12	鰒
+U+9c12	鰒
+鰓-Kaisho	U+9c13	鰓
+U+9c13	鰓
+鰔-Kaisho	U+9c14	鰔
+U+9c14	鰔
+鰕-Kaisho	U+9c15	鰕
+鰕-KaishoVtFst	U+9c15	鰕
+U+9c15	鰕
+鰛-Kaisho	U+9c1b	鰛
+U+9c1b	鰛
+鰡-Kaisho	U+9c21	鰡
+U+9c21	鰡
+鰤-Kaisho	U+9c24	鰤
+U+9c24	鰤
+鰥-Kaisho	U+9c25	鰥
+U+9c25	鰥
+鰭-Kaisho	U+9c2d	鰭
+U+9c2d	鰭
+鰮-Kaisho	U+9c2e	鰮
+U+9c2e	鰮
+鰯-HyougaiKaisho	U+9c2f	鰯
+鰯-Hyougai	U+9c2f	鰯
+鰯-Kaisho	U+9c2f	鰯
+U+9c2f	鰯
+鰰-Kaisho	U+9c30	鰰
+U+9c30	鰰
+鰲-Kaisho	U+9c32	鰲
+U+9c32	鰲
+鰹-KaishoHzFst	U+9c39	鰹
+鰹-Kaisho	U+9c39	鰹
+U+9c39	鰹
+鰺-Kaisho	U+9c3a	鰺
+U+9c3a	鰺
+鰻-Kaisho	U+9c3b	鰻
+U+9c3b	鰻
+鰾-Kaisho	U+9c3e	鰾
+U+9c3e	鰾
+鱆-Kaisho	U+9c46	鱆
+U+9c46	鱆
+鱇-Kaisho	U+9c47	鱇
+U+9c47	鱇
+鱈-Kaisho	U+9c48	鱈
+U+9c48	鱈
+鱒-HyougaiKaisho	U+9c52	鱒
+鱒-Hyougai	U+9c52	鱒
+鱒-Kaisho	U+9c52	鱒
+U+9c52	鱒
+U+9c57	鱗
+鱚-Kaisho	U+9c5a	鱚
+U+9c5a	鱚
+鱠-Kaisho	U+9c60	鱠
+U+9c60	鱠
+鱧-Kaisho	U+9c67	鱧
+鱧-KaishoVtLst	U+9c67	鱧
+U+9c67	鱧
+鱶-Kaisho	U+9c76	鱶
+鱶-KaishoVtLst	U+9c76	鱶
+U+9c76	鱶
+鱸-KaishoHzFstLeRi	U+9c78	鱸
+鱸-KaishoHzFstRiLe	U+9c78	鱸
+鱸-Kaisho	U+9c78	鱸
+鱸-KaishoVtFstRiLe	U+9c78	鱸
+U+9c78	鱸
+鳥-Kaisho	U+9ce5	鳥
+U+9ce5	鳥
+鳧-Kaisho	U+9ce7	鳧
+U+9ce7	鳧
+鳩-Kaisho	U+9ce9	鳩
+U+9ce9	鳩
+鳫-Kaisho	U+9ceb	鳫
+U+9ceb	鳫
+鳬-Kaisho	U+9cec	鳬
+U+9cec	鳬
+鳰-Kaisho	U+9cf0	鳰
+U+9cf0	鳰
+鳳-Kaisho	U+9cf3	鳳
+U+9cf3	鳳
+鳴-Kaisho	U+9cf4	鳴
+U+9cf4	鳴
+鳶-Kaisho	U+9cf6	鳶
+U+9cf6	鳶
+鴃-Kaisho	U+9d03	鴃
+U+9d03	鴃
+鴆-Kaisho	U+9d06	鴆
+U+9d06	鴆
+鴇-Kaisho	U+9d07	鴇
+U+9d07	鴇
+鴈-Kaisho	U+9d08	鴈
+U+9d08	鴈
+鴉-HyougaiKaisho	U+9d09	鴉
+鴉-Hyougai	U+9d09	鴉
+U+9d09	鴉
+鴎-Kaisho	U+9d0e	鴎
+U+9d0e	鴎
+鴒-Insatsu	U+9d12	鴒
+鴒-Kaisho	U+9d12	鴒
+U+9d12	鴒
+鴕-Kaisho	U+9d15	鴕
+U+9d15	鴕
+鴛-Kaisho	U+9d1b	鴛
+U+9d1b	鴛
+鴟-Kaisho	U+9d1f	鴟
+U+9d1f	鴟
+鴣-Kaisho	U+9d23	鴣
+U+9d23	鴣
+鴦-Kaisho	U+9d26	鴦
+U+9d26	鴦
+鴨-Kaisho	U+9d28	鴨
+U+9d28	鴨
+鴪-Kaisho	U+9d2a	鴪
+U+9d2a	鴪
+鴫-Kaisho	U+9d2b	鴫
+U+9d2b	鴫
+鴬-Kaisho	U+9d2c	鴬
+U+9d2c	鴬
+鴻-Kaisho	U+9d3b	鴻
+U+9d3b	鴻
+鴾-Kaisho	U+9d3e	鴾
+U+9d3e	鴾
+鴿-Kaisho	U+9d3f	鴿
+U+9d3f	鴿
+鵁-Kaisho	U+9d41	鵁
+U+9d41	鵁
+鵄-Kaisho	U+9d44	鵄
+鵄-KaishoVtFst	U+9d44	鵄
+U+9d44	鵄
+鵆-Kaisho	U+9d46	鵆
+U+9d46	鵆
+鵈-Kaisho	U+9d48	鵈
+鵈-KaishoVt3	U+9d48	鵈
+U+9d48	鵈
+鵐-Kaisho	U+9d50	鵐
+U+9d50	鵐
+鵑-Kaisho	U+9d51	鵑
+U+9d51	鵑
+鵙-Kaisho	U+9d59	鵙
+U+9d59	鵙
+鵜-Kaisho	U+9d5c	鵜
+U+9d5c	鵜
+鵝-Kaisho	U+9d5d	鵝
+U+9d5d	鵝
+鵞-Kaisho	U+9d5e	鵞
+U+9d5e	鵞
+鵠-HyougaiKaisho	U+9d60	鵠
+鵠-Hyougai	U+9d60	鵠
+U+9d60	鵠
+鵡-KaishoHzFst	U+9d61	鵡
+鵡-Kaisho	U+9d61	鵡
+U+9d61	鵡
+鵤-Kaisho	U+9d64	鵤
+U+9d64	鵤
+鵬-Kaisho	U+9d6c	鵬
+U+9d6c	鵬
+鵯-Kaisho	U+9d6f	鵯
+U+9d6f	鵯
+鵲-Kaisho	U+9d72	鵲
+U+9d72	鵲
+鵺-Kaisho	U+9d7a	鵺
+U+9d7a	鵺
+鶇-Kaisho	U+9d87	鶇
+U+9d87	鶇
+鶉-Kaisho	U+9d89	鶉
+U+9d89	鶉
+鶏-Kaisho	U+9d8f	鶏
+U+9d8f	鶏
+鶚-Kaisho	U+9d9a	鶚
+U+9d9a	鶚
+鶤-Kaisho	U+9da4	鶤
+U+9da4	鶤
+鶩-Kaisho	U+9da9	鶩
+U+9da9	鶩
+鶫-Kaisho	U+9dab	鶫
+U+9dab	鶫
+鶯-Kaisho	U+9daf	鶯
+U+9daf	鶯
+鶲-Kaisho	U+9db2	鶲
+U+9db2	鶲
+鶴-Kaisho	U+9db4	鶴
+U+9db4	鶴
+鶸-Kaisho	U+9db8	鶸
+U+9db8	鶸
+鶺-Kaisho	U+9dba	鶺
+U+9dba	鶺
+鶻-KaishoHzFst	U+9dbb	鶻
+鶻-Kaisho	U+9dbb	鶻
+U+9dbb	鶻
+鷁-Kaisho	U+9dc1	鷁
+U+9dc1	鷁
+鷂-Kaisho	U+9dc2	鷂
+U+9dc2	鷂
+鷄-Kaisho	U+9dc4	鷄
+U+9dc4	鷄
+鷆-Kaisho	U+9dc6	鷆
+U+9dc6	鷆
+鷏-Kaisho	U+9dcf	鷏
+U+9dcf	鷏
+鷓-Kaisho	U+9dd3	鷓
+U+9dd3	鷓
+鷙-Kaisho	U+9dd9	鷙
+U+9dd9	鷙
+鷦-Kaisho	U+9de6	鷦
+U+9de6	鷦
+鷭-Kaisho	U+9ded	鷭
+U+9ded	鷭
+鷯-Kaisho	U+9def	鷯
+U+9def	鷯
+鷲-Kaisho	U+9df2	鷲
+U+9df2	鷲
+鷸-Kaisho	U+9df8	鷸
+U+9df8	鷸
+鷹-Kaisho	U+9df9	鷹
+U+9df9	鷹
+鷺-Kaisho	U+9dfa	鷺
+U+9dfa	鷺
+鷽-KaishoLeFst	U+9dfd	鷽
+鷽-Kaisho	U+9dfd	鷽
+U+9dfd	鷽
+鸚-Kaisho	U+9e1a	鸚
+U+9e1a	鸚
+鸛-Kaisho	U+9e1b	鸛
+U+9e1b	鸛
+U+9e1e	鸞
+U+9e75	鹵
+U+9e78	鹸
+U+9e79	鹹
+鹽-HzFst	U+9e7d	鹽
+U+9e7d	鹽
+鹿-Kaisho	U+9e7f	鹿
+U+9e7f	鹿
+麁-Kaisho	U+9e81	麁
+U+9e81	麁
+麈-Kaisho	U+9e88	麈
+麈-KaishoVtLst	U+9e88	麈
+U+9e88	麈
+麋-Kaisho	U+9e8b	麋
+U+9e8b	麋
+麌-Kaisho	U+9e8c	麌
+U+9e8c	麌
+麑-KaishoHzFst	U+9e91	麑
+麑-Kaisho	U+9e91	麑
+U+9e91	麑
+麒-Kaisho	U+9e92	麒
+U+9e92	麒
+麓-Kaisho	U+9e93	麓
+U+9e93	麓
+麕-Kaisho	U+9e95	麕
+U+9e95	麕
+麗-Kaisho	U+9e97	麗
+U+9e97	麗
+麝-Kaisho	U+9e9d	麝
+U+9e9d	麝
+U+9e9f	麟
+U+9ea5	麥
+U+9ea6	麦
+麦-VtLst	U+9ea6	麦
+U+9ea9	麩
+U+9eaa	麪
+U+9ead	麭
+U+9eb8	麸
+麸-VtLst	U+9eb8	麸
+麹-Kaisho	U+9eb9	麹
+麹-KaishoVtLst	U+9eb9	麹
+U+9eb9	麹
+U+9eba	麺
+麺-VtLst	U+9eba	麺
+麻-Kaisho	U+9ebb	麻
+U+9ebb	麻
+麼-Kaisho	U+9ebc	麼
+U+9ebc	麼
+麾-Kaisho	U+9ebe	麾
+U+9ebe	麾
+麿-Kaisho	U+9ebf	麿
+U+9ebf	麿
+U+9ec3	黃
+U+9ec4	黄
+黄-VtLst	U+9ec4	黄
+黌-LeFst	U+9ecc	黌
+U+9ecc	黌
+U+9ecd	黍
+黎-Kaisho	U+9ece	黎
+U+9ece	黎
+黏-HzFst	U+9ecf	黏
+U+9ecf	黏
+U+9ed0	黐
+U+9ed1	黑
+黒-Kaisho	U+9ed2	黒
+黒-KaishoVtLst	U+9ed2	黒
+U+9ed2	黒
+U+9ed4	黔
+黔-VtLst	U+9ed4	黔
+U+9ed8	默
+默-VtLst	U+9ed8	默
+黙-Kaisho	U+9ed9	黙
+黙-KaishoVtLst	U+9ed9	黙
+U+9ed9	黙
+黛-Kaisho	U+9edb	黛
+黛-KaishoVtLst	U+9edb	黛
+U+9edb	黛
+U+9edc	黜
+黜-VtLst	U+9edc	黜
+U+9edd	黝
+黝-VtLst	U+9edd	黝
+點-HzFst	U+9ede	點
+U+9ede	點
+點-VtLstHzFst	U+9ede	點
+點-VtLst	U+9ede	點
+U+9ee0	黠
+黠-VtLst	U+9ee0	黠
+黥-Kaisho	U+9ee5	黥
+黥-KaishoVtLst	U+9ee5	黥
+U+9ee5	黥
+U+9ee8	黨
+黨-VtLst	U+9ee8	黨
+黯-Kaisho	U+9eef	黯
+黯-KaishoVtLst	U+9eef	黯
+U+9eef	黯
+U+9ef4	黴
+黴-VtLst	U+9ef4	黴
+黶-Kaisho	U+9ef6	黶
+黶-KaishoVtLst	U+9ef6	黶
+U+9ef6	黶
+黷-Kaisho	U+9ef7	黷
+黷-KaishoVtLst	U+9ef7	黷
+U+9ef7	黷
+U+9ef9	黹
+U+9efb	黻
+黼-Kaisho	U+9efc	黼
+U+9efc	黼
+U+9efd	黽
+鼇-Kaisho	U+9f07	鼇
+U+9f07	鼇
+U+9f08	鼈
+鼎-Kaisho	U+9f0e	鼎
+U+9f0e	鼎
+U+9f13	鼓
+U+9f15	鼕
+鼠-HzFst	U+9f20	鼠
+U+9f20	鼠
+鼡-Kaisho	U+9f21	鼡
+U+9f21	鼡
+鼬-KaishoHzFst	U+9f2c	鼬
+鼬-Kaisho	U+9f2c	鼬
+U+9f2c	鼬
+鼻-Kaisho	U+9f3b	鼻
+U+9f3b	鼻
+鼾-Kaisho	U+9f3e	鼾
+U+9f3e	鼾
+齊-Kaisho	U+9f4a	齊
+齊-KaishoVt12	U+9f4a	齊
+U+9f4a	齊
+齋-Kaisho	U+9f4b	齋
+齋-KaishoVt12	U+9f4b	齋
+U+9f4b	齋
+齎-Kaisho	U+9f4e	齎
+U+9f4e	齎
+齏-Kaisho	U+9f4f	齏
+U+9f4f	齏
+齒-HzFst	U+9f52	齒
+U+9f52	齒
+齔-HzFst	U+9f54	齔
+U+9f54	齔
+齟-KaishoHzFst	U+9f5f	齟
+齟-Kaisho	U+9f5f	齟
+U+9f5f	齟
+齠-HzFst	U+9f60	齠
+U+9f60	齠
+齡-HzFst	U+9f61	齡
+齡-Insatsu	U+9f61	齡
+U+9f61	齡
+齢-HzFst	U+9f62	齢
+齢-Insatsu	U+9f62	齢
+U+9f62	齢
+齣-HzFst	U+9f63	齣
+U+9f63	齣
+齦-KaishoHzFst	U+9f66	齦
+齦-Kaisho	U+9f66	齦
+U+9f66	齦
+齧-HzFst	U+9f67	齧
+U+9f67	齧
+齪-HzFst	U+9f6a	齪
+U+9f6a	齪
+齬-HzFst	U+9f6c	齬
+U+9f6c	齬
+齲-HzFst	U+9f72	齲
+U+9f72	齲
+齶-HzFst	U+9f76	齶
+U+9f76	齶
+齷-HzFst	U+9f77	齷
+齷-HzFstVtFst	U+9f77	齷
+U+9f77	齷
+齷-VtFst	U+9f77	齷
+龍-Kaisho	U+9f8d	龍
+U+9f8d	龍
+龕-Kaisho	U+9f95	龕
+U+9f95	龕
+U+9f9c	龜
+龝-Kaisho	U+9f9d	龝
+U+9f9d	龝
+龠-Kaisho	U+9fa0	龠
+U+9fa0	龠
+U+f92e	冷
+U+f9a8	令
+U+f9ab	嶺
+U+f9ad	玲
+U+f9af	羚
+U+f9b0	聆
+U+f9b1	鈴
+U+f9b2	零
+U+f9b4	領
+U+ff01	！
+U+ff0c	，
+U+ff0e	．
+U+ff10	０
+U+ff11	１
+U+ff12	２
+U+ff13	３
+U+ff14	４
+U+ff15	５
+U+ff16	６
+U+ff17	７
+U+ff18	８
+U+ff19	９
+U+ff1a	：
+U+ff1b	；
+U+ff1f	？
+U+ff21	Ａ
+U+ff22	Ｂ
+U+ff23	Ｃ
+U+ff24	Ｄ
+U+ff25	Ｅ
+U+ff26	Ｆ
+U+ff27	Ｇ
+U+ff28	Ｈ
+U+ff29	Ｉ
+U+ff2a	Ｊ
+U+ff2b	Ｋ
+U+ff2c	Ｌ
+U+ff2d	Ｍ
+U+ff2e	Ｎ
+U+ff2f	Ｏ
+U+ff30	Ｐ
+U+ff31	Ｑ
+U+ff32	Ｒ
+U+ff33	Ｓ
+U+ff34	Ｔ
+U+ff35	Ｕ
+U+ff36	Ｖ
+U+ff37	Ｗ
+U+ff38	Ｘ
+U+ff39	Ｙ
+U+ff3a	Ｚ
+U+ff41	ａ
+U+ff42	ｂ
+U+ff43	ｃ
+U+ff44	ｄ
+U+ff45	ｅ
+U+ff46	ｆ
+U+ff47	ｇ
+U+ff48	ｈ
+U+ff49	ｉ
+U+ff4a	ｊ
+U+ff4b	ｋ
+U+ff4c	ｌ
+U+ff4d	ｍ
+U+ff4e	ｎ
+U+ff4f	ｏ
+U+ff50	ｐ
+U+ff51	ｑ
+U+ff52	ｒ
+U+ff53	ｓ
+U+ff54	ｔ
+U+ff55	ｕ
+U+ff56	ｖ
+U+ff57	ｗ
+U+ff58	ｘ
+U+ff59	ｙ
+U+ff5a	ｚ
