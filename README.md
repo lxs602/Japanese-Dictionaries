@@ -8,12 +8,13 @@ A small collection of free East Asian (CJKVT) Dictionaries, for use with diction
 - <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries#%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8-unihan-character-dictionary>Unihan character dictionary 統一漢字典</a>
 - <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries#cjkvi-decomposition>CJKVI character decompositions</a>
 - <a href=https://github.com/lxs602/East-Asian-Dictionaries/tree/main/KanjiVG%20Stroke%20Animations>KanjiVG Stoke Animations</a>
-- <a href=https://github.com/lxs602/East-Asian-Dictionaries/blob/main/%E6%97%A5%E6%96%87%E4%BA%BA%E5%90%8D%20Japanese%20names/README.md>日文人名 Japanese names</a>
+- <a href=https://github.com/lxs602/East-Asian-Dictionaries/blob/main/%E6%97%A5%E6%96%87%E4%BA%BA%E5%90%8D%20Japanese%20names/README.md>日文人名 Japanese names</a><br><br>
 
 
 ## KanjiVG Stoke Animations
 	
-A dictionary of 10,000 kanji animations, from images by <a href=https://github.com/KanjiVG/kanjivg>KanjiVG</a>.
+A dictionary of 10,000 kanji animations, from images by <a href=https://github.com/KanjiVG/kanjivg>KanjiVG</a>. See the <a href=https://github.com/lxs602/East-Asian-Dictionaries/blob/main/KanjiVG%20Stroke%20Animations/README.md>Readme</a> for further details.<br><br>
+	
 
 ## Phonetic / Input Method dictionaries
 <b>Examples:</b><br>
