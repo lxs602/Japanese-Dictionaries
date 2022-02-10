@@ -13,7 +13,7 @@ A small collection of free East Asian (CJKVT) Dictionaries, for use with diction
 
 ## KanjiVG Stoke Animations
 	
-A dictionary of 10,000 kanji animations, from images by <a href=https://github.com/KanjiVG/kanjivg>KanjiVG</a>. See the <a href=https://github.com/lxs602/East-Asian-Dictionaries/blob/main/KanjiVG%20Stroke%20Animations/README.md>Readme</a> for further details.
+A dictionary of 10,000 kanji animations, from images by <a href=https://github.com/KanjiVG/kanjivg>KanjiVG</a>. <br><br>See the <a href=https://github.com/lxs602/East-Asian-Dictionaries/blob/main/KanjiVG%20Stroke%20Animations/README.md>Readme</a> for further details.
 ![image](https://user-images.githubusercontent.com/44102215/153455929-aec15875-86ca-4d72-92d6-b27d263d0ef1.png)
 <br><br>
 ## Phonetic / Input Method dictionaries
