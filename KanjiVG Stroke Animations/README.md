@@ -1,5 +1,5 @@
 <h1>About</h1>
-A dictionary of 10,000 Kanji stroke order animations.
+A dictionary of 10,000 Kanji stroke order animations.<br><br><br>
 
 <b>Source:</b>
 OrginKanjiVG images by Ulrich Apel (http://kanjivg.tagaini.net), downloaded from https://github.com/KanjiVG/kanjivg , 
