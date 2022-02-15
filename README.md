@@ -2,6 +2,7 @@
 
 A small collection of free Japanese dictionaries, for use with dictionary software such as Goldendict.
 
+## Contents
 - <a href=https://github.com/lxs602/East-Asian-Dictionaries#phonetic-and-input-methods-dictionaries>Japanese/Korean/Thai/Vietnamese Input Method / Phonetic dictionary<a/>
 - Kanjinetworks - Etymological Dictionary of Han Chinese Characters
 - <a href=https://github.com/lxs602/Chinese-Mandarin-Dictionaries#%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8-unihan-character-dictionary>Unihan character dictionary 統一漢字典</a>
