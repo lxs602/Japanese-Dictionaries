@@ -16,7 +16,7 @@ A small collection of free Japanese dictionaries, for use with dictionary softwa
 A dictionary of 10,000 kanji animations, from images by <a href=https://github.com/KanjiVG/kanjivg>KanjiVG</a>. <br><br>See the <a href=https://github.com/lxs602/East-Asian-Dictionaries/blob/main/KanjiVG%20Stroke%20Animations/README.md>Readme</a> for further details.<br><br>
 ![image](https://user-images.githubusercontent.com/44102215/153455929-aec15875-86ca-4d72-92d6-b27d263d0ef1.png)
 <br><br>
-## Japanese and East Asian Phonetic / Input Method dictionaries
+## Japanese (and East Asian) phonetic dictionary
 
 <b>Examples:</b><br>
 <table border='1px' cellspacing=0 cellpadding=3></td></tr><tr align=center><td><b>Character</td><td>贈</b></td></tr><tr><td>Unicode 統一漢字</td><td>FAC1</td></tr><tr><td>한자 Hanja 韓文漢字輸入法</td><td>wmd</td></tr></td></tr><tr><td>かんじ Nippon 日文漢字輸入法</td><td>zou</td></tr></table>
