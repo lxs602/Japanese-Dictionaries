@@ -19,7 +19,7 @@ A dictionary of 10,000 kanji animations, from images by <a href=https://github.c
 ## Japanese (and East Asian) phonetic input dictionary
 
 <b>Examples:</b><br>
-<table border='1px' cellspacing=0 cellpadding=3></td></tr><tr align=center><td><b>Character</td><td>贈</b></td></tr><tr><td>Unicode 統一漢字</td><td>FAC1</td></tr><tr><td>한자 Hanja 韓文漢字輸入法</td><td>wmd</td></tr></td></tr><tr><td>かんじ Nippon 日文漢字輸入法</td><td>zou</td></tr></table>
+<table border='1px' cellspacing=0 cellpadding=3></td></tr><tr align=center><td><b>Character</td><td>贈</b></td></tr><tr><td>Unicode 統一漢字</td><td>FAC1</td></tr><tr><td>한자 Hanja<br>韓文漢字輸入法</td><td>wmd</td></tr></td></tr><tr><td>かんじ Nippon<br>日文漢字輸入法</td><td>zou</td></tr></table>
 <table border='1px' cellspacing=0 cellpadding=3></td></tr><tr><td align=center>Character</td><td bgcolor=pink style='padding: 10px 10px 10px 10px'><font size='+3'>ภ</font></td></tr><tr><td>Unicode 統一漢字</td><td>0E20</td></tr><tr><td>ภาษาไทย Thai<br>泰文輸入法</td><td>4</td></tr></table>
 <table border='1px' cellspacing=0 cellpadding=3></td></tr><tr><td align=center>Character</td><td bgcolor=pink style='padding: 10px 10px 10px 10px'><font size='+3'>읍</font></td></tr><tr><td>Unicode 統一漢字</td><td>C74D</td></tr><tr><td>한글 Hangul<br>韓語諺文輸入法</td><td>dmq</td></tr></td></tr><tr><td>한글 Hangul Romaja<br>韓語諺文輸入法</td><td>eub</td></tr></td></tr><tr><td>한자 Hanja<br>韓文漢字輸入法</td><td>dmq</td></tr></table>
 <br><br>
