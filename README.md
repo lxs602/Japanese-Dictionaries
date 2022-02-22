@@ -16,6 +16,7 @@ A small collection of free Japanese dictionaries, for use with dictionary softwa
 A dictionary of 10,000 kanji animations, from images by <a href=https://github.com/KanjiVG/kanjivg>KanjiVG</a>. <br><br>See the <a href=https://github.com/lxs602/East-Asian-Dictionaries/blob/main/KanjiVG%20Stroke%20Animations/README.md>Readme</a> for further details.<br><br>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/44102215/155219641-28411dc5-3c29-4432-86db-912a410fd35e.gif)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/44102215/155219647-c6ce2c68-d442-41aa-be11-c4dd3a0e3d98.gif)
+![new 3](https://user-images.githubusercontent.com/44102215/155220684-4d805e25-ea9a-4bc6-8040-eff22279c16a.gif)
 
 	
 <br><br>
